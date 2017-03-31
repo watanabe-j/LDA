@@ -1,0 +1,440 @@
+Written March 24, 2017 by Junya Watanabe
+
+This document describes functions used in the discriminant analyses in "Quantitative discrimination of flightlessness in fossil Anatidae from skeletal proportions" by Junya Watanabe.  Functions are included in another file (functions.R).
+
+
+
+##############################
+lda.c
+Function for linear discriminant analysis
+
+Usage:
+lda.c <- function(x, group, prior = table(group) / length(group),
+                  sub = 1:ncol(x), aic = TRUE, CV = FALSE, ...) 
+
+Arguments:
+x: Data frame (or matrix) containing the explanatory variables.
+group: A factor specifying the class for each observation.
+prior: A vector containing the prior probabilities of group memberships. If unspecified, the sample proportions are used.
+sub: A vector specifying subsets of variables; e.g., 2:5, -1, c(2, 4, 5).
+aic: Logical to specify if AICs are extracted.
+CV: Logical to specify if leave-one-out cross validation is conducted.
+
+Details:
+This function conducts the linear discriminant analysis that discriminates pairs of groups, rather than canonical discriminant analysis (as does lda, package MASS).  Some components may not work well for >2 groups.  Group assignments are based on posterior probability, which is calculated from priors and Mahalanobis squared distances from group means (assuming multivariate normality).
+The function primarily focuses on model selection.  Use argument sub to specify subsets of variables to be included in the analysis.
+AIC is extracted following Fujikoshi et al. (2010), which can be used for model selection among models with the same dataset.
+As another option, BIC is also calculated by replacing factor 2 on the parameter term by log(n).  MAIC, an umbiased estimator with large-sample approximation (as in AICc), and HAIC, an umbiased estimator with high-dimensional approximation, are calculated following Sakurai et al. (2013).
+A few Wilks' lambda statistics are returned, which are used in the print method for hypothesis-testing, although these tests may not be philosophically compatible with information theoretic approaches:
+- Wilks' lambda for test of the full model; null hypothesis is that the full set of variables does not contribute to discrimination between groups.
+- Wilks' lambda for test of the reduced model; null hypothesis is that the subset of variables used does not contribute to discrimination between groups.
+- Wilks' lambda for test of redundancy of variables omitted; null hypothesis is that conditional group means of the omitted variables given the included variables are identical across groups (and hence the omitted ones are redundant with the included ones).
+predict and print methods are almost same as in lda.  To apply the rule to new observations, use argument newdata to provide data frame or matrix.
+
+Value:
+prior: Vector of prior probabilities used.
+counts: Number of observations included in each group.
+means: Vector of group means of variables used in classification.
+original.means: Vector of group means of all variables in the dataset.
+d.function: Discriminant function that can be used to calculate discriminant scores.
+c.function. Classification function for groups; observations are classified into the group with smallest values of classification function.  In 2-groups cases, mostly redundant with the discriminant function.
+C: Adjustment term for priors.
+score.naive: Discriminant scores of training sample, before adjustment for priors.
+true.score: Discriminant scores of training sample, after adjustment for priors.
+scaled.coef: Discriminant coefficients scaled for standard deviations of variables.  Can be used to assess relative importance of variables.
+sub: Vector specifying subset of variables used in the analysis.
+lev: Vector giving names of groups.
+N: Sample size.
+x: The explanatory variables used in the analysis.
+gr: Vector of group memberships used in the analysis.
+W: Within-group sum of squares and cross-products (SSCP) matrix for all variables.
+W1: Within-group SSCP matrix for the subset of variables used.
+B: Between-group SSCP matrix for all variables.
+T: Total SSCP matrix for all variables.
+Lambda_full: Wilks' lambda statistic for test of the full model.
+Lambda_sub: Wilks' lambda statistic for test of the reduced model.
+Lambda_red: Wilks' lambda statistic for test of the redundancy of variables excluded.
+minus2.logL: -2 log(L), where L is the likelihood.
+AIC: AIC of the submodel.
+BIC: BIC of the submodel.
+MAIC: MAIC of the submodel.
+HAIC: HAIC of the submodel.
+CV: List of results of leave-one-out cross-validation.
+
+References:
+Fujikoshi, Y., Ulyanov, V. V. and Shimizu, R. (2010) Multivariate Statistics: High-Dimensional and Large-Sample Approximations. John Wiley & Sons.
+Sakurai, T., Nakada, T. and Fujikoshi, Y. (2013) High-dimensional AICs for selection of variables in discriminant analysis. Sankhya Ser. A: The Indian Journal of Statistics 75:1-25.
+
+
+
+
+##############################
+lda.ch
+High-speed version of lda.c
+
+Usage:
+lda.ch(x, group, prior = table(group) / length(group),
+       sub=1:ncol(x), CV = FALSE, ...)
+
+Arguments:
+As for lda.c.
+
+Details:
+This function is a (slightly) high-speed version of lda.c, intended to be used internally in other functions (primarily for bootstrapping).  The function does not return AIC or other statistics, but only those used in predict method.  As such, the results cannot be displayed with print method.
+
+Values:
+As for lda.c, though fewer.
+
+
+
+
+##############################
+predict.lda.c
+predict method of lda.c
+
+Usage:
+predict.lda.c(object, newdata, prior = object$prior, ...) 
+
+Arguments:
+object: lda.c object that is used for prediction.
+newdata: Data frame (or matrix) of new observations to be predicted.  Order of variables should be the same as given in the construction of the rule (otherwise results can be spurious).
+prior: Vector of prior probabilities.  If not specified, the one specified in construction of the rule is used.
+
+Details:
+This function is used to obtain classification results of lda.c.  If newdata is not given, those for training sample are returned.  When prediction is made for newdata, be sure to provide variables in the same order as in the original data.  The outcome is similar to that of predict.lda (package MASS).
+
+Value:
+class: Factor of classification results.
+posterior: Matrix of posterior probabilities for group assignments.
+score: Matrix of discriminant scores for each pair of groups.
+
+
+
+
+##############################
+lda.pc
+Linear discriminant analysis using principal components
+
+Usage:
+lda.pc(x, group, prior = table(group) / length(group), sub = 1:ncol(x), 
+       spc = seq_along(ncol(x[, sub])), aic = TRUE, CV = FALSE, ...)
+
+Arguments:
+spc: Subsets of principal component scores to be included in discrimination.
+Other arguments are as in lda.c.
+
+Details:
+This function first conducts principal component analysis from subsets of variables specified (specified by argument sub), and conduct linear discriminant analysis from subsets of principal component scores (specified by argument spc).  The discriminant coefficients are subsequently transformed to those for original scale.
+PCs are extracted from within-group variance-covariance matrix of variables which is used in the LDA.
+Size-corrected LDA is conducted when log-transformed measurement variables and PC1 (size component) is excluded from the analysis.
+Although AICs are returned, they are not designed for evaluations of LDA based on PC scores, hence generally of little value.  Also, hypothesis testing conducted in print method may not be accurate.
+
+Values:
+d.function, c.function, score.naive, true.score, scaled.coef: These values are not based on PC socres (and hence completely identical with those in lda.c).
+spc: Subset of PCs used for discrimination.
+Lambda_full, Lambda_sub, Lambda_red: Wilks' lambda statistics for test of significance of the model with full set of PCs, the chosen set of PCs, and the omitted set of PCs, respectively.
+e.vector: Eigenvector matrix of subsets of variables.
+e.value: Eigenvalues corresponding to e.vector.
+W.pc, W1.pc, d.function.pc, c.function.pc, score.naive.pc, true.score.pc, scaled.coef.pc: These are PC equivalents to those in lda.c, just returned for completeness.
+pc.score: Matrix of complete set of PC scores.
+means.pc: Group means of PC scores used for discrimination.
+original.means.pc: Group means of all PC scores.
+d.function.or, c.function.or, score.naive.or, true.score.or, scaled.coef.or: These are based on the specified subset of PCs transformed to the original scale, and the ones mainly of concern.
+angle: Angle (in degree) between the original discriminant vector and the one based on the specified subset of PCs.
+Other values are as in lda.c.
+
+
+
+
+##############################
+lda.pch
+Faster version of lda.pc
+
+Usage:
+lda.pch(x, group, prior = table(group) / length(group), sub = 1:ncol(x), 
+        spc = seq_along(ncol(x[, sub])), CV = FALSE, ...)
+
+Arguments:
+As in lda.pc.
+
+Details:
+This function is a (slightly) faster version of lda.pc, as is lda.ch for lda.c.  Aimed to be used in bootstrapping.  The results cannot be displayed with print method.
+
+Values:
+As in lda.pc.
+
+
+
+
+##############################
+predict.lda.pc
+predict method of lda.pc
+
+Usage:
+predict.lda.pc(object, newdata, prior = object$prior, ...)
+
+Arguments:
+object: lda.pc object to be used.
+Other arguments are as in predict.lda.c.
+
+Details:
+This is the predict method of lda.pc.  The usage is almost identical to that of predict.lda.c.  Internally, PC scores are newly calculated and used for prediction.
+
+Values:
+As in predict.lda.c
+
+
+
+
+##############################
+all.aic
+Comparing AIC (and others) among models
+
+Usage:
+all.aic(data, group, CV = FALSE, bcv = FALSE, B = FALSE, fixed = FALSE, 
+        seed = FALSE, save = FALSE, filename = "Temp_AIC") 
+
+Arguments:
+data, group: As in lda.c.
+CV: Logical to specify whether error rate estimation by leave-one-out cross validation is performed.
+bcv: Logical to specify whether error rate stiimation by bootstrap cross-validation is performed.
+B: Number of bootstrap replicates.  By default bootstrapping is suppressed.
+fixed: Logical to specify whether sample size of groups are fixed across bootstrap replicates (stratified bootstrap).
+seed: Number of random seed to be passed to set.seed.
+save: Logical to specify whether results are results are exported as a csv file during calculation.
+filename: File name of the csv file exported.
+
+Details:
+This function evaluates variates of AIC among all possible subsets of variables, using function lda.c.  When specified by arguments (CV, bcv, and B), various estimates of error rate are extracted using function Errors, which can also be compared among models.  All models with one or more variables are evaluated.  Results can be sorted in any of those criterion, and displayed with corresponding model formula (see print.all.aic).
+As number of variables get larger, time required to examine all models increases exponentially.  For example, evaluation of a dataset of 15 variables and 100 observations (without bootstrapping) takes a few minutes or so, but one with 20 variables would take ~2 hours or so.
+Criterions include:
+- AIC / deltaAIC
+- BIC / deltaBIC
+- MAIC / deltaMAIC
+- HAIC / deltaHAIC
+- Wilks' lambda
+- Leave-one-out cross-validation error rate (e.CV).
+- Bootstrap cross-validation error rate (e.BCV) (Fu et al., 2005).
+- Bootstrap bias-corrected error rate (e.BC.BS).
+- .632 error rate (e.632).
+- .632+ error rate (e.632plus) (Efron and Tibshirani, 1997).
+Extensive bootstrap replicates with all possible models would take a long time to be executed (remember number of possible models is 2^p - 1).  Models are evaluated one by one.  If save is enabled, results are exported at the end of evaluation of every model (as "filename.csv").
+
+Values:
+ans: Primary result that includes columns for criterions described above (depending on options).
+name: Names of variables used in print method.
+CV: Logical to denote whether leave-one-out was performed.
+B: Number of bootstrap replicates.  FALSE if suppressed.
+
+References:
+Efron, B. and Tibshirani, R. (1997) Improvements on cross-validation: the .632+ bootstrap method. Journal of the American Statistical Association 92:548-560.
+Fu, W. J., Carroll, R. J. and Wang, S. (2005) Estimating misclassification error with small samples via bootstrap cross-validation. Bioinformatics 21:1979-1986.
+Hand, D. J. (1997) Construction and Assessments of Classification Rules. John Wiley & Sons.
+
+
+
+
+##############################
+print.all.aic
+print method of all.aic
+
+Usage:
+print.all.aic(obj, method = "AIC")
+
+Arguments:
+obj: all.aic object.
+method: Used as sorting criterion.
+
+Details:
+The print method of all.aic returns results of all models automatically sorted.  method should be one of the column names of obj$ans.
+
+
+
+
+##############################
+all.aic.pc
+Comparing error rates among LDA models with PC scores
+
+Usage:
+all.aic.pc(data, group, spc = -1, CV = FALSE, bcv = FALSE, B = FALSE, 
+           fixed = FALSE, seed = FALSE, save = FALSE, filename = "Temp_AICpc")
+
+Arguments:
+spc: Vector to specify subsets of PCs, passed to lda.pc.  By default exclude PC1.
+Other arguments are as in all.aic.
+
+Details:
+This function compares all possible models of LDA based on (the same subset of) PC scores.  This is usugally used to compare size-corrected LDA models.  Unlike all.aic, models with only one variable are not evaluated.
+As described above, AIC and other information criteria cannot be evaluated for size-corrected models (as in the current version).  Thus, the main usage of this function is for comparison of error rates among size-corrected models.
+
+
+
+
+##############################
+all.coef
+Comparing discriminant coefficients among LDA models
+
+Usage: 
+all.coef(data, group, B = FALSE, fixed = FALSE, seed = FALSE)
+
+Arguments:
+As in all.aic.
+
+Details:
+This function extracts discriminant coefficients of all possible models with lda.c.  If number of bootstrap replicates is specified (argument B), 95% and 99% bootstrap percentile confidence intervals of coefficients are also returned.  To see the results,
+
+Values:
+ans: Data frame containing coefficients of all models, along with inclusion (TRUE/FALSE) of variables.
+CI95: Data frame including 95% bootstrap percentile confidence limits of coefficients.  "VARNAME.l" and "VARNAME.u" specifies lower and upper limits, respectively.
+CI99: Data frame including 99% bootstrap percentile confidence limits, as in CI95.  NULL is returned when B < 200.
+Other values are as in all.aic.
+
+
+
+
+##############################
+all.coef.pc
+Comparing discriminant coefficients among size-corrected LDA models
+
+Usage:
+all.coef.pc(data, group, B = FALSE, fixed = FALSE, seed = FALSE)
+
+Arguments:
+As in all.coef.
+
+Details:
+This function extracts discriminant coefficients of all possible size-corrected LDA models.  Only models with more than one variable are evaluated.
+
+Values:
+As in all.coef.
+
+
+
+
+##############################
+all.class
+Classification results with all possible LDA models
+
+Usage:
+all.class(data, group, newdata, CV = FALSE)
+
+Arguments:
+newdata: Data frame of new observations to be classified.
+CV: Logical to specify whether leave-one-out cross-validation is conducted.  Should be FALSE when newdata is given.
+Other arguments are as in all.aic.
+
+Details:
+This function returns classification results for observations given in argument newdata, from all possible models using lda.c.  If newdata is not specified, classification results for the training sample are returned.  In addition, when CV is set to TRUE, classification results of leave-one-out cross-validation is also returned.
+
+Values:
+ans: Data frame containing classification results across all models, along with variables included.  If CV is TRUE, results of leave-one-out cross-validation is also bound.
+name: As in all.aic.
+CV: Logical to indicate whether leave-one-out cross-validation was conducted.
+
+
+
+
+##############################
+all.class.pc
+Classification results with all possible size-corrected LDA models
+
+
+Usage:
+all.class.pc(data, group, newdata, CV = FALSE)
+
+Arguments:
+As in all.class.
+
+Details:
+This is a modified version of all.class with size-corrected LDA models.  Usage is exactly same as all.class.
+
+Values:
+As in all.class.
+
+
+
+
+##############################
+Errors
+Bootstrap error rate estimates of LDA
+
+Usage:
+Errors(x, group, fun = lda.ch, B = 1000, bcv = FALSE, fixed = FALSE, 
+       seed = FALSE, ...) {
+
+Argument:
+fun: Function to be used for prediction.  Should have predict method.  Currently only accommodates lda.c or lda.ch.
+Other arguments are as in all.aic (to be strict, arguments for all.aic is passed to this function).
+
+Details:
+This function is designed as an internal function used in all.aic, but can be used to obtain various estimates of error rates (all based on bootstraping).  As on the current version, only lda.c or lda.ch can be accommodated as an internal function used for prediction (the latter is recommended).  If argument sub is specified, this is passed to the internal function.
+
+Values:
+BCV.error.rate: Bootstrap cross-validation error rate (Fu et al., 2005).  NA if suppressed.
+BS.apparent.error: Average of apparent error rates in bootstrap replicates.  Used to calculate .632 error rates.  Of little value for itself.
+BC.BS.error.rate: Bootstrap bias-corrected error rate.
+BS632.error.rate: .632 error rate.
+BS632plus.error.rate: .632+ error rate (Efron and Tibshirani, 1997).
+
+
+
+
+##############################
+Errors.pc
+Bootstrap error rate estimates of size-corrected LDA
+
+Usage:
+Errors.pc(x, group, spc = -1, B = 1000, bcv = FALSE, fixed = FALSE,
+          seed = FALSE, ...)
+
+Arguments:
+As in all.aic.pc.
+
+Details:
+This function is designed as an internal function used in all.aic.pc, but can be used to obtain various estimates of error rates (all based on bootstraping) of size-corrected LDAs (and those with other sets of PC scores).  Usage is identical to that of Errors.
+
+Values:
+As in Errors.
+
+
+
+
+##############################
+Coef.B
+Error estimates of LDA coefficients with bootstrap
+
+Usage:
+Coef.B(x, group, sub = 1:ncol(x), B = 1000, fixed = FALSE, seed = FALSE)
+
+Arguments:
+As in lda.c or Errors.
+
+Details:
+This function is designed as an internal function used in all.coef, but can be used to obtain error estimates and confidence intervals of discriminant coefficients (based on bootstrap).
+This function depends on package rrcov.
+
+Values:
+vcov: Bootstrap variance-covariance matrix of coefficients.
+summary: Summary of distributions of coefficients.
+CI95: 95% percent bootstrap percentile confidence intervals of coefficients.
+CI99: 99% percent bootstrap percentile confidence intervals of coefficients.  NULL if B < 200.
+
+
+
+
+##############################
+Coef.pc.B
+Bootstrap error estimates of coefficients for PC-based LDA models.
+
+Usage:
+Coef.pc.B(x, group, sub = 1:ncol(x), spc = -1, B, fixed = FALSE, seed = FALSE)
+
+Arguments:
+As in Coef.B or lda.pc.
+
+Details:
+This function is designed as an internal function used in all.coef.pc, but can be used to obtain error estimates and confidence intervals of discriminant coefficients for PC-based LDA models (based on bootstrap).  By default, PC1 is excluded (hence size-corrected LDA is performed), but other sets can be evaluated.
+This function depends on package rrcov.
+
+Values:
+As in Coef.B.
