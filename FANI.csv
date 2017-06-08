@@ -1,0 +1,366 @@
+"SPL","FLIGHTLESS","REP","NO","SEX","CAPTIVE","COMPOSITE","LOC","CAR","HUM","ULN","CMC","FEM","TIB","TMT"
+"788","Cnemiornis_calcitrans",NA,"NHMUKP","3114","U",FALSE,TRUE,"New Zealand",NA,NA,NA,NA,NA,275,NA
+"789","Cnemiornis_calcitrans",NA,"NHMUKP","46586","U",FALSE,TRUE,"New Zealand",NA,NA,NA,NA,NA,266,NA
+"790","Cnemiornis_calcitrans",NA,"NHMUKP","46590","U",FALSE,TRUE,"New Zealand",NA,165.7,NA,NA,NA,NA,NA
+"791","Cnemiornis_calcitrans",NA,"NHMUKP","46591","U",FALSE,TRUE,"New Zealand",NA,NA,137.4,NA,NA,NA,NA
+"792","Cnemiornis_calcitrans",NA,"NHMUKP","46592","U",FALSE,TRUE,"New Zealand",NA,NA,NA,69.7,NA,NA,NA
+"793","Cnemiornis_calcitrans",NA,"NHMUKP","46596","U",FALSE,TRUE,"New Zealand",NA,162.7,NA,NA,NA,NA,NA
+"794","Cnemiornis_calcitrans",NA,"NHMUKP","A1517","U",FALSE,TRUE,"New Zealand",NA,160.9,NA,NA,NA,NA,NA
+"795","Cnemiornis_calcitrans",NA,"NHMUKP","A1517","U",FALSE,TRUE,"New Zealand",NA,NA,127.2,NA,NA,NA,NA
+"796","Cnemiornis_calcitrans",NA,"NHMUKP","A1517","U",FALSE,TRUE,"New Zealand",NA,NA,124,NA,NA,NA,NA
+"797","Cnemiornis_calcitrans",NA,"NHMUKP","A1517","U",FALSE,TRUE,"New Zealand",NA,NA,NA,69.6,NA,NA,NA
+"798","Cnemiornis_calcitrans",NA,"NHMUKP","A1517","U",FALSE,TRUE,"New Zealand",NA,NA,NA,66.8,NA,NA,NA
+"799","Cnemiornis_calcitrans",NA,"NHMUKP","A1518","U",FALSE,TRUE,"New Zealand",NA,NA,NA,NA,149.3,NA,NA
+"800","Cnemiornis_calcitrans",NA,"NHMUKP","A1518","U",FALSE,TRUE,"New Zealand",NA,NA,NA,NA,NA,NA,144.4
+"801","Cnemiornis_calcitrans",NA,"NHMUKP","A2077","U",FALSE,TRUE,"New Zealand",NA,NA,NA,NA,155,NA,NA
+"802","Cnemiornis_calcitrans",NA,"NHMUKP","A2077","U",FALSE,TRUE,"New Zealand",NA,NA,NA,NA,148.6,NA,NA
+"803","Branta_hylobadistes",NA,"BPBM","18515 or 419132","U",FALSE,FALSE,"Maui: Polipoli Cave",NA,116.7,102.9,61.7,78.4,142.9,NA
+"804","Branta_hylobadistes",NA,"BPBM","Branta #9","U",FALSE,FALSE,"Maui: Polipoli Cave",27.7,113.2,98.4,57.9,78.4,138.9,88.6
+"805","Branta_hylobadistes",NA,"USNMP","","U",FALSE,FALSE,"Maui: Hukihuki Cave",NA,NA,NA,56.1,73.4,NA,85.1
+"806","Branta_hylobadistes",NA,"USNMP","","U",FALSE,FALSE,"Maui: Lua Lepo",NA,NA,NA,64.8,NA,NA,NA
+"807","Branta_hylobadistes",NA,"USNMP","","U",FALSE,FALSE,"Maui: Lua Lepo",NA,NA,NA,78.6,73.8,NA,NA
+"808","Branta_hylobadistes",NA,"USNMP","","U",FALSE,FALSE,"Maui: Pu'u Makua Cave",NA,NA,NA,65.1,83,NA,NA
+"809","Branta_hylobadistes",NA,"USNMP","","U",FALSE,FALSE,"Maui: Pu'u Makua Cave",NA,115.1,NA,59.2,79.2,149.2,96.6
+"810","Branta_hylobadistes",NA,"USNMP","","U",FALSE,FALSE,"Maui: Pu'u Makua Cave",23.6,102.9,88,53.4,73.2,129.4,82.1
+"811","Branta_hylobadistes",NA,"USNMP","","U",FALSE,TRUE,"Maui: Lua Lepo",34.7,NA,NA,NA,NA,NA,NA
+"812","Branta_hylobadistes",NA,"USNMP","","U",FALSE,TRUE,"Maui: Lua Lepo",NA,NA,NA,62.4,NA,NA,NA
+"813","Branta_hylobadistes",NA,"USNMP","322600","U",FALSE,FALSE,"Auwahi Tube, Maui (U4)",26.4,125.9,108.4,63.7,NA,147.9,NA
+"814","Branta_hylobadistes",NA,"USNMP","322632","U",FALSE,FALSE,"U6A",NA,108.1,103.2,59.5,74.9,137.4,86
+"815","Branta_hylobadistes",NA,"USNMP","384064","U",FALSE,TRUE,"Auwahi Tube, Maui",NA,NA,NA,NA,79.5,NA,NA
+"816","Branta_hylobadistes",NA,"USNMP","384065","U",FALSE,TRUE,"Auwahi Tube, Maui",NA,NA,NA,NA,79.4,NA,NA
+"817","Branta_hylobadistes",NA,"USNMP","384066","U",FALSE,TRUE,"Auwahi Tube, Maui",NA,NA,NA,NA,83.5,NA,NA
+"818","Branta_hylobadistes",NA,"USNMP","3840669","U",FALSE,TRUE,"Auwahi Tube, Maui",NA,NA,NA,NA,NA,NA,95.3
+"819","Branta_hylobadistes",NA,"USNMP","384068","U",FALSE,TRUE,"Auwahi Tube, Maui",NA,NA,NA,NA,NA,NA,90.4
+"820","Branta_hylobadistes",NA,"USNMP","384070","U",FALSE,TRUE,"Auwahi Tube, Maui",NA,NA,NA,NA,NA,NA,93.5
+"821","Branta_rhuax",NA,"BPBM","184218","U",FALSE,FALSE,"Hawaii: Puu Waawaa",NA,132.2,106,57.8,108.3,178.1,104.2
+"822","Branta_rhuax",NA,"BPBM","184422","U",FALSE,FALSE,"Umui'i Manu Cave",29.5,142,113.9,63,112.6,187.4,113.4
+"823","Branta_rhuax",NA,"BPBM","23","U",FALSE,FALSE,"Hawaii: Puu Waawaa",NA,NA,96.6,51.1,93.3,165.2,94.2
+"824","Branta_rhuax",NA,"BPBM","25","U",FALSE,FALSE,"Hawaii: Puu Waawaa",NA,129,105.9,59.3,106,182.8,111.6
+"825","Branta_rhuax",NA,"BPBM","29","U",FALSE,FALSE,"Hawaii: Puu Waawaa",NA,132.9,105.9,55.4,NA,NA,109.2
+"826","Branta_rhuax",NA,"USNMP","","U",FALSE,FALSE,"Hawaii:Old FWS Camp Cave Gate Entrance",NA,NA,84.8,52,102.7,170.8,NA
+"827","Branta_rhuax",NA,"USNMP","","U",FALSE,FALSE,"Hawaii:Old FWS Camp Cave Tree Fern Entrance",NA,129.2,98.9,53,106.4,181.5,105.7
+"828","Branta_rhuax",NA,"USNMP","","U",FALSE,FALSE,"Hawaii:Old FWS Camp Cave Tree Fern Entrance",NA,141,115.6,62.4,114,194.9,115.3
+"829","Branta_rhuax",NA,"USNMP","","U",FALSE,FALSE,"Hawaii:Old FWS Camp Cave Tree Fern Entrance",NA,136.8,NA,53,101.8,NA,104.8
+"830","Branta_rhuax",NA,"USNMP","","U",FALSE,FALSE,"Hawaii:Old FWS Camp Cave Tree Fern Entrance",NA,136.5,108.8,58.6,112.8,189.9,112.5
+"831","Branta_rhuax",NA,"USNMP","","U",FALSE,FALSE,"Hawaii:Umii Manu Cave",NA,127.2,97.9,54.8,105.8,184.2,108.3
+"832","Branta_rhuax",NA,"USNMP","","U",FALSE,FALSE,"Hawaii:Umii Manu Cave",NA,137.6,NA,61.2,103.7,185.7,113.8
+"833","Branta_rhuax",NA,"USNMP","","U",FALSE,FALSE,"Hawaii:Umii Manu Cave",NA,127.2,98.5,53,103.1,172.4,105.8
+"834","Chenonetta_finschi",NA,"NHMUKP","A2122a","U",FALSE,TRUE,"Earnsclough Cave, NZ",NA,89.1,NA,NA,NA,NA,NA
+"835","Chenonetta_finschi",NA,"NHMUKP","A2122b","U",FALSE,TRUE,"Earnsclough Cave, NZ",NA,87.8,NA,NA,NA,NA,NA
+"836","Chenonetta_finschi",NA,"NHMUKP","A2123a","U",FALSE,TRUE,"Te Aute, NZ",NA,90.4,NA,NA,NA,NA,NA
+"837","Chenonetta_finschi",NA,"NHMUKP","A2123b","U",FALSE,TRUE,"Te Aute, NZ",NA,89.8,NA,NA,NA,NA,NA
+"838","Chenonetta_finschi",NA,"NHMUKP","A2123c","U",FALSE,TRUE,"Te Aute, NZ",NA,86.8,NA,NA,NA,NA,NA
+"839","Chenonetta_finschi",NA,"NHMUKP","A2123d","U",FALSE,TRUE,"Te Aute, NZ",NA,90.3,NA,NA,NA,NA,NA
+"840","Chenonetta_finschi",NA,"NHMUKP","A2124","U",FALSE,TRUE,"Te Aute, NZ",NA,NA,NA,NA,64.1,NA,NA
+"841","Chenonetta_finschi",NA,"NHMUKP","A2125","U",FALSE,TRUE,"Earnsclough Cave, NZ",NA,NA,NA,NA,66.1,NA,NA
+"842","Chenonetta_finschi",NA,"NHMUKP","A2127a","U",FALSE,TRUE,"Pleistocene cave, NZ",NA,NA,NA,NA,NA,94.5,NA
+"843","Chenonetta_finschi",NA,"NHMUKP","A2127b","U",FALSE,TRUE,"Pleistocene cave, NZ",NA,NA,NA,NA,NA,92.3,NA
+"844","Chenonetta_finschi",NA,"NHMUKP","A2127c","U",FALSE,TRUE,"Pleistocene cave, NZ",NA,NA,NA,NA,NA,94.3,NA
+"845","Chenonetta_finschi",NA,"NHMUKP","A2128","U",FALSE,TRUE,"Paramata, NZ",NA,NA,NA,NA,NA,92.8,NA
+"846","Chenonetta_finschi",NA,"NHMUKP","A2129","U",FALSE,TRUE,"Earnsclough Cave, NZ",NA,NA,NA,NA,NA,92.3,NA
+"847","Chenonetta_finschi",NA,"NHMUKP","A2129","U",FALSE,TRUE,"Earnsclough Cave, NZ",NA,NA,NA,NA,NA,96.6,NA
+"848","Chenonetta_finschi",NA,"NHMUKP","A2129","U",FALSE,TRUE,"Earnsclough Cave, NZ",NA,NA,NA,NA,NA,100.3,NA
+"849","Chenonetta_finschi",NA,"NHMUKP","A2129","U",FALSE,TRUE,"Earnsclough Cave, NZ",NA,NA,NA,NA,NA,104.2,NA
+"850","Chenonetta_finschi",NA,"NHMUKP","A2129","U",FALSE,TRUE,"Earnsclough Cave, NZ",NA,NA,NA,NA,NA,97.2,NA
+"851","Chenonetta_finschi",NA,"NHMUKP","A2130","U",FALSE,TRUE,"Earnsclough Cave, NZ",NA,NA,NA,NA,NA,NA,52.7
+"852","Chenonetta_finschi",NA,"NHMUKP","A69","U",FALSE,TRUE,"Earnsclough, Otago, NZ",NA,86.4,73.3,45.5,NA,NA,NA
+"853","Chenonetta_finschi",NA,"NHMUKP","R6575","U",FALSE,TRUE,"Hamilton's Cave, NZ [?= Earnsclough Cave, Otago]",NA,NA,NA,NA,NA,92.4,NA
+"854","Ptaiochen_pau",NA,"USNMP","","U",FALSE,FALSE,"Maui: Hukihuki Cave",NA,50.9,34.4,NA,100,155.7,87.2
+"855","Ptaiochen_pau",NA,"USNMP","","U",FALSE,FALSE,"Maui: Hukihuki Cave",NA,55,NA,19,91.3,144,NA
+"856","Ptaiochen_pau",NA,"USNMP","","U",FALSE,FALSE,"Maui: Lua Mau",NA,55.5,NA,NA,NA,NA,NA
+"857","Ptaiochen_pau",NA,"USNMP","","U",FALSE,FALSE,"Maui: Pu'u Makua Cave",NA,57.9,NA,NA,105,148.5,85.2
+"858","Ptaiochen_pau",NA,"USNMP","","U",FALSE,FALSE,"Maui: Pu'u Makua Cave",NA,55.8,NA,NA,NA,NA,NA
+"859","Ptaiochen_pau",NA,"USNMP","","U",FALSE,FALSE,"Maui: Pu'u Makua Cave",NA,50.4,NA,NA,102.8,NA,88.5
+"860","Ptaiochen_pau",NA,"USNMP","","U",FALSE,FALSE,"Maui: Pu'u Makua Cave",NA,NA,NA,NA,97.9,NA,84.3
+"861","Ptaiochen_pau",NA,"USNMP","","M",FALSE,FALSE,"Maui: Pu'u Makua Cave",NA,52.8,NA,NA,104.8,155.8,NA
+"862","Ptaiochen_pau",NA,"USNMP","","U",FALSE,FALSE,"Maui: Pu'u Makua Cave",NA,55,36.5,NA,NA,139.2,83.2
+"863","Ptaiochen_pau",NA,"USNMP","","U",FALSE,FALSE,"Maui: Pu'u Makua Cave",NA,56.9,37.9,20.1,103,NA,NA
+"864","Ptaiochen_pau",NA,"USNMP","","U",FALSE,FALSE,"Maui: Pu'u Makua Cave",NA,48.2,NA,NA,90.1,138.8,78
+"865","Ptaiochen_pau",NA,"USNMP","","U",FALSE,FALSE,"Maui: Auwahi Cave",NA,NA,NA,NA,96.9,NA,NA
+"866","Ptaiochen_pau",NA,"USNMP","","U",FALSE,TRUE,"Maui: Finch Cave",NA,52.3,NA,NA,NA,NA,NA
+"867","Ptaiochen_pau",NA,"USNMP","","U",FALSE,TRUE,"Maui: Pu'u Makua Cave",NA,53.9,NA,NA,NA,NA,NA
+"868","Ptaiochen_pau",NA,"USNMP","","U",FALSE,TRUE,"Maui: Pu'u Makua Cave",NA,51.7,NA,NA,NA,NA,NA
+"869","Ptaiochen_pau",NA,"USNMP","","U",FALSE,TRUE,"Maui: Finch Cave",NA,NA,36.6,NA,NA,NA,NA
+"870","Ptaiochen_pau",NA,"USNMP","","U",FALSE,TRUE,"Maui: Finch Cave",NA,NA,NA,NA,102,NA,NA
+"871","Ptaiochen_pau",NA,"USNMP","","U",FALSE,TRUE,"Maui: Finch Cave",NA,NA,NA,NA,105,NA,NA
+"872","Ptaiochen_pau",NA,"USNMP","","U",FALSE,TRUE,"Maui: Pu'u Makua Cave",NA,NA,NA,NA,97.9,NA,NA
+"873","Ptaiochen_pau",NA,"USNMP","","U",FALSE,TRUE,"Maui: Pu'u Makua Cave",NA,NA,NA,NA,99.6,NA,NA
+"874","Ptaiochen_pau",NA,"USNMP","","U",FALSE,TRUE,"Maui: Pu'u Makua Cave",NA,NA,NA,NA,97.1,NA,NA
+"875","Ptaiochen_pau",NA,"USNMP","","U",FALSE,TRUE,"Maui: Pu'u Makua Cave",NA,NA,NA,NA,NA,146.7,NA
+"876","Ptaiochen_pau",NA,"USNMP","","U",FALSE,TRUE,"Maui: Finch Cave",NA,NA,NA,NA,NA,NA,84.2
+"877","Ptaiochen_pau",NA,"USNMP","322348","U",FALSE,TRUE,"Maui: Auwahi Cave",NA,NA,NA,NA,NA,133.8,NA
+"878","Ptaiochen_pau",NA,"USNMP","322349","U",FALSE,TRUE,"Maui: Auwahi Cave",NA,NA,NA,NA,NA,156.7,NA
+"879","Ptaiochen_pau",NA,"USNMP","322554","U",FALSE,FALSE,"Maui: Auwahi Cave",NA,53.1,NA,NA,97.3,144,NA
+"880","Ptaiochen_pau",NA,"USNMP","322582-370590","U",FALSE,FALSE,"Maui: Auwahi Cave",NA,54.3,34.3,NA,NA,144.9,82.8
+"881","Ptaiochen_pau",NA,"USNMP","322592","U",FALSE,FALSE,"Maui: Auwahi Cave",NA,53.3,34.6,17.6,94.8,146,83.6
+"882","Ptaiochen_pau",NA,"USNMP","322622","U",FALSE,TRUE,"Maui: Auwahi Cave",0.1,NA,NA,NA,NA,NA,NA
+"883","Ptaiochen_pau",NA,"USNMP","322626-628","U",FALSE,FALSE,"Maui: Auwahi Cave",NA,NA,NA,NA,96.5,147.8,83.9
+"884","Ptaiochen_pau",NA,"USNMP","322649","U",FALSE,FALSE,"Maui: Auwahi Tube",NA,46,32.5,18.5,87.3,141,78.9
+"885","Ptaiochen_pau",NA,"USNMP","322774","U",FALSE,TRUE,"Maui: Auwahi Cave",NA,NA,NA,NA,NA,NA,77.3
+"886","Thambetochen_chauliodous",NA,"USNMP","","U",FALSE,FALSE,"Maui: Kiakeana Cave",NA,57.4,NA,NA,NA,NA,NA
+"887","Thambetochen_chauliodous",NA,"USNMP","","U",FALSE,FALSE,"Maui: Kiakeana Cave",NA,54,NA,NA,92.5,148,NA
+"888","Thambetochen_chauliodous",NA,"USNMP","","U",FALSE,FALSE,"Maui: Kiakeana Cave",NA,55.8,40.7,18.7,NA,NA,NA
+"889","Thambetochen_chauliodous",NA,"USNMP","","U",FALSE,FALSE,"Maui: Lua Lepo",NA,54.4,NA,19.4,98,151,83.8
+"890","Thambetochen_chauliodous",NA,"USNMP","","U",FALSE,FALSE,"Maui: Lua Lepo",NA,NA,NA,NA,97.1,NA,85
+"891","Thambetochen_chauliodous",NA,"USNMP","","U",FALSE,FALSE,"Maui: Lua Lepo",NA,NA,40,NA,NA,NA,87.8
+"892","Thambetochen_chauliodous",NA,"USNMP","","U",FALSE,FALSE,"Maui: Lua Lepo",NA,61,42.6,NA,NA,NA,NA
+"893","Thambetochen_chauliodous",NA,"USNMP","","U",FALSE,FALSE,"Maui: Lua Lepo",NA,57.7,39.8,NA,101.2,NA,NA
+"894","Thambetochen_chauliodous",NA,"USNMP","","U",FALSE,FALSE,"Maui: Lua Lepo",NA,NA,38.8,18,NA,NA,87.9
+"895","Thambetochen_chauliodous",NA,"USNMP","","U",FALSE,FALSE,"Maui: Lua Lepo",NA,59.3,NA,NA,NA,162.2,NA
+"896","Thambetochen_chauliodous",NA,"USNMP","","U",FALSE,FALSE,"Maui: Lua Lepo",NA,57.3,NA,NA,NA,NA,NA
+"897","Thambetochen_chauliodous",NA,"USNMP","","U",FALSE,FALSE,"Maui: Lua Lepo",NA,NA,NA,NA,NA,NA,86.2
+"898","Thambetochen_chauliodous",NA,"USNMP","","U",FALSE,FALSE,"Maui: Lua Lepo",NA,52.8,NA,NA,NA,NA,NA
+"899","Thambetochen_chauliodous",NA,"USNMP","","U",FALSE,FALSE,"Maui: Lua Lepo",NA,58.7,NA,NA,NA,NA,NA
+"900","Thambetochen_chauliodous",NA,"USNMP","","U",FALSE,FALSE,"Maui: Lua Lepo",NA,NA,NA,NA,105.7,163.2,NA
+"901","Thambetochen_chauliodous",NA,"USNMP","","U",FALSE,FALSE,"Maui: Pu'u Makua Cave",NA,56.8,41.5,NA,90.6,147.9,88.1
+"902","Thambetochen_chauliodous",NA,"USNMP","","U",FALSE,TRUE,"Maui: Lua Lepo",NA,53.9,NA,NA,NA,NA,NA
+"903","Thambetochen_chauliodous",NA,"USNMP","","U",FALSE,TRUE,"Maui: Lua Lepo",NA,52.6,NA,NA,NA,NA,NA
+"904","Thambetochen_chauliodous",NA,"USNMP","","U",FALSE,TRUE,"Maui: Lua Lepo",NA,52.5,NA,NA,NA,NA,NA
+"905","Thambetochen_chauliodous",NA,"USNMP","","U",FALSE,TRUE,"Maui: Lua Lepo",NA,55.3,NA,NA,NA,NA,NA
+"906","Thambetochen_chauliodous",NA,"USNMP","","U",FALSE,TRUE,"Maui: Lua Lepo",NA,58,NA,NA,NA,NA,NA
+"907","Thambetochen_chauliodous",NA,"USNMP","","U",FALSE,TRUE,"Maui: Lua Lepo",NA,58.6,NA,NA,NA,NA,NA
+"908","Thambetochen_chauliodous",NA,"USNMP","","U",FALSE,TRUE,"Maui: Lua Lepo",NA,60,NA,NA,NA,NA,NA
+"909","Thambetochen_chauliodous",NA,"USNMP","","U",FALSE,TRUE,"Maui: Lua Lepo",NA,60,NA,NA,NA,NA,NA
+"910","Thambetochen_chauliodous",NA,"USNMP","","U",FALSE,TRUE,"Maui: Lua Lepo",NA,55.5,NA,NA,NA,NA,NA
+"911","Thambetochen_chauliodous",NA,"USNMP","","U",FALSE,TRUE,"Maui: Lua Lepo",NA,56.2,NA,NA,NA,NA,NA
+"912","Thambetochen_chauliodous",NA,"USNMP","","U",FALSE,TRUE,"Maui: Lua Lepo",NA,55.6,NA,NA,NA,NA,NA
+"913","Thambetochen_chauliodous",NA,"USNMP","","U",FALSE,TRUE,"Maui: Lua Lepo",NA,51.9,NA,NA,NA,NA,NA
+"914","Thambetochen_chauliodous",NA,"USNMP","","U",FALSE,TRUE,"Maui: Lua Lepo",NA,129.4,NA,NA,NA,NA,NA
+"915","Thambetochen_chauliodous",NA,"USNMP","","U",FALSE,TRUE,"Maui: Pu'u Makua Cave",NA,50.6,NA,NA,NA,NA,NA
+"916","Thambetochen_chauliodous",NA,"USNMP","","U",FALSE,TRUE,"Maui: Lua Lepo",NA,NA,34.3,NA,NA,NA,NA
+"917","Thambetochen_chauliodous",NA,"USNMP","","U",FALSE,TRUE,"Maui: Lua Lepo",NA,NA,35,NA,NA,NA,NA
+"918","Thambetochen_chauliodous",NA,"USNMP","","U",FALSE,TRUE,"Maui: Lua Lepo",NA,NA,NA,19.4,NA,NA,NA
+"919","Thambetochen_chauliodous",NA,"USNMP","","U",FALSE,TRUE,"Maui: Lua Lepo",NA,NA,NA,20.9,NA,NA,NA
+"920","Thambetochen_chauliodous",NA,"USNMP","","U",FALSE,TRUE,"Maui: Lua Lepo",NA,NA,NA,20.3,NA,NA,NA
+"921","Thambetochen_chauliodous",NA,"USNMP","","U",FALSE,TRUE,"Maui: Lua Lepo",NA,NA,NA,NA,99.3,NA,NA
+"922","Thambetochen_chauliodous",NA,"USNMP","","U",FALSE,TRUE,"Maui: Lua Lepo",NA,NA,NA,NA,101.8,NA,NA
+"923","Thambetochen_chauliodous",NA,"USNMP","","U",FALSE,TRUE,"Maui: Lua Lepo",NA,NA,NA,NA,105.5,NA,NA
+"924","Thambetochen_chauliodous",NA,"USNMP","","U",FALSE,TRUE,"Maui: Pu'u Makua Cave",NA,NA,NA,NA,100.6,NA,NA
+"925","Thambetochen_chauliodous",NA,"USNMP","","U",FALSE,TRUE,"Maui: Pu'u Makua Cave",NA,NA,NA,NA,95.5,NA,NA
+"926","Thambetochen_chauliodous",NA,"USNMP","","U",FALSE,TRUE,"Maui: Lua Lepo",NA,NA,NA,NA,NA,NA,76.7
+"927","Thambetochen_chauliodous",NA,"USNMP","","U",FALSE,TRUE,"Maui: Lua Lepo",NA,NA,NA,NA,NA,NA,86.6
+"928","Thambetochen_chauliodous",NA,"USNMP","","U",FALSE,TRUE,"Maui: Lua Lepo",NA,NA,NA,NA,NA,NA,87.4
+"929","Thambetochen_chauliodous",NA,"USNMP","","U",FALSE,TRUE,"Maui: Lua Lepo",NA,NA,NA,NA,NA,NA,80.1
+"930","Thambetochen_chauliodous",NA,"USNMP","","U",FALSE,TRUE,"Maui: Lua Lepo",NA,NA,NA,NA,NA,NA,84.3
+"931","Thambetochen_chauliodous",NA,"USNMP","","U",FALSE,TRUE,"Maui: Lua Lepo",NA,NA,NA,NA,NA,NA,90.9
+"932","Thambetochen_chauliodous",NA,"USNMP","","U",FALSE,TRUE,"Maui: Lua Lepo",NA,NA,NA,NA,NA,NA,86.5
+"933","Thambetochen_chauliodous",NA,"USNMP","","U",FALSE,TRUE,"Maui: Lua Lepo",NA,NA,NA,NA,NA,NA,85.2
+"934","Thambetochen_chauliodous",NA,"USNMP","","U",FALSE,TRUE,"Maui: Lua Lepo",NA,NA,NA,NA,NA,NA,84.5
+"935","Thambetochen_chauliodous",NA,"USNMP","384031","U",FALSE,TRUE,"Maui: Auwahi Cave",NA,59.9,NA,NA,NA,NA,NA
+"936","Thambetochen_chauliodous",NA,"USNMP","384032","U",FALSE,TRUE,"Maui: Auwahi Cave",NA,53.8,NA,NA,NA,NA,NA
+"937","Thambetochen_chauliodous",NA,"USNMP","384034","U",FALSE,TRUE,"Maui: Auwahi Tube",NA,NA,NA,NA,100.8,NA,NA
+"938","Chendytes_lawi",NA,"LACMVP","","U",FALSE,TRUE,"San Miguel Island Daisy Cave",NA,NA,25.1,NA,NA,NA,NA
+"939","Chendytes_lawi",NA,"LACMVP","","U",FALSE,TRUE,"San Miguel Island Daisy Cave",NA,NA,NA,NA,75.4,NA,NA
+"940","Chendytes_lawi",NA,"LACMVP","","U",FALSE,TRUE,"San Miguel Island Daisy Cave",NA,NA,NA,NA,73.4,NA,NA
+"941","Chendytes_lawi",NA,"LACMVP","","U",FALSE,TRUE,"San Miguel Island Daisy Cave",NA,NA,NA,NA,69.7,NA,NA
+"942","Chendytes_lawi",NA,"LACMVP","","U",FALSE,TRUE,"San Miguel Island Daisy Cave",NA,NA,NA,NA,70.2,NA,NA
+"943","Chendytes_lawi",NA,"LACMVP","","U",FALSE,TRUE,"San Miguel Island Daisy Cave",NA,NA,NA,NA,69.2,NA,NA
+"944","Chendytes_lawi",NA,"LACMVP","","U",FALSE,TRUE,"San Miguel Island Daisy Cave",NA,NA,NA,NA,67.8,NA,NA
+"945","Chendytes_lawi",NA,"LACMVP","","U",FALSE,TRUE,"San Miguel Island Daisy Cave",NA,NA,NA,NA,73.2,NA,NA
+"946","Chendytes_lawi",NA,"LACMVP","","U",FALSE,TRUE,"San Miguel Island Daisy Cave",NA,NA,NA,NA,68.2,NA,NA
+"947","Chendytes_lawi",NA,"LACMVP","","U",FALSE,TRUE,"San Miguel Island Daisy Cave",NA,NA,NA,NA,74.3,NA,NA
+"948","Chendytes_lawi",NA,"LACMVP","","U",FALSE,TRUE,"San Miguel Island Daisy Cave",NA,NA,NA,NA,70.5,NA,NA
+"949","Chendytes_lawi",NA,"LACMVP","","U",FALSE,TRUE,"San Miguel Island Daisy Cave",NA,NA,NA,NA,68.1,NA,NA
+"950","Chendytes_lawi",NA,"LACMVP","","U",FALSE,TRUE,"San Miguel Island Daisy Cave",NA,NA,NA,NA,68.6,NA,NA
+"951","Chendytes_lawi",NA,"LACMVP","","U",FALSE,TRUE,"",NA,NA,NA,NA,15.3,NA,NA
+"952","Chendytes_lawi",NA,"LACMVP","","U",FALSE,TRUE,"San Miguel Island Daisy Cave",NA,NA,NA,NA,NA,NA,62.8
+"953","Chendytes_lawi",NA,"LACMVP","","U",FALSE,TRUE,"San Miguel Island Daisy Cave",NA,NA,NA,NA,NA,NA,67.1
+"954","Chendytes_lawi",NA,"LACMVP","","U",FALSE,TRUE,"",NA,NA,NA,NA,NA,NA,60.1
+"955","Chendytes_lawi",NA,"LACMVP","107230","U",FALSE,TRUE,"",NA,NA,NA,NA,NA,NA,68.1
+"956","Chendytes_lawi",NA,"LACMVP","107754","U",FALSE,TRUE,"Anacapa Island, Ventura Co.",NA,NA,NA,NA,75.1,NA,NA
+"957","Chendytes_lawi",NA,"LACMVP","107755","U",FALSE,TRUE,"Anacapa Island, Ventura Co.",NA,NA,NA,NA,68.3,NA,NA
+"958","Chendytes_lawi",NA,"LACMVP","107758","U",FALSE,TRUE,"Anacapa Island, Ventura Co.",NA,NA,NA,NA,NA,143,NA
+"959","Chendytes_lawi",NA,"LACMVP","107763","U",FALSE,TRUE,"Anacapa Island, Ventura Co.",NA,NA,NA,NA,NA,126.7,NA
+"960","Chendytes_lawi",NA,"LACMVP","107767","U",FALSE,TRUE,"Anacapa Island, Ventura Co.",NA,NA,NA,NA,69,NA,NA
+"961","Chendytes_lawi",NA,"LACMVP","107777","U",FALSE,TRUE,"Anacapa Island, Ventura Co.",NA,NA,NA,NA,69.1,NA,NA
+"962","Chendytes_lawi",NA,"LACMVP","115398","U",FALSE,TRUE,"Zuma Creek, Los Angeles Co.",NA,NA,NA,NA,NA,134.2,NA
+"963","Chendytes_lawi",NA,"LACMVP","115399","U",FALSE,TRUE,"Zuma Creek, Los Angeles Co.",NA,NA,NA,NA,70.6,NA,NA
+"964","Chendytes_lawi",NA,"LACMVP","13982","U",FALSE,TRUE,"Newport Bay Mesa",NA,NA,NA,NA,NA,129.3,NA
+"965","Chendytes_lawi",NA,"LACMVP","151865","U",FALSE,TRUE,"San Miguel Island Daisy Cave",NA,NA,NA,NA,69.2,NA,NA
+"966","Chendytes_lawi",NA,"LACMVP","151866","U",FALSE,TRUE,"San Miguel Island Daisy Cave",NA,NA,NA,NA,66,NA,NA
+"967","Chendytes_lawi",NA,"LACMVP","155044","U",FALSE,TRUE,"San Miguel Island Daisy Cave",NA,NA,NA,NA,NA,NA,69.9
+"968","Chendytes_lawi",NA,"LACMVP","155046","U",FALSE,TRUE,"San Miguel Island Daisy Cave",NA,NA,NA,NA,71.7,NA,NA
+"969","Chendytes_lawi",NA,"LACMVP","155047","U",FALSE,TRUE,"San Miguel Island Daisy Cave",NA,NA,NA,NA,75,NA,NA
+"970","Chendytes_lawi",NA,"LACMVP","155048","U",FALSE,TRUE,"San Miguel Island Daisy Cave",NA,61.2,NA,NA,NA,NA,NA
+"971","Chendytes_lawi",NA,"LACMVP","155048","U",FALSE,TRUE,"San Miguel Island Daisy Cave",NA,NA,NA,NA,72.1,NA,NA
+"972","Chendytes_lawi",NA,"LACMVP","2010","U",FALSE,TRUE,"San Pedro Lumber Yard",NA,NA,NA,NA,NA,151.6,NA
+"973","Chendytes_lawi",NA,"LACMVP","2011","U",FALSE,TRUE,"Boxby Slough",NA,NA,NA,NA,68.4,NA,NA
+"974","Chendytes_lawi",NA,"LACMVP","2015","U",FALSE,TRUE,"Newport Bay Mesa",NA,NA,NA,NA,70.5,NA,NA
+"975","Chendytes_lawi",NA,"LACMVP","2378","U",FALSE,TRUE,"San Nicolas Island",NA,NA,NA,NA,59.4,NA,NA
+"976","Chendytes_lawi",NA,"LACMVP","2618","U",FALSE,TRUE,"Newport Bay Mesa",NA,NA,NA,NA,NA,NA,64
+"977","Chendytes_lawi",NA,"LACMVP","2700","U",FALSE,TRUE,"Anacapa Island, Ventura Co.",3.6,NA,NA,NA,NA,NA,NA
+"978","Chendytes_lawi",NA,"LACMVP","2709","U",FALSE,TRUE,"Anacapa Island, Ventura Co.",NA,NA,NA,NA,70.8,NA,NA
+"979","Chendytes_lawi",NA,"LACMVP","2725","U",FALSE,TRUE,"Anacapa Island, Ventura Co.",11.1,NA,NA,NA,NA,NA,NA
+"980","Chendytes_lawi",NA,"LACMVP","2732","U",FALSE,TRUE,"Anacapa Island, Ventura Co.",NA,NA,NA,NA,72.6,NA,NA
+"981","Chendytes_lawi",NA,"LACMVP","2737","U",FALSE,TRUE,"Anacapa Island, Ventura Co.",NA,NA,NA,NA,NA,133.4,NA
+"982","Chendytes_lawi",NA,"LACMVP","2740","U",FALSE,TRUE,"Anacapa Island, Ventura Co.",NA,NA,NA,NA,74.4,NA,NA
+"983","Chendytes_lawi",NA,"LACMVP","2741","U",FALSE,TRUE,"Anacapa Island, Ventura Co.",NA,NA,NA,NA,NA,132,NA
+"984","Chendytes_lawi",NA,"LACMVP","2751","U",FALSE,TRUE,"Anacapa Island, Ventura Co.",NA,NA,NA,NA,NA,140.1,NA
+"985","Chendytes_lawi",NA,"LACMVP","2759","U",FALSE,TRUE,"Anacapa Island, Ventura Co.",NA,NA,NA,NA,69.3,NA,NA
+"986","Chendytes_lawi",NA,"LACMVP","2763","U",FALSE,TRUE,"Anacapa Island, Ventura Co.",NA,NA,NA,NA,69.7,NA,NA
+"987","Chendytes_lawi",NA,"LACMVP","31379","U",FALSE,TRUE,"Newport Bay Mesa",NA,NA,NA,NA,70.5,NA,NA
+"988","Chendytes_lawi",NA,"LACMVP","4868","U",FALSE,TRUE,"Anacapa Island, Ventura Co.",NA,68.3,NA,NA,NA,NA,NA
+"989","Chendytes_lawi",NA,"LACMVP","4869","U",FALSE,TRUE,"Anacapa Island, Ventura Co.",NA,NA,NA,NA,69.5,NA,NA
+"990","Chendytes_lawi",NA,"LACMVP","50563","U",FALSE,TRUE,"San Miguel Island",NA,NA,NA,NA,NA,149,NA
+"991","Chendytes_lawi",NA,"LACMVP","50570","U",FALSE,TRUE,"San Miguel Island",NA,NA,NA,NA,73.7,NA,NA
+"992","Chendytes_lawi",NA,"LACMVP","51941","U",FALSE,TRUE,"Anacapa Island, Ventura Co.",NA,NA,NA,NA,68.1,NA,NA
+"993","Chendytes_lawi",NA,"LACMVP","5531","U",FALSE,TRUE,"Anacapa Island, Ventura Co.",NA,NA,NA,NA,69.7,NA,NA
+"994","Chendytes_lawi",NA,"LACMVP","5536","U",FALSE,TRUE,"Anacapa Island, Ventura Co.",NA,NA,NA,24.4,NA,NA,NA
+"995","Chendytes_lawi",NA,"LACMVP","60637","U",FALSE,TRUE,"",NA,NA,NA,NA,12.4,NA,NA
+"996","Chendytes_lawi",NA,"LACMVP","992","U",FALSE,TRUE,"Lincoln Ave. (Del Rey)",NA,NA,NA,NA,75,NA,NA
+"997","Chendytes_lawi",NA,"LACMVP","993","U",FALSE,TRUE,"Lincoln Ave. (Del Rey)",NA,NA,NA,NA,NA,133.1,NA
+"998","Chendytes_lawi",NA,"LACMVP","CIT1670","U",FALSE,TRUE,"",NA,NA,NA,NA,NA,NA,63.7
+"999","Chendytes_lawi",NA,"SBMNH","1132","U",FALSE,TRUE,"California: Santa Barbara, San Miguel Island, Cuyler harbor, E end of W beach. 83 m",NA,62.6,NA,NA,NA,NA,NA
+"1000","Chendytes_lawi",NA,"SBMNH","1132","U",FALSE,TRUE,"California: Santa Barbara, San Miguel Island, Cuyler harbor, E end of W beach. 83 m",NA,67.9,NA,NA,NA,NA,NA
+"1001","Chendytes_lawi",NA,"SBMNH","1132","U",FALSE,TRUE,"California: Santa Barbara, San Miguel Island, Cuyler harbor, E end of W beach. 83 m",NA,71.1,NA,NA,NA,NA,NA
+"1002","Chendytes_lawi",NA,"SBMNH","1132","U",FALSE,TRUE,"California: Santa Barbara, San Miguel Island, Cuyler harbor, E end of W beach. 83 m",NA,74.1,NA,NA,NA,NA,NA
+"1003","Chendytes_lawi",NA,"SBMNH","1133","U",FALSE,TRUE,"California: Santa Barbara, San Miguel Island, Cuyler harbor, E end of W beach. 83 m",NA,NA,NA,NA,72.1,NA,NA
+"1004","Chendytes_lawi",NA,"SBMNH","1133","U",FALSE,TRUE,"California: Santa Barbara, San Miguel Island, Cuyler harbor, E end of W beach. 83 m",NA,NA,NA,NA,77.2,NA,NA
+"1005","Chendytes_lawi",NA,"SBMNH","1133","U",FALSE,TRUE,"California: Santa Barbara, San Miguel Island, Cuyler harbor, E end of W beach. 83 m",NA,NA,NA,NA,76.6,NA,NA
+"1006","Chendytes_lawi",NA,"SBMNH","1133","U",FALSE,TRUE,"California: Santa Barbara, San Miguel Island, Cuyler harbor, E end of W beach. 83 m",NA,NA,NA,NA,72.8,NA,NA
+"1007","Chendytes_lawi",NA,"SBMNH","1135","U",FALSE,TRUE,"California: Santa Barbara, San Miguel Island, Cuyler harbor, E end of W beach. 70 m",NA,NA,NA,NA,65.5,NA,NA
+"1008","Chendytes_lawi",NA,"SBMNH","206","U",FALSE,TRUE,"California: Santa Barbara, San Miguel Island, Cuyler harbor, E end of W beach. 111 m",NA,NA,NA,NA,74.8,NA,NA
+"1009","Chendytes_lawi",NA,"SBMNH","206","U",FALSE,TRUE,"California: Santa Barbara, San Miguel Island, Cuyler harbor, E end of W beach. 111 m",NA,NA,NA,NA,NA,152.6,NA
+"1010","Chendytes_lawi",NA,"SBMNH","206","U",FALSE,TRUE,"California: Santa Barbara, San Miguel Island, Cuyler harbor, E end of W beach. 111 m",NA,NA,NA,NA,NA,131.7,NA
+"1011","Chendytes_lawi",NA,"SBMNH","208","U",FALSE,TRUE,"California: Santa Barbara, San Miguel Island, Simonton Bone Canyon. 56 m",NA,NA,NA,NA,NA,NA,66.8
+"1012","Chendytes_lawi",NA,"SBMNH","210","U",FALSE,TRUE,"California: Santa Barbara, San Miguel Island, Airport Locality. 127 m",NA,NA,NA,NA,NA,NA,65.8
+"1013","Chendytes_lawi",NA,"SBMNH","211","U",FALSE,TRUE,"California: Santa Barbara, San Miguel Island, Cuyler harbor, E end of W beach. 83 m",NA,NA,NA,24,NA,NA,NA
+"1014","Chendytes_lawi",NA,"SBMNH","45","U",FALSE,TRUE,"California: Santa Barbara, San Miguel Island, Simonton Bone Canyon. 46 m",NA,NA,NA,NA,NA,148.3,NA
+"1015","Chendytes_lawi",NA,"SBMNH","516","U",FALSE,TRUE,"California: Santa Barbara, San Miguel Island, Airport Locality. 127 m",NA,68.3,NA,NA,NA,NA,NA
+"1016","Chendytes_lawi",NA,"SBMNH","517","U",FALSE,TRUE,"California: Santa Barbara, San Miguel Island, Canyon toward the SW of Simonton Cove. 52 m",NA,NA,NA,NA,NA,141.8,NA
+"1017","Chendytes_lawi",NA,"SBMNH","518","U",FALSE,TRUE,"California: Santa Barbara, San Miguel Island, Simonton Bone Canyon. 56 m",NA,NA,NA,NA,73.7,NA,NA
+"1018","Chendytes_lawi",NA,"SBMNH","519","U",FALSE,TRUE,"California: Santa Barbara, San Miguel Island, Anchorage Localities. 61 m",NA,NA,NA,NA,72.7,NA,NA
+"1019","Chendytes_lawi",NA,"SBMNH","519","U",FALSE,TRUE,"California: Santa Barbara, San Miguel Island, Anchorage Localities. 61 m",NA,NA,NA,NA,NA,NA,72.9
+"1020","Chendytes_lawi",NA,"SBMNH","59","U",FALSE,TRUE,"4B",NA,61.1,NA,NA,NA,NA,NA
+"1021","Chendytes_lawi",NA,"SBMNH","621","U",FALSE,TRUE,"San Miguel Island, California",3.4,NA,26.6,NA,79.5,147.4,72.8
+"1022","Chendytes_lawi",NA,"SBMNH","621","U",FALSE,TRUE,"California: Santa Barbara, San Miguel Island, Blowout Locality. 116 m",3.4,NA,NA,NA,NA,NA,NA
+"1023","Chendytes_lawi",NA,"SBMNH","624","U",FALSE,FALSE,"San Miguel Island, California",NA,70.1,NA,NA,77.2,146.9,69.8
+"1024","Chendytes_lawi",NA,"SBMNH","703","U",FALSE,TRUE,"California: Santa Barbara, San Miguel Island, Cuyler harbor, E end of W beach. 83 m",NA,67.2,NA,NA,NA,NA,NA
+"1025","Chendytes_lawi",NA,"SBMNH","703","U",FALSE,TRUE,"California: Santa Barbara, San Miguel Island, Cuyler harbor, E end of W beach. 83 m",NA,67.7,NA,NA,NA,NA,NA
+"1026","Chendytes_lawi",NA,"SBMNH","703","U",FALSE,TRUE,"California: Santa Barbara, San Miguel Island, Cuyler harbor, E end of W beach. 83 m",NA,72.1,NA,NA,NA,NA,NA
+"1027","Chendytes_lawi",NA,"SBMNH","703","U",FALSE,TRUE,"California: Santa Barbara, San Miguel Island, Cuyler harbor, E end of W beach. 83 m",NA,70,NA,NA,NA,NA,NA
+"1028","Chendytes_lawi",NA,"SBMNH","703","U",FALSE,TRUE,"California: Santa Barbara, San Miguel Island, Cuyler harbor, E end of W beach. 83 m",NA,NA,24.7,NA,NA,NA,NA
+"1029","Chendytes_lawi",NA,"SBMNH","703","U",FALSE,TRUE,"California: Santa Barbara, San Miguel Island, Cuyler harbor, E end of W beach. 83 m",NA,NA,NA,NA,74.5,NA,NA
+"1030","Chendytes_lawi",NA,"SBMNH","703","U",FALSE,TRUE,"California: Santa Barbara, San Miguel Island, Cuyler harbor, E end of W beach. 83 m",NA,NA,NA,NA,72.3,NA,NA
+"1031","Chendytes_lawi",NA,"SBMNH","703","U",FALSE,TRUE,"California: Santa Barbara, San Miguel Island, Cuyler harbor, E end of W beach. 83 m",NA,NA,NA,NA,72.5,NA,NA
+"1032","Chendytes_lawi",NA,"SBMNH","703","U",FALSE,TRUE,"California: Santa Barbara, San Miguel Island, Cuyler harbor, E end of W beach. 83 m",NA,NA,NA,NA,75.6,NA,NA
+"1033","Chendytes_lawi",NA,"SBMNH","703","U",FALSE,TRUE,"California: Santa Barbara, San Miguel Island, Cuyler harbor, E end of W beach. 83 m",NA,NA,NA,NA,NA,150.5,NA
+"1034","Chendytes_lawi",NA,"SBMNH","703","U",FALSE,TRUE,"California: Santa Barbara, San Miguel Island, Cuyler harbor, E end of W beach. 83 m",NA,NA,NA,NA,NA,137.6,NA
+"1035","Chendytes_lawi",NA,"SBMNH","703","U",FALSE,TRUE,"California: Santa Barbara, San Miguel Island, Cuyler harbor, E end of W beach. 83 m",NA,NA,NA,NA,NA,148.8,NA
+"1036","Chendytes_lawi",NA,"SBMNH","95","U",FALSE,TRUE,"California: Santa Barbara, San Miguel Island, Cuyler harbor, E end of W beach. 70 m",NA,NA,NA,NA,70.2,NA,NA
+"1037","Chendytes_lawi",NA,"SBMNH","95","U",FALSE,TRUE,"California: Santa Barbara, San Miguel Island, Cuyler harbor, E end of W beach. 70 m",NA,NA,NA,NA,76.8,NA,NA
+"1038","Chendytes_lawi",NA,"SBMNH","95","U",FALSE,TRUE,"California: Santa Barbara, San Miguel Island, Cuyler harbor, E end of W beach. 70 m",NA,NA,NA,NA,74.5,NA,NA
+"1039","Chendytes_lawi",NA,"SBMNH","95","U",FALSE,TRUE,"California: Santa Barbara, San Miguel Island, Cuyler harbor, E end of W beach. 70 m",NA,NA,NA,NA,72.7,NA,NA
+"1040","Chendytes_lawi",NA,"SBMNH","95","U",FALSE,TRUE,"California: Santa Barbara, San Miguel Island, Cuyler harbor, E end of W beach. 70 m",NA,NA,NA,NA,77.3,NA,NA
+"1041","Chendytes_lawi",NA,"SBMNH","95","U",FALSE,TRUE,"California: Santa Barbara, San Miguel Island, Cuyler harbor, E end of W beach. 70 m",NA,NA,NA,NA,73.3,NA,NA
+"1042","Chendytes_lawi",NA,"SBMNH","95","U",FALSE,TRUE,"California: Santa Barbara, San Miguel Island, Cuyler harbor, E end of W beach. 70 m",NA,NA,NA,NA,75.9,NA,NA
+"1043","Chendytes_lawi",NA,"SBMNH","95","U",FALSE,TRUE,"California: Santa Barbara, San Miguel Island, Cuyler harbor, E end of W beach. 70 m",NA,NA,NA,NA,76.9,NA,NA
+"1044","Chendytes_lawi",NA,"SBMNH","95","U",FALSE,TRUE,"California: Santa Barbara, San Miguel Island, Cuyler harbor, E end of W beach. 70 m",NA,NA,NA,NA,65.6,NA,NA
+"1045","Chendytes_lawi",NA,"SBMNH","95","U",FALSE,TRUE,"California: Santa Barbara, San Miguel Island, Cuyler harbor, E end of W beach. 70 m",NA,NA,NA,NA,74.7,NA,NA
+"1046","Chendytes_lawi",NA,"SBMNH","95","U",FALSE,TRUE,"California: Santa Barbara, San Miguel Island, Cuyler harbor, E end of W beach. 70 m",NA,NA,NA,NA,75.2,NA,NA
+"1047","Chendytes_lawi",NA,"SBMNH","96","U",FALSE,TRUE,"California: Santa Barbara, San Miguel Island, Cuyler harbor, E end of W beach. 83 m",7.7,NA,NA,NA,NA,NA,NA
+"1048","Chendytes_lawi",NA,"SBMNH","96","U",FALSE,TRUE,"California: Santa Barbara, San Miguel Island, Cuyler harbor, E end of W beach. 83 m",NA,NA,NA,NA,71,NA,NA
+"1049","Chendytes_lawi",NA,"SBMNH","96","U",FALSE,TRUE,"California: Santa Barbara, San Miguel Island, Cuyler harbor, E end of W beach. 83 m",NA,NA,NA,NA,74.4,NA,NA
+"1050","Chendytes_lawi",NA,"SBMNH","96","U",FALSE,TRUE,"California: Santa Barbara, San Miguel Island, Cuyler harbor, E end of W beach. 83 m",NA,NA,NA,NA,75.7,NA,NA
+"1051","Chendytes_lawi",NA,"SBMNH","96","U",FALSE,TRUE,"California: Santa Barbara, San Miguel Island, Cuyler harbor, E end of W beach. 83 m",NA,NA,NA,NA,72.4,NA,NA
+"1052","Chendytes_lawi",NA,"SBMNH","96","U",FALSE,TRUE,"California: Santa Barbara, San Miguel Island, Cuyler harbor, E end of W beach. 83 m",NA,NA,NA,NA,73.5,NA,NA
+"1053","Chendytes_lawi",NA,"SBMNH","96","U",FALSE,TRUE,"California: Santa Barbara, San Miguel Island, Cuyler harbor, E end of W beach. 83 m",NA,NA,NA,NA,75.8,NA,NA
+"1054","Chendytes_lawi",NA,"SBMNH","96","U",FALSE,TRUE,"California: Santa Barbara, San Miguel Island, Cuyler harbor, E end of W beach. 83 m",NA,NA,NA,NA,76.7,NA,NA
+"1055","Chendytes_lawi",NA,"SBMNH","96","U",FALSE,TRUE,"California: Santa Barbara, San Miguel Island, Cuyler harbor, E end of W beach. 83 m",NA,NA,NA,NA,83.2,NA,NA
+"1056","Chendytes_lawi",NA,"SBMNH","96","U",FALSE,TRUE,"California: Santa Barbara, San Miguel Island, Cuyler harbor, E end of W beach. 83 m",NA,NA,NA,NA,79,NA,NA
+"1057","Chendytes_lawi",NA,"SBMNH","96","U",FALSE,TRUE,"California: Santa Barbara, San Miguel Island, Cuyler harbor, E end of W beach. 83 m",NA,NA,NA,NA,76.4,NA,NA
+"1058","Chendytes_lawi",NA,"SBMNH","96","U",FALSE,TRUE,"California: Santa Barbara, San Miguel Island, Cuyler harbor, E end of W beach. 83 m",NA,NA,NA,NA,68.3,NA,NA
+"1059","Chendytes_lawi",NA,"SBMNH","96","U",FALSE,TRUE,"California: Santa Barbara, San Miguel Island, Cuyler harbor, E end of W beach. 83 m",NA,NA,NA,NA,76.1,NA,NA
+"1060","Chendytes_lawi",NA,"SBMNH","96","U",FALSE,TRUE,"California: Santa Barbara, San Miguel Island, Cuyler harbor, E end of W beach. 83 m",NA,NA,NA,NA,78.2,NA,NA
+"1061","Chendytes_lawi",NA,"SBMNH","96","U",FALSE,TRUE,"California: Santa Barbara, San Miguel Island, Cuyler harbor, E end of W beach. 83 m",NA,NA,NA,NA,76.4,NA,NA
+"1062","Chendytes_lawi",NA,"SBMNH","96","U",FALSE,TRUE,"California: Santa Barbara, San Miguel Island, Cuyler harbor, E end of W beach. 83 m",NA,NA,NA,NA,78,NA,NA
+"1063","Chendytes_lawi",NA,"SBMNH","96","U",FALSE,TRUE,"California: Santa Barbara, San Miguel Island, Cuyler harbor, E end of W beach. 83 m",NA,NA,NA,NA,71.4,NA,NA
+"1064","Chendytes_lawi",NA,"SBMNH","96","U",FALSE,TRUE,"California: Santa Barbara, San Miguel Island, Cuyler harbor, E end of W beach. 83 m",NA,NA,NA,NA,71.2,NA,NA
+"1065","Chendytes_lawi",NA,"SBMNH","96","U",FALSE,TRUE,"California: Santa Barbara, San Miguel Island, Cuyler harbor, E end of W beach. 83 m",NA,NA,NA,NA,76.5,NA,NA
+"1066","Chendytes_lawi",NA,"SBMNH","96","U",FALSE,TRUE,"California: Santa Barbara, San Miguel Island, Cuyler harbor, E end of W beach. 83 m",NA,NA,NA,NA,76,NA,NA
+"1067","Chendytes_lawi",NA,"SBMNH","96","U",FALSE,TRUE,"California: Santa Barbara, San Miguel Island, Cuyler harbor, E end of W beach. 83 m",NA,NA,NA,NA,NA,142.8,NA
+"1068","Chendytes_lawi",NA,"SBMNH","96","U",FALSE,TRUE,"California: Santa Barbara, San Miguel Island, Cuyler harbor, E end of W beach. 83 m",NA,NA,NA,NA,NA,NA,70.2
+"1069","Chendytes_lawi",NA,"SBMNH","96","U",FALSE,TRUE,"California: Santa Barbara, San Miguel Island, Cuyler harbor, E end of W beach. 83 m",NA,NA,NA,NA,NA,NA,75
+"1070","Chendytes_lawi",NA,"UCMP","27001","U",FALSE,TRUE,"Long Wharf Canyon",NA,NA,NA,NA,NA,138.7,NA
+"1071","Chendytes_lawi",NA,"UCMP","48168","U",FALSE,TRUE,"San Nicolas Island Kitchen Middens",NA,NA,NA,NA,70.9,NA,NA
+"1072","Chendytes_lawi",NA,"UCMP","63583","U",FALSE,TRUE,"Harbor Blvd",NA,NA,NA,NA,NA,NA,74.6
+"1073","Chendytes_milleri",NA,"LACMVP","15358","U",FALSE,TRUE,"San Nicolas Island",NA,69.4,NA,NA,NA,NA,NA
+"1074","Chendytes_milleri",NA,"LACMVP","2364","U",FALSE,TRUE,"San Nicolas Island",NA,69.6,NA,NA,NA,NA,NA
+"1075","Chendytes_milleri",NA,"LACMVP","2373","U",FALSE,TRUE,"San Nicolas Island",NA,NA,NA,NA,NA,NA,59.1
+"1076","Chendytes_milleri",NA,"LACMVP","2387","U",FALSE,TRUE,"San Nicolas Island",NA,NA,31.2,NA,NA,NA,NA
+"1077","Chendytes_milleri",NA,"UCMP","131579","U",FALSE,TRUE,"San Nicolas Island 1",NA,NA,NA,NA,NA,127.2,NA
+"1078","Shiriyanetta_hasegawai",NA,"KUGMFA","2013.028","U",FALSE,TRUE,"Shiriya, Japan",11.3,NA,NA,NA,NA,NA,NA
+"1079","Shiriyanetta_hasegawai",NA,"KUGMFA","2013.03","U",FALSE,TRUE,"Shiriya, Japan",12.5,NA,NA,NA,NA,NA,NA
+"1080","Shiriyanetta_hasegawai",NA,"KUGMFA","2013.037","U",FALSE,TRUE,"Shiriya, Japan",NA,87.6,NA,NA,NA,NA,NA
+"1081","Shiriyanetta_hasegawai",NA,"KUGMFA","2013.042","U",FALSE,TRUE,"Shiriya, Japan",NA,NA,51.2,NA,NA,NA,NA
+"1082","Shiriyanetta_hasegawai",NA,"KUGMFA","2013.043","U",FALSE,TRUE,"Shiriya, Japan",NA,NA,47.9,NA,NA,NA,NA
+"1083","Shiriyanetta_hasegawai",NA,"KUGMFA","2013.046","U",FALSE,TRUE,"Shiriya, Japan",NA,NA,NA,36.3,NA,NA,NA
+"1084","Shiriyanetta_hasegawai",NA,"KUGMFA","2013.047","U",FALSE,TRUE,"Shiriya, Japan",NA,NA,NA,37.4,NA,NA,NA
+"1085","Shiriyanetta_hasegawai",NA,"KUGMFA","2013.048","U",FALSE,TRUE,"Shiriya, Japan",NA,NA,NA,34.8,NA,NA,NA
+"1086","Shiriyanetta_hasegawai",NA,"KUGMFA","2013.063","U",FALSE,TRUE,"Shiriya, Japan",NA,NA,NA,NA,69.4,NA,NA
+"1087","Shiriyanetta_hasegawai",NA,"KUGMFA","2013.065","U",FALSE,TRUE,"Shiriya, Japan",NA,NA,NA,NA,75.3,NA,NA
+"1088","Shiriyanetta_hasegawai",NA,"KUGMFA","2013.068","U",FALSE,TRUE,"Shiriya, Japan",NA,NA,NA,NA,NA,144.8,NA
+"1089","Shiriyanetta_hasegawai",NA,"KUGMFA","2013.083","U",FALSE,TRUE,"Shiriya, Japan",NA,NA,NA,NA,NA,NA,62.9
+"1090","Anas_marecula",NA,"USNMP","","U",FALSE,TRUE,"",6.2,NA,NA,NA,NA,NA,NA
+"1091","Anas_marecula",NA,"USNMP","","U",FALSE,TRUE,"Amsterdam Island",NA,41.2,NA,NA,NA,NA,NA
+"1092","Anas_marecula",NA,"USNMP","","U",FALSE,TRUE,"Amsterdam Island",NA,41.5,NA,NA,NA,NA,NA
+"1093","Anas_marecula",NA,"USNMP","","U",FALSE,TRUE,"Amsterdam Island",NA,43.5,NA,NA,NA,NA,NA
+"1094","Anas_marecula",NA,"USNMP","","U",FALSE,TRUE,"Amsterdam Island",NA,44.8,NA,NA,NA,NA,NA
+"1095","Anas_marecula",NA,"USNMP","","U",FALSE,TRUE,"Amsterdam Island",NA,NA,35.9,NA,NA,NA,NA
+"1096","Anas_marecula",NA,"USNMP","","U",FALSE,TRUE,"Amsterdam Island",NA,NA,33.6,NA,NA,NA,NA
+"1097","Anas_marecula",NA,"USNMP","","U",FALSE,TRUE,"Amsterdam Island",NA,NA,33.2,NA,NA,NA,NA
+"1098","Anas_marecula",NA,"USNMP","","U",FALSE,TRUE,"Amsterdam Island",NA,NA,NA,23.6,NA,NA,NA
+"1099","Anas_marecula",NA,"USNMP","","U",FALSE,TRUE,"Amsterdam Island",NA,NA,NA,24.2,NA,NA,NA
+"1100","Anas_marecula",NA,"USNMP","","U",FALSE,TRUE,"Amsterdam Island",NA,NA,NA,23.1,NA,NA,NA
+"1101","Anas_marecula",NA,"USNMP","","U",FALSE,TRUE,"Amsterdam Island",NA,NA,NA,23,NA,NA,NA
+"1102","Anas_marecula",NA,"USNMP","","U",FALSE,TRUE,"Amsterdam Island",NA,NA,NA,23,NA,NA,NA
+"1103","Anas_marecula",NA,"USNMP","","U",FALSE,TRUE,"Amsterdam Island",NA,NA,NA,NA,33,NA,NA
+"1104","Anas_marecula",NA,"USNMP","","U",FALSE,TRUE,"Amsterdam Island",NA,NA,NA,NA,31.3,NA,NA
+"1105","Anas_marecula",NA,"USNMP","","U",FALSE,TRUE,"Amsterdam Island",NA,NA,NA,NA,33.4,NA,NA
+"1106","Anas_marecula",NA,"USNMP","","U",FALSE,TRUE,"Amsterdam Island",NA,NA,NA,NA,33.9,NA,NA
+"1107","Anas_marecula",NA,"USNMP","","U",FALSE,TRUE,"Amsterdam Island",NA,NA,NA,NA,32,NA,NA
+"1108","Anas_marecula",NA,"USNMP","","U",FALSE,TRUE,"Amsterdam Island",NA,NA,NA,NA,33.1,NA,NA
+"1109","Anas_marecula",NA,"USNMP","","U",FALSE,TRUE,"Amsterdam Island",NA,NA,NA,NA,33.1,NA,NA
+"1110","Anas_marecula",NA,"USNMP","","U",FALSE,TRUE,"Amsterdam Island",NA,NA,NA,NA,32,NA,NA
+"1111","Anas_marecula",NA,"USNMP","","U",FALSE,TRUE,"Amsterdam Island",NA,NA,NA,NA,33.1,NA,NA
+"1112","Anas_marecula",NA,"USNMP","","U",FALSE,TRUE,"Amsterdam Island",NA,NA,NA,NA,NA,58.2,NA
+"1113","Anas_marecula",NA,"USNMP","","U",FALSE,TRUE,"Amsterdam Island",NA,NA,NA,NA,NA,55.9,NA
+"1114","Anas_marecula",NA,"USNMP","","U",FALSE,TRUE,"Amsterdam Island",NA,NA,NA,NA,NA,58,NA
+"1115","Anas_marecula",NA,"USNMP","","U",FALSE,TRUE,"Amsterdam Island",NA,NA,NA,NA,NA,57.3,NA
+"1116","Anas_marecula",NA,"USNMP","","U",FALSE,TRUE,"Amsterdam Island",NA,NA,NA,NA,NA,55.1,NA
+"1117","Anas_marecula",NA,"USNMP","","U",FALSE,TRUE,"Amsterdam Island",NA,NA,NA,NA,NA,51.7,NA
+"1118","Anas_marecula",NA,"USNMP","","U",FALSE,TRUE,"Amsterdam Island",NA,NA,NA,NA,NA,54,NA
+"1119","Anas_marecula",NA,"USNMP","","U",FALSE,TRUE,"Amsterdam Island",NA,NA,NA,NA,NA,51.2,NA
+"1120","Anas_marecula",NA,"USNMP","","U",FALSE,TRUE,"Amsterdam Island",NA,NA,NA,NA,NA,52.4,NA
+"1121","Anas_marecula",NA,"USNMP","","U",FALSE,TRUE,"Amsterdam Island",NA,NA,NA,NA,NA,58.7,NA
+"1122","Anas_marecula",NA,"USNMP","","U",FALSE,TRUE,"Amsterdam Island",NA,NA,NA,NA,NA,NA,31.6
+"1123","Anas_marecula",NA,"USNMP","","U",FALSE,TRUE,"Amsterdam Island",NA,NA,NA,NA,NA,NA,28.4
+"1124","Anas_marecula",NA,"USNMP","","U",FALSE,TRUE,"Amsterdam Island",NA,NA,NA,NA,NA,NA,30
+"1125","Anas_marecula",NA,"USNMP","","U",FALSE,TRUE,"Amsterdam Island",NA,NA,NA,NA,NA,NA,30.1
+"1126","Anas_marecula",NA,"USNMP","","U",FALSE,TRUE,"Amsterdam Island",NA,NA,NA,NA,NA,NA,28.3
+"1127","Anas_marecula",NA,"USNMP","","U",FALSE,TRUE,"Amsterdam Island",NA,NA,NA,NA,NA,NA,27.6
+"1128","Anas_marecula",NA,"USNMP","","U",FALSE,TRUE,"Amsterdam Island",NA,NA,NA,NA,NA,NA,27.9
+"1129","Anas_marecula",NA,"USNMP","","U",FALSE,TRUE,"Amsterdam Island",NA,NA,NA,NA,NA,NA,29.6
+"1130","Anas_marecula",NA,"USNMP","","U",FALSE,TRUE,"Amsterdam Island",NA,NA,NA,NA,NA,NA,27.6
+"1131","Anas_marecula",NA,"USNMP","","U",FALSE,TRUE,"Amsterdam Island",NA,NA,NA,NA,NA,NA,30
+"1132","Anas_marecula",NA,"USNMP","","U",FALSE,TRUE,"Amsterdam Island",NA,NA,NA,NA,NA,NA,32.1
+"1133","Anas_marecula",NA,"USNMP","","U",FALSE,TRUE,"Amsterdam Island",NA,NA,NA,NA,NA,NA,31.5
+"1134","Anas_marecula",NA,"USNMP","","U",FALSE,TRUE,"Amsterdam Island",NA,NA,NA,NA,NA,NA,29.8
+"1135","Anas_marecula",NA,"USNMP","","U",FALSE,TRUE,"Amsterdam Island",NA,NA,NA,NA,NA,NA,31.6
+"1136","Anas_marecula",NA,"USNMP","486690","U",FALSE,TRUE,"Amsterdam Island",9.5,NA,NA,NA,NA,NA,NA
+"1137","Anas_marecula",NA,"USNMP","486691","U",FALSE,TRUE,"Amsterdam Island",NA,42.3,NA,NA,NA,NA,NA
+"1138","Anas_marecula",NA,"USNMP","486692","U",FALSE,TRUE,"Amsterdam Island",NA,NA,38.3,NA,NA,NA,NA
+"1139","Anas_marecula",NA,"USNMP","486697","U",FALSE,TRUE,"Amsterdam Island",NA,NA,NA,NA,35.1,NA,NA
+"1140","Anas_marecula",NA,"USNMP","486698","U",FALSE,TRUE,"Amsterdam Island",NA,NA,NA,NA,NA,53.8,NA
+"1141","Anas_marecula",NA,"USNMP","486699","U",FALSE,TRUE,"Amsterdam Island",NA,NA,NA,NA,NA,NA,29
+"1142","Anas_marecula",NA,"USNMP","486700","U",FALSE,TRUE,"Amsterdam Island",NA,40.8,NA,NA,NA,NA,NA
+"1143","Anas_marecula",NA,"USNMP","486701","U",FALSE,TRUE,"Amsterdam Island",NA,NA,34.5,NA,NA,NA,NA
+"1144","Anas_marecula",NA,"USNMP","486706","U",FALSE,TRUE,"Amsterdam Island",NA,NA,NA,NA,34.6,NA,NA
+"1145","Anas_marecula",NA,"USNMP","486707","U",FALSE,TRUE,"Amsterdam Island",NA,NA,NA,NA,NA,55.9,NA
+"1146","Anas_marecula",NA,"USNMP","486708","U",FALSE,TRUE,"Amsterdam Island",NA,NA,NA,NA,NA,NA,31.1
+"1147","Cayaoa_bruneti",NA,"MLP","77-XII-22-1","U",FALSE,TRUE,"Gaiman Fm.",NA,NA,NA,NA,NA,NA,65.2
+"1148","Cayaoa_bruneti",NA,"MPEF","","U",FALSE,TRUE,"Gaiman Fm.",NA,NA,NA,NA,68.5,NA,NA
+"1149","Cayaoa_bruneti",NA,"MPEF","3104","U",FALSE,TRUE,"Gaiman Fm.",NA,NA,NA,32.4,NA,NA,NA
+"1150","Cayaoa_bruneti",NA,"MPEF","3115","U",FALSE,TRUE,"Gaiman Fm.",NA,NA,NA,NA,NA,161.5,NA
+"1151","Cayaoa_bruneti",NA,"MPEF","3122","U",FALSE,TRUE,"Gaiman Fm.",NA,NA,NA,NA,NA,NA,73.6
+"1152","Cayaoa_bruneti",NA,"MPEF","3123","U",FALSE,TRUE,"Gaiman Fm.",NA,NA,NA,NA,NA,NA,72.4

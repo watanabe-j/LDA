@@ -1,0 +1,788 @@
+"SPL","FLIGHTLESS","REP","NO","SEX","CAPTIVE","COMPOSITE","LOC","CAR","HUM","ULN","CMC","FEM","TIB","TMT"
+"1","Dendrocygna_viduata",FALSE,"NMNSAS","1315","U",TRUE,FALSE,"Zoo",24,98.8,102.7,54.1,NA,91.6,59.1
+"2","Dendrocygna_viduata",FALSE,"NMNSAS","597","F",TRUE,FALSE,"Zoo",22,97.5,101.5,53.3,49.8,87.4,NA
+"3","Dendrocygna_autumnalis",FALSE,"MVZ","83994","M",FALSE,FALSE,"MexicoGuerrero",24.6,101.1,104.2,56.5,53.8,97.2,61.2
+"4","Dendrocygna_autumnalis",FALSE,"MVZ","85520","M",FALSE,FALSE,"El SalvadorDepartamento San Miguel",24.6,97.4,101.2,55.5,54.1,93.8,60.3
+"5","Dendrocygna_autumnalis",FALSE,"MVZ","85521","F",FALSE,FALSE,"El SalvadorDepartamento San Miguel",24.8,102.1,102.2,55.5,55.3,96.6,59.6
+"6","Dendrocygna_bicolor",FALSE,"MVZ","132935","M",TRUE,FALSE,"San Diego Zoo",21.9,97.6,100.3,51.7,48.3,82.9,54.4
+"7","Dendrocygna_bicolor",FALSE,"MVZ","21560","M",FALSE,FALSE,"California",22.5,95.4,100.7,50.8,49.3,86.9,55.2
+"8","Dendrocygna_bicolor",FALSE,"MVZ","21561","F",FALSE,FALSE,"California",23.6,97,101.6,51,49.9,86.2,53.8
+"9","Dendrocygna_bicolor",FALSE,"USNM","224797","M",FALSE,FALSE,"",22.3,99.7,104.6,53.3,52.3,90.4,57
+"10","Dendrocygna_bicolor",FALSE,"USNM","224798","F",FALSE,FALSE,"",22,NA,101.4,NA,52.5,NA,56.2
+"11","Dendrocygna_bicolor",FALSE,"USNM","322349","F",TRUE,FALSE,"",21.7,100.5,106.5,52.8,50.7,87.1,54.9
+"12","Dendrocygna_bicolor",FALSE,"USNM","488130","M",FALSE,FALSE,"",22.3,92.8,98.9,48.1,46.2,83.5,52.1
+"13","Dendrocygna_bicolor",FALSE,"USNM","488131","F",FALSE,FALSE,"",22.5,97.9,104.7,51,48.7,87.6,55.2
+"14","Dendrocygna_bicolor",FALSE,"USNM","488132","M",FALSE,FALSE,"",20.3,100.7,107.9,54.7,52.8,89.6,55.9
+"15","Dendrocygna_bicolor",FALSE,"USNM","488134","F",FALSE,FALSE,"",18.9,94.6,101.9,53.9,49.1,86.1,56.7
+"16","Dendrocygna_bicolor",FALSE,"USNM","488703","M",FALSE,FALSE,"",22.3,98.9,102.2,51.2,52.1,92.7,56.3
+"17","Thalassornis_leuconotus",FALSE,"NHMUK","1901.10.20.156","F",FALSE,FALSE,"Lake Saka",18.6,86.3,84.3,39.6,41,69.1,39.1
+"18","Thalassornis_leuconotus",FALSE,"USNM","431502","F",FALSE,FALSE,"",17.8,81,81.2,39.1,40,68.5,38.2
+"19","Thalassornis_leuconotus",FALSE,"USNM","490228","M",FALSE,FALSE,"",19.9,91.6,88.2,42.3,42.9,72.3,40.5
+"20","Heteronetta_atricapilla",FALSE,"MVZ","156782","F",FALSE,FALSE,"ArgentinaBuenos Aires",19.9,76,NA,NA,39.3,NA,NA
+"21","Oxyura_jamaicensis",FALSE,"USNM","491320","F",FALSE,FALSE,"",13.2,67.3,58.7,33.9,38.5,59.4,32.3
+"22","Oxyura_jamaicensis",FALSE,"USNM","499417","F",FALSE,FALSE,"",13.4,NA,58,32.6,38.3,61.9,32.3
+"23","Oxyura_jamaicensis",FALSE,"USNM","499639","M",FALSE,FALSE,"",15.6,70.9,61.6,35.3,41.7,64.3,34
+"24","Oxyura_jamaicensis",FALSE,"USNM","500983","F",FALSE,FALSE,"",14.2,68,59.3,34.4,38.9,61.1,32.9
+"25","Oxyura_jamaicensis",FALSE,"USNM","500984","F",FALSE,FALSE,"",14.4,68.1,59.5,33.9,38.5,61.4,32.4
+"26","Oxyura_jamaicensis",FALSE,"USNM","561019","M",FALSE,FALSE,"",15.5,72.5,63,36.3,41.7,65.8,34.5
+"27","Oxyura_jamaicensis",FALSE,"USNM","610721","M",FALSE,FALSE,"",15.3,71.2,62,36.8,40.6,63.3,33.9
+"28","Oxyura_jamaicensis",FALSE,"USNM","610722","F",FALSE,FALSE,"",15.9,70.3,61.1,33.4,39.4,62.4,33.2
+"29","Oxyura_jamaicensis",FALSE,"USNM","623348","M",FALSE,FALSE,"",14.1,68,59.2,33.9,38.7,61.1,32.4
+"30","Oxyura_jamaicensis",FALSE,"USNM","623361","M",FALSE,FALSE,"",14.9,73.5,64.7,36.7,40.9,65.2,35
+"31","Biziura_lobata",FALSE,"MNHN","1847-79","U",FALSE,FALSE,"",19.4,NA,NA,NA,59.5,102.9,NA
+"32","Biziura_lobata",FALSE,"MNHN","A3639","U",FALSE,FALSE,"",18.1,122.5,110.8,58,63.5,114,53.9
+"33","Biziura_lobata",FALSE,"MVZ","143032","M",FALSE,FALSE,"AustraliaSouth Australia",19.2,116.8,96.6,NA,62,106.1,NA
+"34","Biziura_lobata",FALSE,"MVZ","143332","F",FALSE,FALSE,"AustraliaSouth Australia",14.7,98.3,79.9,45,51.6,90.7,44
+"35","Biziura_lobata",FALSE,"MVZ","143333","M",FALSE,FALSE,"AustraliaSouth Australia",18.2,121.2,98.5,55.8,62.7,110.3,51.5
+"36","Biziura_lobata",FALSE,"MVZ","143334","F",FALSE,FALSE,"AustraliaSouth Australia",14.1,97,79.7,43.8,52.6,89.8,44
+"37","Biziura_lobata",FALSE,"MVZ","143335","M",FALSE,FALSE,"AustraliaSouth Australia",19.1,118.5,99,56.4,62.1,109.6,50.7
+"38","Biziura_lobata",FALSE,"MVZ","143336","M",FALSE,FALSE,"AustraliaSouth Australia",18.7,124.8,103.6,59,66.4,112.3,52.5
+"39","Biziura_lobata",FALSE,"MVZ","154313","M",FALSE,FALSE,"AustraliaNew South Wales",18.1,112.1,93.7,53.4,60.5,105.5,50.6
+"40","Biziura_lobata",FALSE,"MVZ","155861","M",FALSE,FALSE,"AustraliaNew South Wales",15.7,117.1,96.7,57,61.3,106.1,51.6
+"41","Biziura_lobata",FALSE,"NHMUK","1967.17.2","F",FALSE,FALSE,"",15.3,90.1,76.4,41.2,46.8,83.2,39.7
+"42","Biziura_lobata",FALSE,"NHMUK","1967.17.3","M",FALSE,FALSE,"",18.2,117.1,98.6,56,64.1,108.1,52.4
+"43","Biziura_lobata",FALSE,"NHMUK","1969.17.1","F",FALSE,FALSE,"",15.9,89.6,80.6,44.8,51,87.9,41.2
+"44","Biziura_lobata",FALSE,"NHMUK","1969.5.1","M",FALSE,FALSE,"",NA,NA,NA,NA,NA,NA,55
+"45","Malacorhynchus_membranaceus",FALSE,"MVZ","141917","F",FALSE,FALSE,"AustraliaSouth Australia",17.9,69.6,62.2,41.6,38.6,66.7,36.9
+"46","Malacorhynchus_membranaceus",FALSE,"MVZ","143318","F",FALSE,FALSE,"AustraliaSouth Australia",18.6,NA,58.8,38.7,36.1,63.5,35.5
+"47","Malacorhynchus_membranaceus",FALSE,"MVZ","143319","M",FALSE,FALSE,"AustraliaSouth Australia",17.7,NA,61.7,39.3,37.2,65.4,35.8
+"48","Malacorhynchus_membranaceus",FALSE,"MVZ","143320","M",FALSE,FALSE,"AustraliaSouth Australia",18.3,68.3,61.9,41.6,37,66.2,37.2
+"49","Malacorhynchus_membranaceus",FALSE,"MVZ","143321","F",FALSE,FALSE,"AustraliaSouth Australia",17.4,64.4,59.6,39.6,37.3,62.3,34.7
+"50","Malacorhynchus_membranaceus",FALSE,"MVZ","143322","M",FALSE,FALSE,"AustraliaSouth Australia",19.9,69,62.6,40.9,37.9,65.3,37
+"51","Malacorhynchus_membranaceus",FALSE,"MVZ","143323","M",FALSE,FALSE,"AustraliaSouth Australia",17.2,67.2,61.2,40.4,36.4,63.1,36.2
+"52","Malacorhynchus_membranaceus",FALSE,"MVZ","143324","F",FALSE,FALSE,"AustraliaSouth Australia",16.4,63.6,58.6,39.2,35.7,62.4,35.1
+"53","Malacorhynchus_membranaceus",FALSE,"MVZ","143325","M",FALSE,FALSE,"AustraliaSouth Australia",19,68.8,63.1,40.9,37.7,66.5,37.5
+"54","Malacorhynchus_membranaceus",FALSE,"MVZ","143326","F",FALSE,FALSE,"AustraliaSouth Australia",16.8,61.6,56,37.1,34.2,59.2,33.3
+"55","Malacorhynchus_membranaceus",FALSE,"MVZ","143327","F",FALSE,FALSE,"AustraliaSouth Australia",17.4,66.1,60.6,39.6,36,64.1,34.8
+"56","Malacorhynchus_membranaceus",FALSE,"MVZ","143328","M",FALSE,FALSE,"AustraliaSouth Australia",18.2,NA,62.9,40.9,37.2,67.1,35.3
+"57","Malacorhynchus_membranaceus",FALSE,"MVZ","143329","M",FALSE,FALSE,"AustraliaSouth Australia",20,NA,63.4,41,38.8,65.7,36.5
+"58","Malacorhynchus_membranaceus",FALSE,"MVZ","154311","F",FALSE,FALSE,"AustraliaNew South Wales",NA,62.2,59,38.8,33.9,61.2,33.6
+"59","Malacorhynchus_membranaceus",FALSE,"USNM","9266","M",FALSE,FALSE,"",18.5,NA,NA,NA,NA,NA,NA
+"60","Malacorhynchus_membranaceus",FALSE,"USNM","9319","F",FALSE,FALSE,"",18.2,NA,NA,NA,NA,NA,NA
+"61","Stictonetta_naevosa",FALSE,"NHMUK","1895.4.27.1","M",FALSE,FALSE,"Australia",19.5,90.9,80,52,51.7,85,48.3
+"62","Stictonetta_naevosa",FALSE,"NHMUK","1895.4.27.9","M",FALSE,FALSE,"Australia",20.5,88.8,78,50.7,50.7,81.3,45.8
+"63","Stictonetta_naevosa",FALSE,"NHMUK","1995.5.10","M",TRUE,FALSE,"Wildfowl Trust",21.3,88.1,76.5,50,49.2,80.4,46.1
+"64","Cereopsis_novaehollandiae",FALSE,"MVZ","137569","U",TRUE,FALSE,"San Diego Zoo",39.7,184.3,183,98.8,91.7,159.1,107.3
+"65","Cereopsis_novaehollandiae",FALSE,"USNM","318044","M",TRUE,FALSE,"",34.8,190.4,188.8,102.1,93.8,164.1,112.1
+"66","Cereopsis_novaehollandiae",FALSE,"USNM","321101","M",TRUE,FALSE,"",38.1,190.3,194.6,107.4,94.3,167,112.4
+"67","Cereopsis_novaehollandiae",FALSE,"USNM","322026","F",TRUE,FALSE,"",31.5,170.9,164.6,93,86.1,151.2,99.8
+"68","Cereopsis_novaehollandiae",FALSE,"USNM","346461","F",TRUE,FALSE,"",37.4,184,187.8,102.7,90.8,158.9,105.6
+"69","Cereopsis_novaehollandiae",FALSE,"USNM","346851","F",TRUE,FALSE,"",35.3,187.1,193,104,93.4,168.7,112.7
+"70","Cereopsis_novaehollandiae",FALSE,"USNM","429222","M",TRUE,FALSE,"",39.7,188.3,189.6,103.7,101.9,179.8,119.4
+"71","Cereopsis_novaehollandiae",FALSE,"USNM","429738","F",TRUE,FALSE,"",36.5,180.3,183.3,99.2,92.8,161.7,108.9
+"72","Cereopsis_novaehollandiae",FALSE,"USNM","489416","F",TRUE,FALSE,"",33.1,175.2,178.7,97.8,85.4,151.2,102.3
+"73","Coscoroba_coscoroba",FALSE,"MVZ","140776","F",TRUE,FALSE,"San Diego Zoo",35,183.7,177.8,96.3,89.8,157.3,97.6
+"74","Cygnus_atratus",FALSE,"MVZ","141910","U",FALSE,FALSE,"AustraliaSouth Australia",41.7,253.5,237.5,113.6,92.3,174,101
+"75","Cygnus_atratus",FALSE,"MVZ","141911","U",FALSE,FALSE,"AustraliaSouth Australia",41,250.5,239.5,115.5,89.1,173.3,103.4
+"76","Cygnus_atratus",FALSE,"MVZ","143290","U",FALSE,FALSE,"AustraliaSouth Australia",40.7,224,211,103.7,85.8,167.3,98.9
+"77","Cygnus_atratus",FALSE,"MVZ","143291","F",FALSE,FALSE,"AustraliaSouth Australia",40.8,223,208.5,104.9,83,162.8,96
+"78","Cygnus_atratus",FALSE,"MVZ","143293","F",FALSE,FALSE,"AustraliaSouth Australia",38.9,230,219,110,84,167.3,96.8
+"79","Cygnus_atratus",FALSE,"MVZ","154271","M",FALSE,FALSE,"AustraliaAustralian Capital Territory",44.7,267.5,246.5,121.8,95.1,179.8,104.4
+"80","Cygnus_olor",FALSE,"MVZ","115621","M",FALSE,FALSE,"California",48.7,304,282.5,141.4,108.5,195.1,112.7
+"81","Cygnus_olor",FALSE,"USNM","19757","U",TRUE,FALSE,"",47.3,281,262,131.2,NA,187.8,103.8
+"82","Cygnus_olor",FALSE,"USNM","227053","M",FALSE,FALSE,"",47,294,274,136.4,106,197.6,114.9
+"83","Cygnus_olor",FALSE,"USNM","291962","M",TRUE,FALSE,"",45.9,283,261,133,100.9,190.5,108.9
+"84","Cygnus_olor",FALSE,"USNM","320834","F",TRUE,FALSE,"",35.3,264,246,120.4,92.7,177.4,98.9
+"85","Cygnus_olor",FALSE,"USNM","320983","M",TRUE,FALSE,"",52.4,316,308,NA,114.7,215,121.8
+"86","Cygnus_olor",FALSE,"USNM","344828","F",TRUE,FALSE,"",43,281,267,136.2,110.2,193,109.4
+"87","Cygnus_olor",FALSE,"USNM","522568","F",FALSE,FALSE,"",45.2,276,258,130.6,103.1,190.3,108.7
+"88","Cygnus_olor",FALSE,"USNM","556959","M",FALSE,FALSE,"",45.3,304,280,141.3,109.2,205.7,115.3
+"89","Cygnus_olor",FALSE,"USNM","557526","M",FALSE,FALSE,"",49.2,302,278,140.5,112,206.9,116.9
+"90","Cygnus_olor",FALSE,"USNM","561861","M",FALSE,FALSE,"",47.4,305,284,138,103.5,199,112.1
+"91","Cygnus_olor",FALSE,"YIO","64657","M",FALSE,FALSE,"Chiba, Japan",49.8,NA,NA,NA,103.5,NA,NA
+"92","Cygnus_buccinator",FALSE,"MNHN","1890-3932","U",FALSE,FALSE,"",53.3,288,283,138.7,110.7,204.4,121.2
+"93","Cygnus_buccinator",FALSE,"MNHN","1890-67","U",FALSE,FALSE,"",60.8,298,294,149.9,117.4,210,121.4
+"94","Cygnus_buccinator",FALSE,"MVZ","120361","U",FALSE,FALSE,"Oregon",55.7,289,285,146.1,112.9,210,117.9
+"95","Cygnus_buccinator",FALSE,"MVZ","137246","F",FALSE,FALSE,"CanadaAlberta",61.3,287.5,282,142.2,115.5,214.5,119.7
+"96","Cygnus_buccinator",FALSE,"MVZ","59110","U",FALSE,FALSE,"CanadaBritish Columbia",58.7,NA,NA,NA,NA,NA,NA
+"97","Cygnus_buccinator",FALSE,"MVZ","62355","U",FALSE,FALSE,"Wyoming",NA,NA,NA,NA,115.8,NA,NA
+"98","Cygnus_cygnus",FALSE,"MVZ","66973","M",FALSE,FALSE,"California",51.4,280,276.5,138.5,NA,NA,NA
+"99","Cygnus_cygnus",FALSE,"YIO","60804","M",FALSE,FALSE,"?",54.1,NA,NA,NA,NA,NA,NA
+"100","Cygnus_cygnus",FALSE,"YIO","62786","M",FALSE,FALSE,"",51.5,248,247,128.9,103.1,194,118
+"101","Cygnus_cygnus",FALSE,"YIO","63910","M",FALSE,FALSE,"Chiba, Japan",55.2,NA,NA,NA,108,NA,NA
+"102","Cygnus_columbianus",FALSE,"EP","200","F",TRUE,FALSE,"Tama Zoo",41.8,240.5,242,126.4,95.3,180.1,105.4
+"103","Cygnus_columbianus",FALSE,"MVZ","119012","F",FALSE,FALSE,"California",49,244,247,122,99.9,186.5,109.7
+"104","Cygnus_columbianus",FALSE,"MVZ","135906","M",FALSE,FALSE,"Alaska",51.3,260,256,132.5,106.7,192.1,118.1
+"105","Cygnus_columbianus",FALSE,"MVZ","151609","U",FALSE,FALSE,"California",47.6,248.5,245,122,95.7,184.3,105.4
+"106","Cygnus_columbianus",FALSE,"MVZ","158103","F?",FALSE,FALSE,"Alaska",49.9,NA,NA,NA,NA,NA,NA
+"107","Cygnus_columbianus",FALSE,"MVZ","21284","M",FALSE,FALSE,"California",50.3,NA,NA,NA,105.5,NA,NA
+"108","Cygnus_columbianus",FALSE,"MVZ","22430","M",FALSE,FALSE,"California",48.7,258,258.5,132.1,103.4,191.1,117.8
+"109","Cygnus_columbianus",FALSE,"MVZ","22443","M",FALSE,FALSE,"California",51.5,252,254.5,129.2,99.1,188.9,110.1
+"110","Cygnus_columbianus",FALSE,"MVZ","26638","M",FALSE,FALSE,"California",47.2,259,259.5,132.3,103.6,198.7,112.8
+"111","Cygnus_columbianus",FALSE,"MVZ","31361","F",FALSE,FALSE,"California",49.7,NA,NA,NA,99.9,NA,NA
+"112","Cygnus_columbianus",FALSE,"MVZ","40343","M?",FALSE,FALSE,"California",50.4,265,261.5,134.3,104.9,198.6,115.7
+"113","Cygnus_columbianus",FALSE,"MVZ","40360","M",FALSE,FALSE,"California",51.3,NA,NA,NA,104.5,NA,NA
+"114","Cygnus_columbianus",FALSE,"MVZ","42674","U",FALSE,FALSE,"California",44.9,NA,NA,NA,110.5,NA,NA
+"115","Cygnus_columbianus",FALSE,"MVZ","43780","F",FALSE,FALSE,"California",49.6,NA,NA,NA,NA,NA,NA
+"116","Cygnus_columbianus",FALSE,"MVZ","43781","F",FALSE,FALSE,"California",46.3,NA,NA,NA,97.9,NA,NA
+"117","Cygnus_columbianus",FALSE,"MVZ","44340","F",FALSE,FALSE,"California",47.9,NA,NA,NA,101.7,NA,NA
+"118","Cygnus_columbianus",FALSE,"MVZ","46595","F",FALSE,FALSE,"California",41.9,NA,NA,NA,98.7,NA,NA
+"119","Cygnus_columbianus",FALSE,"MVZ","49758","F",FALSE,FALSE,"California",45.3,240,238.5,122.1,96.7,179,107.2
+"120","Cygnus_columbianus",FALSE,"MVZ","5491","M",FALSE,FALSE,"California",45.5,NA,NA,NA,102.4,NA,NA
+"121","Cygnus_columbianus",FALSE,"MVZ","5492","F",FALSE,FALSE,"California",52.9,NA,NA,NA,101.8,NA,NA
+"122","Cygnus_columbianus",FALSE,"USNM","17030","F",FALSE,FALSE,"",46.6,234,234,117.3,95.6,178.6,107.9
+"123","Cygnus_columbianus",FALSE,"USNM","18509","M",FALSE,FALSE,"",50,252,247,126.9,98.3,187.4,113.2
+"124","Cygnus_columbianus",FALSE,"USNM","431870","F",FALSE,FALSE,"",48.6,244,246,123.7,99.8,188.4,109.7
+"125","Cygnus_columbianus",FALSE,"USNM","431872","F",FALSE,FALSE,"",41.4,250,247,124.2,95.7,185.3,108.3
+"126","Cygnus_columbianus",FALSE,"USNM","431873","F",FALSE,FALSE,"",47.3,258,261,132.7,105.4,199.8,116.9
+"127","Cygnus_columbianus",FALSE,"USNM","488538","M",FALSE,FALSE,"",49.4,265,259,133.8,110.3,201.6,121.9
+"128","Cygnus_columbianus",FALSE,"USNM","502567","M",FALSE,FALSE,"",50.2,244,243,124,99,182.5,107.8
+"129","Cygnus_columbianus",FALSE,"USNM","610614","M",FALSE,FALSE,"",51.9,259,264,136,108,199.7,117.8
+"130","Cygnus_columbianus",FALSE,"USNM","610615","M",FALSE,FALSE,"",46.4,253,252,129.6,102.5,186.3,111
+"131","Cygnus_columbianus",FALSE,"USNM","623389","F",FALSE,FALSE,"",44.6,233,238,121.7,97.9,176.5,102.3
+"132","Cygnus_columbianus",FALSE,"YIO","21461","F",FALSE,FALSE,"Iwate, Japan",48.8,NA,NA,NA,97.7,NA,NA
+"133","Cygnus_columbianus",FALSE,"YIO","21462","F",FALSE,FALSE,"Iwate, Japan",47.9,NA,NA,NA,97.3,NA,NA
+"134","Cygnus_columbianus",FALSE,"YIO","21463","M",FALSE,FALSE,"Iwate, Japan",51.4,NA,NA,NA,103.2,NA,NA
+"135","Cygnus_columbianus",FALSE,"YIO","62563","F",FALSE,FALSE,"Saitama, Japan",40.2,222,221,110.4,90,171.6,101.8
+"136","Cygnus_columbianus",FALSE,"YIO","62787","M",FALSE,FALSE,"Iwate, Japan",48.9,NA,NA,NA,103.3,NA,NA
+"137","Cygnus_columbianus",FALSE,"YIO","64020","M",FALSE,FALSE,"Shosanbetsu, Hokkaido, Japan",45.1,NA,NA,NA,97.3,NA,NA
+"138","Cygnus_columbianus",FALSE,"YIO","64042","M",FALSE,FALSE,"Chiba, Japan",50.7,NA,NA,NA,93.8,NA,NA
+"139","Cygnus_columbianus",FALSE,"YIO","64429","M",FALSE,FALSE,"Shimane, Japan",50.9,243,241,127.8,95.6,178,104.5
+"140","Branta_bernicla",FALSE,"MVZ","151614","M",FALSE,FALSE,"California",31.6,128,121.3,69.8,63.2,110.1,63.6
+"141","Branta_bernicla",FALSE,"MVZ","160647","M",FALSE,FALSE,"Alaska",32.5,123.6,120.9,67.7,61.2,106.9,64.2
+"142","Branta_bernicla",FALSE,"MVZ","160649","M",FALSE,FALSE,"Alaska",32.3,126.7,117.7,67.1,60.6,105.1,61.6
+"143","Branta_bernicla",FALSE,"MVZ","45027","F",FALSE,FALSE,"California",29.2,NA,NA,NA,58.4,NA,NA
+"144","Branta_bernicla",FALSE,"MVZ","53811","U",FALSE,FALSE,"California",29.6,118.6,111.1,63,59,101.2,60.2
+"145","Branta_bernicla",FALSE,"MVZ","53971","F",FALSE,FALSE,"California",28.8,116.8,110.2,62.6,56.1,95.1,52.9
+"146","Branta_bernicla",FALSE,"MVZ","72532","M",FALSE,FALSE,"California",31,132.4,126.1,72,64,110.8,64.8
+"147","Branta_bernicla",FALSE,"MVZ","73080","M",FALSE,FALSE,"California",30.9,NA,116,65.9,60.1,105.9,62.5
+"148","Branta_bernicla",FALSE,"MVZ","73081","F",FALSE,FALSE,"California",30.1,115,109.5,61.7,56.8,99.8,57.7
+"149","Branta_bernicla",FALSE,"YIO","60808","M",TRUE,FALSE,"Tama Zoo",29.7,127.8,118.9,69.2,60.2,108.2,65.2
+"150","Branta_bernicla",FALSE,"YIO","62867","U",FALSE,FALSE,"Shikinejima Island, Japan",28.3,119.8,113.7,66.4,57.3,100.8,61.8
+"151","Branta_bernicla",FALSE,"YIO","63057","M",FALSE,FALSE,"Chiba, Japan",31.7,NA,NA,NA,62.6,NA,NA
+"152","Branta_bernicla",FALSE,"YIO","64413","F",TRUE,FALSE,"Tama Zoo",28.1,120.4,114.7,66.9,58.5,103.5,63.3
+"153","Branta_leucopsis",FALSE,"YIO","14142","M",TRUE,FALSE,"Tama Zoo",32.8,NA,NA,NA,72.1,NA,NA
+"154","Branta_ruficollis",FALSE,"YIO","14155","F",TRUE,FALSE,"Tama Zoo",27.1,NA,NA,NA,56.3,NA,NA
+"155","Branta_ruficollis",FALSE,"YIO","14156","M",TRUE,FALSE,"",28.8,NA,NA,NA,59.7,NA,NA
+"156","Branta_ruficollis",FALSE,"YIO","64408","M",TRUE,FALSE,"Tama Zoo",30.5,118.7,110.8,65.9,57.9,101.7,62.5
+"157","Branta_hutchinsi_leucopareia",FALSE,"YIO","14135","M",TRUE,FALSE,"Tama Zoo",31.1,NA,NA,NA,NA,NA,NA
+"158","Branta_hutchinsi_leucopareia",FALSE,"YIO","14136","M",TRUE,FALSE,"Tama Zoo",NA,NA,NA,NA,69,NA,NA
+"159","Branta_hutchinsi_leucopareia",FALSE,"YIO","14137","F",TRUE,FALSE,"Tama Zoo",29.5,NA,NA,NA,60.8,NA,NA
+"160","Branta_hutchinsi_minima",FALSE,"MVZ","151610","M",FALSE,FALSE,"California",32.9,133.5,126.1,76.1,66.2,111.8,70.9
+"161","Branta_hutchinsi_minima",FALSE,"MVZ","151611","F",FALSE,FALSE,"California",32.7,128.8,124.2,73.6,60.5,107,64.9
+"162","Branta_hutchinsi_minima",FALSE,"MVZ","151612","F",FALSE,FALSE,"California",31.8,132.1,125.3,71.3,63.7,112.2,69.6
+"163","Branta_hutchinsi_minima",FALSE,"MVZ","22458","U",FALSE,FALSE,"California",32.8,128.1,121.7,72.5,64,113.9,70.6
+"164","Branta_hutchinsi_minima",FALSE,"MVZ","43649","F",FALSE,FALSE,"California",31.6,NA,NA,NA,61.5,NA,NA
+"165","Branta_hutchinsi_minima",FALSE,"MVZ","53755","M",FALSE,FALSE,"California",33.1,NA,NA,NA,66,NA,NA
+"166","Branta_hutchinsi_minima",FALSE,"MVZ","53756","M",FALSE,FALSE,"California",33.6,NA,NA,NA,62.7,NA,NA
+"167","Branta_hutchinsi_minima",FALSE,"MVZ","53757","F",FALSE,FALSE,"California",29.6,NA,NA,NA,59.7,NA,NA
+"168","Branta_hutchinsi_minima",FALSE,"MVZ","68341","F",TRUE,FALSE,"California",31.8,131.8,128.4,73.9,64.5,115.7,68.9
+"169","Branta_hutchinsi_minima",FALSE,"MVZ","70314","M",FALSE,FALSE,"California",34.1,133.1,128.6,73.6,62.9,115.1,72.9
+"170","Branta_hutchinsi_minima",FALSE,"MVZ","70315","F",FALSE,FALSE,"California",31.2,121.1,118.7,68.3,59.9,106.9,66.8
+"171","Branta_hutchinsi_minima",FALSE,"MVZ","70316","M",FALSE,FALSE,"California",33.5,129.2,123.4,72.2,63.3,114.3,70.7
+"172","Branta_hutchinsi_minima",FALSE,"MVZ","70317","F",FALSE,FALSE,"California",34.7,132.3,128.4,76.2,62.9,113.1,69.6
+"173","Branta_hutchinsi_taverneri",FALSE,"MVZ","130093","M",FALSE,FALSE,"California",38.1,154.5,147.8,87.7,72.3,134.3,82.5
+"174","Branta_hutchinsi_taverneri",FALSE,"MVZ","22453","F",FALSE,FALSE,"California",38.4,153.5,147.8,88.2,73.4,129.6,78.9
+"175","Branta_hutchinsi_taverneri",FALSE,"MVZ","22459","F",FALSE,FALSE,"California",34.4,137.2,134.4,77.2,68.9,117.4,69.5
+"176","Branta_hutchinsi_taverneri",FALSE,"MVZ","53754","F",FALSE,FALSE,"California",37,NA,NA,NA,70.1,NA,NA
+"177","Branta_hutchinsi_taverneri",FALSE,"MVZ","70310","M",FALSE,FALSE,"California",36.7,159.3,151,87.5,74.7,133.2,82.2
+"178","Branta_canadensis_moffitti",FALSE,"MVZ","130094","F",FALSE,FALSE,"California",41.3,174,165,96.2,79.6,147,89.7
+"179","Branta_canadensis_moffitti",FALSE,"MVZ","132955","M",FALSE,FALSE,"California",42.6,185.7,176.9,102.3,85.2,151.9,95.2
+"180","Branta_canadensis_moffitti",FALSE,"MVZ","22456","F",FALSE,FALSE,"California",42.7,182.2,170.8,99.8,86.2,152,88.2
+"181","Branta_canadensis_interior",FALSE,"USNM","432591","F",FALSE,FALSE,"",44.2,173.7,NA,NA,85.8,149,NA
+"182","Branta_canadensis_canadensis",FALSE,"USNM","322272","M",FALSE,FALSE,"",42.2,171.7,157.8,94.6,80.6,138.6,86.1
+"183","Branta_canadensis_canadensis",FALSE,"USNM","322273","M",FALSE,FALSE,"",42.4,175.2,166.4,98.3,83.5,145.7,89.5
+"184","Branta_canadensis_canadensis",FALSE,"USNM","499395","F",FALSE,FALSE,"North Carolina",45.8,185.3,173.9,101.5,84.4,150.9,95.6
+"185","Branta_canadensis_canadensis",FALSE,"USNM","500889","M",FALSE,FALSE,"",41.4,167.4,157.6,94.5,79.1,135.4,83.4
+"186","Branta_canadensis_canadensis",FALSE,"USNM","631951","F",FALSE,FALSE,"Maryland",42.3,178.6,NA,100.4,84.1,148.1,87.7
+"187","Branta_sandvicensis",FALSE,"MNHN","1874-14","U",FALSE,FALSE,"",33.7,131.7,125.9,75,73.9,NA,NA
+"188","Branta_sandvicensis",FALSE,"MNHN","1886-518","U",FALSE,FALSE,"",27,131.5,124.4,72.4,74.9,134.1,88
+"189","Branta_sandvicensis",FALSE,"MNHN","1888-319","U",FALSE,FALSE,"",32.8,132.7,139.7,74.7,74.9,NA,NA
+"190","Branta_sandvicensis",FALSE,"MNHN","1891-983","U",FALSE,FALSE,"",34.6,145.8,137.3,78.5,78.5,NA,NA
+"191","Branta_sandvicensis",FALSE,"MNHN","A3632=IV1079","U",FALSE,FALSE,"",30.4,127.6,119.5,68.3,71.6,124.4,78.6
+"192","Branta_sandvicensis",FALSE,"MVZ","59136","F",FALSE,FALSE,"Hawaii",30,122.4,119,70.7,68,127.4,79.9
+"193","Branta_sandvicensis",FALSE,"MVZ","60896","U",FALSE,FALSE,"Hawaii",31.5,126.9,121.4,70.7,72.8,131.9,83.2
+"194","Branta_sandvicensis",FALSE,"MVZ","60923","U",FALSE,FALSE,"Hawaii",30.2,129.9,NA,NA,71.6,131.6,84.1
+"195","Branta_sandvicensis",FALSE,"MVZ","62789","U",FALSE,FALSE,"Hawaii",NA,117.3,NA,NA,67.3,128,81
+"196","Branta_sandvicensis",FALSE,"NMNSAS","1261","U",TRUE,FALSE,"Zoo",34.2,139,128.7,75.3,NA,NA,NA
+"197","Branta_sandvicensis",FALSE,"NMNSAS","1302","U",TRUE,FALSE,"Zoo",31.1,121.7,114.6,63.7,68.8,119.5,76.1
+"198","Branta_sandvicensis",FALSE,"USNM","320211","F",TRUE,FALSE,"",30.3,125.1,128.2,71.3,70.6,129.9,82.3
+"199","Branta_sandvicensis",FALSE,"USNM","323377","M",TRUE,FALSE,"",32.7,140.2,131.8,78.7,75.6,135,92
+"200","Branta_sandvicensis",FALSE,"USNM","500352","M",TRUE,FALSE,"",32.2,132,123.2,70.4,71.8,127,82.4
+"201","Branta_sandvicensis",FALSE,"USNM","553679","M",TRUE,FALSE,"",31.7,137.5,129,NA,73,136,88.6
+"202","Branta_sandvicensis",FALSE,"USNM","553800","F",TRUE,FALSE,"",30.4,128.7,120.5,70.6,NA,127,80.3
+"203","Branta_sandvicensis",FALSE,"USNM","576674","F",TRUE,FALSE,"",NA,126.7,NA,NA,69.5,NA,NA
+"204","Branta_sandvicensis",FALSE,"USNM","623378","M",TRUE,FALSE,"",32,136.6,129,73.4,74,131.5,82.4
+"205","Branta_sandvicensis",FALSE,"USNM","623380","M",TRUE,FALSE,"",32.8,136.6,128.8,74.9,72.9,131.2,85.4
+"206","Anser_canagicus",FALSE,"MVZ","25861","F",FALSE,FALSE,"California",30.8,NA,NA,NA,69.8,NA,NA
+"207","Anser_canagicus",FALSE,"MVZ","54483","U",FALSE,FALSE,"California",NA,NA,131.4,74.9,NA,NA,64.9
+"208","Anser_canagicus",FALSE,"MVZ","60292","F?",FALSE,FALSE,"Alaska",33.4,135,130.2,75.9,69.5,114.9,65.9
+"209","Anser_canagicus",FALSE,"NMNSAS","1301","U",TRUE,FALSE,"Zoo",33,138.6,133.5,79.3,74.1,NA,69.3
+"210","Anser_canagicus",FALSE,"YIO","14129","F",TRUE,FALSE,"Tama Zoo",29.8,NA,NA,NA,69.4,NA,NA
+"211","Anser_canagicus",FALSE,"YIO","14130","M",TRUE,FALSE,"Tama Zoo",31.3,NA,NA,NA,74.9,NA,NA
+"212","Anser_canagicus",FALSE,"YIO","14131","M",TRUE,FALSE,"Tama Zoo",33.6,NA,NA,NA,74,NA,NA
+"213","Anser_canagicus",FALSE,"YIO","62592","M",TRUE,FALSE,"Tama Zoo",33.5,149,143.1,83.7,75.5,131.3,76.8
+"214","Anser_caerulescens",FALSE,"MVZ","120301","F",TRUE,FALSE,"California",36.3,139.2,136.6,NA,70,126.1,77.5
+"215","Anser_caerulescens",FALSE,"MVZ","126638","M",FALSE,FALSE,"Alaska",38.6,146.3,143.6,81.5,72,126.8,82.6
+"216","Anser_caerulescens",FALSE,"MVZ","151615","U",FALSE,FALSE,"California",39.9,149.9,146,82.2,73.9,133.4,80.5
+"217","Anser_caerulescens",FALSE,"MVZ","22446","F",FALSE,FALSE,"California",38.1,150.8,NA,86.2,73.9,133.4,84.7
+"218","Anser_caerulescens",FALSE,"MVZ","22465","M",FALSE,FALSE,"California",39.9,147.1,NA,82,73,131.4,81.4
+"219","Anser_caerulescens",FALSE,"MVZ","28993","M",FALSE,FALSE,"California",39.5,NA,NA,NA,NA,NA,NA
+"220","Anser_caerulescens",FALSE,"MVZ","28994","F",FALSE,FALSE,"California",37.5,NA,NA,NA,71.8,NA,NA
+"221","Anser_caerulescens",FALSE,"MVZ","28995","M",FALSE,FALSE,"California",39.3,NA,NA,NA,77.2,NA,NA
+"222","Anser_caerulescens",FALSE,"MVZ","28996","M",FALSE,FALSE,"California",42,NA,NA,NA,75.4,NA,NA
+"223","Anser_caerulescens",FALSE,"MVZ","45555","F",FALSE,FALSE,"California",37.9,146.5,146.7,82.1,73.9,129.1,81.2
+"224","Anser_caerulescens",FALSE,"MVZ","54632","U",FALSE,FALSE,"California",39.2,159.3,158.4,89.9,77.1,138.4,91
+"225","Anser_caerulescens",FALSE,"MVZ","56270","U",FALSE,FALSE,"California",36,143.2,143.5,78.3,68.6,127.5,79.4
+"226","Anser_caerulescens",FALSE,"MVZ","62399","M",FALSE,FALSE,"CanadaQuebec",40.2,NA,NA,NA,NA,NA,NA
+"227","Anser_caerulescens",FALSE,"MVZ","62401","M",FALSE,FALSE,"CanadaQuebec",40.8,NA,NA,NA,NA,NA,NA
+"228","Anser_caerulescens",FALSE,"MVZ","78989","M",FALSE,FALSE,"Nevada",35.5,144.7,144.5,79.4,70.7,128.8,78.9
+"229","Anser_rossii",FALSE,"MVZ","115626","M",FALSE,FALSE,"California",NA,128.2,128.9,72.5,61.8,NA,72.5
+"230","Anser_rossii",FALSE,"MVZ","115900","M",FALSE,FALSE,"California",31.5,127,123.5,70.1,60.5,110.2,65.2
+"231","Anser_rossii",FALSE,"MVZ","119073","M",FALSE,FALSE,"California",32.6,136.2,135.4,77.7,65.1,121,75.9
+"232","Anser_rossii",FALSE,"MVZ","130992","F",FALSE,FALSE,"California",33,124.5,122.3,70.7,61.8,110.1,70.4
+"233","Anser_rossii",FALSE,"MVZ","130993","F",FALSE,FALSE,"California",33.3,129.3,129.8,72.1,64.6,114.6,69.4
+"234","Anser_rossii",FALSE,"MVZ","130994","F",FALSE,FALSE,"California",31.9,118.5,116.4,67.8,58.5,101.7,64.4
+"235","Anser_rossii",FALSE,"MVZ","130995","F",FALSE,FALSE,"California",31.3,127.4,125.7,72.6,62.7,NA,72.2
+"236","Anser_rossii",FALSE,"MVZ","130996","F",FALSE,FALSE,"California",32.5,125.1,124.3,74.3,60.1,109.2,67.7
+"237","Anser_rossii",FALSE,"MVZ","130997","M",FALSE,FALSE,"California",32.8,134.9,133.8,NA,64.2,120.2,73.6
+"238","Anser_rossii",FALSE,"MVZ","130998","M",FALSE,FALSE,"California",32.8,131.5,128.4,74.5,61.7,113.6,72.7
+"239","Anser_rossii",FALSE,"MVZ","130999","M",FALSE,FALSE,"California",32.7,126.9,126.2,72.9,63,110.8,66
+"240","Anser_rossii",FALSE,"MVZ","131000","F",FALSE,FALSE,"California",29.8,117.4,115.8,66.1,58.8,102.1,64.6
+"241","Anser_rossii",FALSE,"MVZ","131001","F",FALSE,FALSE,"California",28.5,119.2,118.4,67.8,57.4,105.6,63
+"242","Anser_rossii",FALSE,"MVZ","131002","M",FALSE,FALSE,"California",32,131.7,126.3,75.3,65.6,120,76.2
+"243","Anser_rossii",FALSE,"MVZ","131003","M",FALSE,FALSE,"California",32.7,132.7,132.9,76.8,63.2,118.4,73.3
+"244","Anser_rossii",FALSE,"MVZ","131004","U",FALSE,FALSE,"California",32.4,128.8,129.4,74.7,61.9,115,70.2
+"245","Anser_rossii",FALSE,"MVZ","133858","F",FALSE,FALSE,"California",NA,121.5,121.4,70.6,58.7,106.8,68.4
+"246","Anser_rossii",FALSE,"MVZ","133859","F",FALSE,FALSE,"California",32.5,123.9,121,68.7,60.1,107.9,67.3
+"247","Anser_rossii",FALSE,"MVZ","46025","M",FALSE,FALSE,"California",31.1,115.5,112.8,66.5,56.5,100,61.9
+"248","Anser_rossii",FALSE,"MVZ","46026","M",FALSE,FALSE,"California",30.3,126.3,126,73.4,60,113,70.1
+"249","Anser_rossii",FALSE,"MVZ","53760","M",FALSE,FALSE,"California",33.3,NA,NA,NA,67.6,NA,NA
+"250","Anser_rossii",FALSE,"MVZ","53761","F",FALSE,FALSE,"California",30.9,NA,NA,NA,59.1,NA,NA
+"251","Anser_rossii",FALSE,"MVZ","68056","M",FALSE,FALSE,"California",31.7,126.8,126.1,71.6,61.5,109.8,66.2
+"252","Anser_rossii",FALSE,"MVZ","84696","U",FALSE,FALSE,"California",34.7,131.6,128.5,73.8,61.8,112.2,70.9
+"253","Anser_indicus",FALSE,"MVZ","136143","M",TRUE,FALSE,"San Diego Zoo",36,155.5,148.8,NA,74.3,126.6,78.2
+"254","Anser_indicus",FALSE,"NMNSAS","1164","U",TRUE,FALSE,"Zoo",36.3,147.3,143.6,83.2,68.4,120.1,71.1
+"255","Anser_indicus",FALSE,"YIO","62676","F",TRUE,FALSE,"Tama Zoo",31,NA,NA,NA,69.9,NA,NA
+"256","Anser_anser",FALSE,"YIO","60807","F",TRUE,FALSE,"Tama Zoo",27.7,NA,NA,NA,NA,NA,NA
+"257","Anser_anser",FALSE,"YIO","62481","F",TRUE,FALSE,"Tama Zoo",32.2,151.9,143.5,NA,72,125.5,74
+"258","Anser_anser",FALSE,"YIO","62516","M",TRUE,FALSE,"Tama Zoo",32.7,164,155.8,NA,75.1,134.6,85.1
+"259","Anser_anser",FALSE,"YIO","62823","M",TRUE,FALSE,"Tama Zoo",35.1,NA,NA,NA,66.1,NA,NA
+"260","Anser_cygnoid",FALSE,"NMNSAS","1306","U",TRUE,FALSE,"Zoo",38.5,158.5,148.6,88.7,76.6,133.6,84.6
+"261","Anser_cygnoid",FALSE,"YIO","21468","M",TRUE,FALSE,"Tama Zoo",36.4,NA,NA,NA,NA,NA,NA
+"262","Anser_cygnoid",FALSE,"YIO","62578","F",TRUE,FALSE,"Tama Zoo",NA,159.2,NA,NA,73.9,130.9,79.9
+"263","Anser_cygnoid",FALSE,"YIO","62822","M",TRUE,FALSE,"Tama Zoo",40.4,NA,NA,NA,85.6,NA,NA
+"264","Anser_fabalis",FALSE,"NMNSAS","1138","U",TRUE,FALSE,"Zoo",39.3,161,152,90.9,78.8,131.2,77.9
+"265","Anser_fabalis",FALSE,"NMNSAS","1211","F",TRUE,FALSE,"Zoo",44,189.1,175.9,103.6,91.8,154.7,94.1
+"266","Anser_fabalis",FALSE,"YIO","14082","F",FALSE,FALSE,"Wakayama, Japan",38.3,NA,NA,NA,77.3,NA,NA
+"267","Anser_fabalis",FALSE,"YIO","62581","M",TRUE,FALSE,"Tama Zoo",39.8,175.2,166.5,99.7,82.1,140.9,84.1
+"268","Anser_fabalis",FALSE,"YIO","62595","M",TRUE,FALSE,"Tama Zoo",38.7,188.6,180.3,104.6,90.4,153.7,90.3
+"269","Anser_fabalis",FALSE,"YIO","62596","F",TRUE,FALSE,"Tama Zoo",NA,NA,NA,NA,90,154.2,93.2
+"270","Anser_fabalis",FALSE,"YIO","62974","F",FALSE,FALSE,"Kamishihoro, Hokkaido, Japan",43.1,183.7,NA,NA,87.2,153.1,93.2
+"271","Anser_albifrons",FALSE,"EP","25","M",TRUE,FALSE,"Tama Zoo",39.3,153.8,NA,NA,73,129.7,75.8
+"272","Anser_albifrons",FALSE,"MVZ","22466","F",FALSE,FALSE,"California",35,143.5,138.7,81.1,69.4,119.9,72.5
+"273","Anser_albifrons",FALSE,"MVZ","27134","M",FALSE,FALSE,"California",40.2,175.3,NA,NA,NA,NA,NA
+"274","Anser_albifrons",FALSE,"MVZ","27175","M",FALSE,FALSE,"California",37.6,NA,NA,NA,80.6,NA,NA
+"275","Anser_albifrons",FALSE,"MVZ","27176","F",FALSE,FALSE,"California",38.1,NA,NA,NA,78.8,NA,NA
+"276","Anser_albifrons",FALSE,"MVZ","27177","M",FALSE,FALSE,"California",43,NA,NA,NA,83.3,NA,NA
+"277","Anser_albifrons",FALSE,"MVZ","27572","M",FALSE,FALSE,"California",38.5,NA,NA,NA,79,NA,NA
+"278","Anser_albifrons",FALSE,"MVZ","27573","M",FALSE,FALSE,"California",37.8,NA,NA,NA,NA,NA,NA
+"279","Anser_albifrons",FALSE,"MVZ","27574","F",FALSE,FALSE,"California",34.5,NA,NA,NA,69.6,NA,NA
+"280","Anser_albifrons",FALSE,"MVZ","27575","F",FALSE,FALSE,"California",41.8,NA,NA,NA,80.1,NA,NA
+"281","Anser_albifrons",FALSE,"MVZ","27576","F",FALSE,FALSE,"California",39,NA,NA,NA,77.2,NA,NA
+"282","Anser_albifrons",FALSE,"MVZ","27577","F",FALSE,FALSE,"California",NA,NA,NA,NA,78.1,NA,NA
+"283","Anser_albifrons",FALSE,"MVZ","27578","M",FALSE,FALSE,"California",41.4,NA,NA,NA,78.2,NA,NA
+"284","Anser_albifrons",FALSE,"MVZ","27579","M",FALSE,FALSE,"California",37.5,NA,NA,NA,72.9,NA,NA
+"285","Anser_albifrons",FALSE,"MVZ","27580","F",FALSE,FALSE,"California",32.6,NA,NA,NA,67.9,NA,NA
+"286","Anser_albifrons",FALSE,"MVZ","27581","M",FALSE,FALSE,"California",33.9,NA,NA,NA,75,NA,NA
+"287","Anser_albifrons",FALSE,"MVZ","27582","F",FALSE,FALSE,"California",33.7,NA,NA,NA,69.9,NA,NA
+"288","Anser_albifrons",FALSE,"MVZ","27794","M",FALSE,FALSE,"California",34.3,157.2,151.5,89.5,74.3,127.5,77.3
+"289","Anser_albifrons",FALSE,"MVZ","28983","U",FALSE,FALSE,"Alaska?",NA,NA,151.9,89.7,NA,134.9,79.6
+"290","Anser_albifrons",FALSE,"MVZ","43648","F",FALSE,FALSE,"California",36.4,NA,NA,NA,69.2,NA,NA
+"291","Anser_albifrons",FALSE,"MVZ","46018","M",FALSE,FALSE,"California",34.7,154.2,148.9,88.8,75.7,128,76.3
+"292","Anser_albifrons",FALSE,"MVZ","53758","F",FALSE,FALSE,"California",34.2,NA,NA,NA,65.8,NA,NA
+"293","Anser_albifrons",FALSE,"MVZ","53759","M",FALSE,FALSE,"California",35.6,NA,NA,NA,74.5,NA,NA
+"294","Anser_albifrons",FALSE,"MVZ","70320","F",FALSE,FALSE,"California",36.1,150.4,149.4,86.4,73.4,129.4,77
+"295","Anser_albifrons",FALSE,"MVZ","70321","F",FALSE,FALSE,"California",37.4,150.3,146.4,85.2,71.6,122.5,75
+"296","Anser_albifrons",FALSE,"MVZ","70322","M",FALSE,FALSE,"California",36.8,145,139.9,84.1,72.4,120.2,73.2
+"297","Anser_albifrons",FALSE,"MVZ","70323","M",FALSE,FALSE,"California",36.7,150.7,143.5,85.9,72.9,130.3,78.3
+"298","Anser_albifrons",FALSE,"MVZ","70324","F",FALSE,FALSE,"California",34.1,147.2,143,83.5,70.1,119.7,71.7
+"299","Anser_albifrons",FALSE,"MVZ","70327","M",FALSE,FALSE,"California",37.6,152.1,148.9,87.5,72.3,128.2,78.6
+"300","Anser_albifrons",FALSE,"USNM","429116","F",FALSE,FALSE,"",30.7,147.3,141.1,83.1,68.9,121,71.2
+"301","Anser_albifrons",FALSE,"USNM","430298","F",FALSE,FALSE,"",33.4,139.5,135.8,79.2,68,117.3,69.6
+"302","Anser_albifrons",FALSE,"USNM","431949","F",FALSE,FALSE,"",33.3,143.5,138.3,80.7,68.9,NA,69
+"303","Anser_albifrons",FALSE,"USNM","432003","M",FALSE,FALSE,"",32.6,152.3,148.4,86.3,75.2,129.7,77.5
+"304","Anser_albifrons",FALSE,"USNM","488577","M",FALSE,FALSE,"",31.9,148.7,143.6,83.9,72.1,127.3,75.8
+"305","Anser_albifrons",FALSE,"USNM","488658","M",FALSE,FALSE,"",35.1,144.8,140.2,82.9,70.9,122.2,75.4
+"306","Anser_albifrons",FALSE,"USNM","488745","F",FALSE,FALSE,"",34.5,152.3,147,87.8,72.5,125.7,75.2
+"307","Anser_albifrons",FALSE,"USNM","489350","M",FALSE,FALSE,"",31,154.7,151.9,89.2,74.5,128,78.8
+"308","Anser_albifrons",FALSE,"USNM","489754","M",FALSE,FALSE,"",32.5,142.7,137.8,79.8,69.1,118.8,69.5
+"309","Anser_albifrons",FALSE,"USNM","528783","F",FALSE,FALSE,"",33.8,NA,NA,NA,73.5,NA,NA
+"310","Anser_albifrons",FALSE,"YIO","60806","F",TRUE,FALSE,"Tama Zoo",33.8,NA,NA,NA,NA,NA,NA
+"311","Anser_albifrons",FALSE,"YIO","63257","M",FALSE,FALSE,"Shizuoka, Japan",31.7,NA,NA,NA,68.2,NA,NA
+"312","Anser_albifrons",FALSE,"YIO","63258","M",FALSE,FALSE,"Shizuoka, Japan",34.7,NA,NA,NA,72.5,NA,NA
+"313","Anser_erythropus",FALSE,"NMNSAS","1076","F",TRUE,FALSE,"Zoo",34.5,135.1,130.4,75.2,64.6,110.1,63.7
+"314","Anser_erythropus",FALSE,"NMNSAS","727","U",TRUE,FALSE,"Zoo",32.6,127.8,123.4,72.2,63.5,110.5,65.8
+"315","Clangula_hyemalis",FALSE,"MVZ","125127","M",FALSE,FALSE,"Wisconsin",21.1,71.2,63.8,45.5,42.3,67.5,34.9
+"316","Clangula_hyemalis",FALSE,"MVZ","125128","F",FALSE,FALSE,"",20.2,72.6,64.4,45.3,42.4,66,34.4
+"317","Clangula_hyemalis",FALSE,"MVZ","126639","M",FALSE,FALSE,"Alaska",22.3,76.5,69.5,48,43.5,72.7,36.6
+"318","Clangula_hyemalis",FALSE,"MVZ","144551","M",FALSE,FALSE,"California",21.1,72.4,NA,NA,42.5,NA,NA
+"319","Clangula_hyemalis",FALSE,"MVZ","177562","M",FALSE,FALSE,"California",NA,NA,63.7,43.6,41,65.6,34.4
+"320","Clangula_hyemalis",FALSE,"MVZ","60325","M",FALSE,FALSE,"Alaska",22.2,68.5,62.2,42.9,39.8,64.4,33.1
+"321","Clangula_hyemalis",FALSE,"MVZ","60326","F",FALSE,FALSE,"Alaska",19.1,70.8,63.2,44.5,40.3,65.7,34.1
+"322","Clangula_hyemalis",FALSE,"MVZ","60327","F",FALSE,FALSE,"Alaska",21.4,72.7,66.1,45.3,41.5,69.5,34.9
+"323","Clangula_hyemalis",FALSE,"MVZ","60330","M",FALSE,FALSE,"Alaska",22.7,73.7,66.5,46.8,41.4,66.5,36.2
+"324","Clangula_hyemalis",FALSE,"MVZ","60331","F",FALSE,FALSE,"Alaska",20.7,71.4,63.5,44.3,41,66.5,33.8
+"325","Clangula_hyemalis",FALSE,"MVZ","68390","M",FALSE,FALSE,"",NA,71.8,64,43.9,NA,64.9,34.7
+"326","Clangula_hyemalis",FALSE,"MVZ","68391","M",FALSE,FALSE,"Alaska",NA,NA,64.1,44.9,NA,NA,34.7
+"327","Somateria_mollissima",FALSE,"USNM","16782","F",FALSE,FALSE,"Greenland",26.6,105.2,92.3,62.8,61.1,97.1,49.1
+"328","Somateria_mollissima",FALSE,"USNM","492714","M",FALSE,FALSE,"Massachusetts",27.5,110.7,96.6,65.1,63.5,101.6,52.5
+"329","Somateria_mollissima",FALSE,"USNM","499635","F",FALSE,FALSE,"Massachusetts",28.5,105.8,93.4,64.5,63,101.3,51.9
+"330","Somateria_mollissima",FALSE,"USNM","561000","F",FALSE,FALSE,"Maine",26.3,100.8,88.9,61.5,60,97.5,52.6
+"331","Somateria_mollissima",FALSE,"USNM","610690","F",FALSE,FALSE,"Massachusetts",26.6,110.1,95.2,66.3,63.2,101.6,51.4
+"332","Somateria_mollissima",FALSE,"USNM","632082","F",FALSE,FALSE,"",27.9,106.5,93,63.5,64,97.7,49
+"333","Somateria_mollissima",FALSE,"USNM","632087","M",FALSE,FALSE,"Massachusetts",26.3,110.2,96.9,66.7,64.1,103.3,54.4
+"334","Somateria_mollissima",FALSE,"USNM","632089","M",FALSE,FALSE,"",28.1,108.7,95.1,65.2,64,101.7,51.7
+"335","Somateria_mollissima",FALSE,"USNM","632090","M",FALSE,FALSE,"Massachusetts",26.3,116.8,101.6,69.5,68.5,104.1,53.4
+"336","Somateria_mollissima",FALSE,"USNM","632091","M",FALSE,FALSE,"Massachusetts",26.8,108.9,96.6,65.1,64.6,99.9,51.6
+"337","Melanitta_perspicillata",FALSE,"MVZ","151662","M",FALSE,FALSE,"California",22.3,84,76.2,49.1,49,81,43.7
+"338","Melanitta_perspicillata",FALSE,"MVZ","151663","F",FALSE,FALSE,"California",21.6,79.4,71.8,46.1,47.4,79,42.9
+"339","Melanitta_perspicillata",FALSE,"MVZ","151664","F",FALSE,FALSE,"California",21.5,82.3,74.3,47.4,48,78.5,41.1
+"340","Melanitta_perspicillata",FALSE,"MVZ","176016","M",FALSE,FALSE,"California",22.4,84.3,75.6,49.3,48.7,81.1,45
+"341","Melanitta_perspicillata",FALSE,"MVZ","183939","F",FALSE,FALSE,"California",21,NA,NA,NA,48.2,NA,NA
+"342","Melanitta_perspicillata",FALSE,"MVZ","19095","M",FALSE,FALSE,"California",24,85.5,77.6,50.3,52.1,85.6,45.7
+"343","Melanitta_perspicillata",FALSE,"MVZ","41843","F",FALSE,FALSE,"California",21.2,77.7,72.8,46.2,46.9,77.2,42.2
+"344","Melanitta_perspicillata",FALSE,"MVZ","46811","M",FALSE,FALSE,"California",22.7,87.3,79.3,51,50.5,84.7,45.3
+"345","Melanitta_perspicillata",FALSE,"MVZ","49391","M",FALSE,FALSE,"California",21.4,85.4,77.2,51.4,50.6,82.4,45.2
+"346","Melanitta_perspicillata",FALSE,"MVZ","49502","M",FALSE,FALSE,"California",21.7,81.3,74.8,48.3,48.5,79.9,43.7
+"347","Melanitta_perspicillata",FALSE,"MVZ","54433","U",FALSE,FALSE,"California",19.3,78.3,72,47.2,46.3,75.6,40.7
+"348","Melanitta_perspicillata",FALSE,"MVZ","54436","U",FALSE,FALSE,"California",21.9,81,72.8,47.1,47,78.4,42.9
+"349","Melanitta_perspicillata",FALSE,"MVZ","70626","F",FALSE,FALSE,"California",21.7,82.7,74.2,48.2,48.9,79.8,43.3
+"350","Melanitta_perspicillata",FALSE,"MVZ","70627","M",FALSE,FALSE,"California",22.6,83.3,77.4,50.7,49.5,83.8,44.4
+"351","Melanitta_stejnegeri",FALSE,"MVZ","125433","M",FALSE,FALSE,"JapanChiba Prefecture",26.1,NA,NA,NA,55.2,NA,NA
+"352","Melanitta_stejnegeri",FALSE,"YIO","63422","M",FALSE,FALSE,"Chiba, Japan",27.7,NA,NA,NA,55.7,NA,NA
+"353","Melanitta_stejnegeri",FALSE,"YIO","64405","U",FALSE,FALSE,"Nemuro, Hokkaido, Japan",23.4,96.4,87.2,56.2,54.6,90,43.6
+"354","Melanitta_deglandi",FALSE,"MVZ","151658","M",FALSE,FALSE,"California",23.3,94.5,86.2,57.4,53.7,88.7,47.2
+"355","Melanitta_deglandi",FALSE,"MVZ","151659","M",FALSE,FALSE,"California",24.3,98.7,88,57,55.1,91.6,50
+"356","Melanitta_deglandi",FALSE,"MVZ","151660","F",FALSE,FALSE,"California",25.5,97.3,85.7,55.5,55.6,89.5,48.1
+"357","Melanitta_deglandi",FALSE,"MVZ","151661","M",FALSE,FALSE,"California",27.1,97.6,87.6,56.9,55.1,92,49.1
+"358","Melanitta_deglandi",FALSE,"MVZ","171445","F",FALSE,FALSE,"California",28.4,102.5,92.6,60.9,57.5,94.5,51.1
+"359","Melanitta_deglandi",FALSE,"MVZ","19093","U",FALSE,FALSE,"California",23.7,94.8,83.8,54.5,54.6,88.8,49.4
+"360","Melanitta_deglandi",FALSE,"MVZ","19094","M",FALSE,FALSE,"California",27.5,103.1,92,58.8,58.8,97.7,52.4
+"361","Melanitta_deglandi",FALSE,"MVZ","46122","U",FALSE,FALSE,"California",24.8,97.4,88.9,57.7,56.4,90.6,47.1
+"362","Melanitta_deglandi",FALSE,"MVZ","46123","U",FALSE,FALSE,"California",26.6,103.4,92.5,61.3,NA,98.6,55
+"363","Melanitta_deglandi",FALSE,"MVZ","46132","U",FALSE,FALSE,"California",24.9,97,86.9,55.9,54.3,90.6,47.8
+"364","Melanitta_deglandi",FALSE,"MVZ","46133","U",FALSE,FALSE,"California",26,96.2,86.8,56.8,53.9,92,47.9
+"365","Melanitta_deglandi",FALSE,"MVZ","46803","F",FALSE,FALSE,"California",NA,94.5,85.4,54.9,54,88.4,46.8
+"366","Melanitta_deglandi",FALSE,"MVZ","54432","U",FALSE,FALSE,"California",26.4,102.5,91.7,59.5,57.8,98.2,51.8
+"367","Melanitta_deglandi",FALSE,"MVZ","54592","U",FALSE,FALSE,"California",25.4,99.2,90.8,57.5,56.6,92.7,48.7
+"368","Melanitta_deglandi",FALSE,"MVZ","70624","M",FALSE,FALSE,"California",27.8,103.9,93,60.5,59.3,98.9,53.1
+"369","Melanitta_deglandi",FALSE,"MVZ","70625","F",FALSE,FALSE,"California",NA,98.9,89.9,58,56,93.7,50.7
+"370","Melanitta_deglandi",FALSE,"MVZ","74901","F",FALSE,FALSE,"California",24.2,98.1,88.3,58.1,55.9,94.1,49.5
+"371","Melanitta_nigra",FALSE,"USNM","432286","M",FALSE,FALSE,"Netherlands",20.8,95,85.9,53.6,52.4,86.3,45.6
+"372","Melanitta_nigra",FALSE,"USNM","432289","F",FALSE,FALSE,"Netherlands",21.5,89.9,83.2,51.8,50.3,81.8,43.2
+"373","Melanitta_americana",FALSE,"MVZ","28959","M",FALSE,FALSE,"Alaska",NA,NA,89.9,58.3,NA,NA,48.7
+"374","Melanitta_americana",FALSE,"MVZ","28977","M",FALSE,FALSE,"Alaska",NA,NA,NA,NA,NA,NA,49.3
+"375","Melanitta_americana",FALSE,"MVZ","53897","M",FALSE,FALSE,"CanadaBritish Columbia",23.4,99.9,90.1,57.2,56.5,91.7,49.4
+"376","Melanitta_americana",FALSE,"USNM","491312","M",FALSE,FALSE,"Maryland",21.2,96,85.9,55.4,52.4,83.7,45
+"377","Melanitta_americana",FALSE,"USNM","500944","M",FALSE,FALSE,"Maryland",20.2,92.7,83.5,52.7,52.2,83.5,43
+"378","Melanitta_americana",FALSE,"USNM","501625","M",FALSE,FALSE,"North Carolina",20.7,95.7,85.4,54.7,52.6,86.1,46.3
+"379","Melanitta_americana",FALSE,"USNM","560958","F",FALSE,FALSE,"New York",20.9,87.1,78.3,48.7,50.3,80.9,41.4
+"380","Melanitta_americana",FALSE,"USNM","623349","F",FALSE,FALSE,"North Carolina",18.9,86.8,79.8,50,49.5,80.4,42.2
+"381","Melanitta_americana",FALSE,"USNM","623350","F",FALSE,FALSE,"North Carolina",18.4,87.8,79.4,50.4,49.2,81.5,42.5
+"382","Melanitta_americana",FALSE,"USNM","623351","M",FALSE,FALSE,"North Carolina",20.5,91.6,83.4,53.5,51.6,86.6,43.7
+"383","Melanitta_americana",FALSE,"USNM","623467","F",FALSE,FALSE,"",20.3,87,78.1,49.9,49.3,80.9,NA
+"384","Melanitta_americana",FALSE,"YIO","63424","M",FALSE,FALSE,"Chiba, Japan",21.6,NA,NA,NA,52,NA,NA
+"385","Melanitta_americana",FALSE,"YIO","64406","U",FALSE,FALSE,"?",21.4,94.1,83.5,53.5,50.4,84.6,45.3
+"386","Bucephala_albeola",FALSE,"MVZ","151004","F",FALSE,FALSE,"California",15.2,56.8,48,31.9,35.8,51.4,29.7
+"387","Bucephala_albeola",FALSE,"MVZ","28975","F",FALSE,FALSE,"Alaska",NA,NA,52.9,36.6,NA,NA,34
+"388","Bucephala_albeola",FALSE,"MVZ","45050","M",FALSE,FALSE,"California",17.6,63.8,55.4,38,38.9,59.1,34.1
+"389","Bucephala_albeola",FALSE,"MVZ","84716","F",FALSE,FALSE,"Washington",16,57.5,50.2,34,36.5,NA,31
+"390","Bucephala_clangula",FALSE,"MVZ","120322","F?",FALSE,FALSE,"California",22.1,75.4,64.2,45.6,46.7,66.9,36.6
+"391","Bucephala_clangula",FALSE,"MVZ","120323","F",FALSE,FALSE,"California",21.4,78.3,68.4,46.2,48.5,69.3,37.2
+"392","Bucephala_clangula",FALSE,"MVZ","122571","M",FALSE,FALSE,"California",24.4,80.3,70.3,47.9,49.9,72.2,39.2
+"393","Bucephala_clangula",FALSE,"MVZ","128710","F",FALSE,FALSE,"JapanChiba Prefecture",20.5,70.9,61.1,42.1,44.4,63.3,34.1
+"394","Bucephala_clangula",FALSE,"MVZ","140395","F",FALSE,FALSE,"Korea",20.9,71.5,62.1,43.4,44.4,62.8,34.4
+"395","Bucephala_clangula",FALSE,"MVZ","151656","F",FALSE,FALSE,"Nevada",21.4,NA,62.9,43.3,44.3,64.6,35
+"396","Bucephala_clangula",FALSE,"MVZ","28962","U",FALSE,FALSE,"Alaska",NA,NA,76.8,52.8,NA,NA,42.2
+"397","Bucephala_clangula",FALSE,"MVZ","29006","M",FALSE,FALSE,"California",24.1,NA,NA,NA,NA,NA,NA
+"398","Bucephala_clangula",FALSE,"MVZ","46039","F",FALSE,FALSE,"California",20.9,75,64.9,45.2,46,66.2,36
+"399","Bucephala_clangula",FALSE,"MVZ","72529","F",FALSE,FALSE,"California",19.7,72.2,62.6,42.3,45.1,65.3,36.1
+"400","Bucephala_clangula",FALSE,"MVZ","84717","F",FALSE,FALSE,"Washington",20.2,72.9,63.3,44.1,45.9,66,35.9
+"401","Bucephala_clangula",FALSE,"NMNSAS","40","M",FALSE,FALSE,"",23.6,83.3,73.2,50.2,50.6,75.3,42.9
+"402","Bucephala_clangula",FALSE,"YIO","21246","M",FALSE,FALSE,"Koshimizu, Hokkaido, Japan",24.1,NA,NA,NA,NA,NA,NA
+"403","Bucephala_clangula",FALSE,"YIO","60826","M",TRUE,FALSE,"Tama Zoo",23.2,NA,NA,NA,NA,NA,NA
+"404","Bucephala_islandica",FALSE,"MVZ","63056","F",FALSE,FALSE,"CanadaBritish Columbia",21.1,77.4,68.6,47.6,46.8,68,36.5
+"405","Mergellus_albellus",FALSE,"NMNSAS","1250","U",TRUE,FALSE,"Zoo",18.5,72.3,59.5,41.6,40.6,63.4,34.9
+"406","Mergellus_albellus",FALSE,"YIO","21339","M",FALSE,FALSE,"Tofutsu Lake, Hokkaido, Japan",20.6,NA,NA,NA,NA,NA,NA
+"407","Lophodytes_cucullatus",FALSE,"MVZ","63057","F",FALSE,FALSE,"CanadaBritish Columbia",20.5,64.4,53.2,38.9,37.5,58.4,30.9
+"408","Mergus_merganser",FALSE,"MVZ","66591","F",FALSE,FALSE,"California",27.1,86.3,73.1,52.2,49,81.7,46.7
+"409","Mergus_merganser",FALSE,"USNM","156","U",FALSE,FALSE,"",30.3,NA,NA,NA,NA,NA,NA
+"410","Mergus_merganser",FALSE,"USNM","15807","U",FALSE,FALSE,"",30,NA,NA,NA,NA,NA,NA
+"411","Mergus_merganser",FALSE,"USNM","18596","F",FALSE,FALSE,"",26.1,85.9,72.4,52.7,47.7,NA,NA
+"412","Mergus_merganser",FALSE,"USNM","223929","U",FALSE,FALSE,"",28.9,95.9,NA,NA,NA,NA,NA
+"413","Mergus_merganser",FALSE,"USNM","289881","F",FALSE,FALSE,"",17.7,89.2,74.7,55.2,49.9,NA,NA
+"414","Mergus_merganser",FALSE,"USNM","291659","U",FALSE,FALSE,"",31.2,102.4,84.2,61.3,57.1,NA,NA
+"415","Mergus_merganser",FALSE,"USNM","292743","M",FALSE,FALSE,"",30.6,104.2,87.3,61.7,57.4,NA,NA
+"416","Mergus_merganser",FALSE,"USNM","292744","U",FALSE,FALSE,"",25.9,86.4,74.4,52.6,48.9,NA,NA
+"417","Mergus_merganser",FALSE,"USNM","292745","F",FALSE,FALSE,"",NA,91.9,77,53.6,50.1,NA,NA
+"418","Mergus_merganser",FALSE,"USNM","292746","F",FALSE,FALSE,"",24.6,90.9,NA,NA,50.5,NA,NA
+"419","Mergus_merganser",FALSE,"USNM","292747","F",FALSE,FALSE,"",24.5,88.3,75.1,53.6,49.2,NA,NA
+"420","Mergus_merganser",FALSE,"USNM","292748","F",FALSE,FALSE,"",24.4,91.8,76.2,54.9,48.2,81.6,46.3
+"421","Mergus_merganser",FALSE,"USNM","292749","F",FALSE,FALSE,"",25.7,92,78,55.1,51.6,84.7,48.2
+"422","Mergus_merganser",FALSE,"USNM","292750","M",FALSE,FALSE,"",28.5,100,84.1,61.2,54.6,90.5,52.2
+"423","Mergus_merganser",FALSE,"USNM","292751","F",FALSE,FALSE,"",24.8,88,75.4,54,47.2,NA,NA
+"424","Mergus_merganser",FALSE,"USNM","318986","F",FALSE,FALSE,"",26.3,90.7,77.1,54.1,50.9,NA,NA
+"425","Mergus_merganser",FALSE,"USNM","321972","F",FALSE,FALSE,"",28.6,89.4,75.3,53.8,49.2,NA,NA
+"426","Mergus_merganser",FALSE,"USNM","432709","F",FALSE,FALSE,"",25.3,85.5,72.1,51.3,47.5,79.5,45.2
+"427","Mergus_merganser",FALSE,"USNM","432711","M",FALSE,FALSE,"",31.1,97.3,81.5,59,54.6,NA,NA
+"428","Mergus_merganser",FALSE,"USNM","488720","M",FALSE,FALSE,"",28.4,NA,79.6,57.8,52.8,NA,NA
+"429","Mergus_merganser",FALSE,"USNM","499636","F",FALSE,FALSE,"",26.6,87.9,75.2,53.2,48.4,NA,NA
+"430","Mergus_merganser",FALSE,"USNM","499637","F",FALSE,FALSE,"",26.2,89.2,73.2,53.7,48.6,78.5,46.2
+"431","Mergus_merganser",FALSE,"USNM","499637","F",FALSE,FALSE,"",26,87.9,75,53.1,48.8,82.3,46.1
+"432","Mergus_merganser",FALSE,"USNM","555255","M",FALSE,FALSE,"",26.4,94.6,NA,56.4,NA,NA,NA
+"433","Mergus_merganser",FALSE,"USNM","560990","M",FALSE,FALSE,"",28.8,89,79.5,58.1,52.9,83.7,45.3
+"434","Mergus_merganser",FALSE,"USNM","610716","M",FALSE,FALSE,"",28.1,96.3,81.1,59.5,54.6,92.1,52.2
+"435","Mergus_merganser",FALSE,"USNM","610717","M",FALSE,FALSE,"",29,94,79.7,58.2,53.1,87.1,50
+"436","Mergus_merganser",FALSE,"USNM","615092","M",TRUE,FALSE,"",28.7,93.8,77.1,56,50.9,NA,NA
+"437","Mergus_merganser",FALSE,"USNM","616715","M",FALSE,FALSE,"",29.9,NA,78.5,56.6,52.7,NA,NA
+"438","Mergus_merganser",FALSE,"USNM","631972","F",FALSE,FALSE,"",26.5,86,72.2,51.9,46.8,NA,NA
+"439","Mergus_merganser",FALSE,"USNM","634857","M",FALSE,FALSE,"",30.4,95.2,81.3,59,51.9,89,51.2
+"440","Mergus_squamatus",FALSE,"USNM","292752","M",FALSE,FALSE,"China",24.9,85.7,73.3,52.6,48.4,80,44.8
+"441","Mergus_serrator",FALSE,"NMNSAS","1110","M",FALSE,FALSE,"Japan",28.6,87.8,73.5,51.4,47.9,82.5,46.3
+"442","Mergus_serrator",FALSE,"YIO","15237","F",FALSE,FALSE,"Tofutsu Lake, Hokkaido, Japan",24.9,NA,NA,NA,NA,NA,NA
+"443","Mergus_serrator",FALSE,"YIO","21372","F?",FALSE,FALSE,"Tofutsu Lake, Hokkaido, Japan",25.4,NA,NA,NA,43.3,NA,NA
+"444","Mergus_australis",FALSE,"NHMUK","1904.8.4.2","F",FALSE,FALSE,"",17.7,67.9,54.8,38.8,42.6,71.4,40.1
+"445","Mergus_australis",FALSE,"NHMUK","1904.8.4.3","M",FALSE,FALSE,"",19,72.1,57.7,40.9,45.4,NA,NA
+"446","Mergus_australis",FALSE,"NHMUK","1904.8.4.4","F",FALSE,FALSE,"",17.5,68.9,55,38.5,43,72.2,41.1
+"447","Histrionicus_histrionicus",FALSE,"EP","","U",FALSE,FALSE,"Rebun Island, Hokkaido, Japan",16.8,65.6,55.2,41,42.2,69.9,NA
+"448","Histrionicus_histrionicus",FALSE,"EP","260","U",FALSE,FALSE,"Nakhodka Oil Spill, Japan",NA,64.1,54.9,40.8,41.7,67.6,36.4
+"449","Histrionicus_histrionicus",FALSE,"MVZ","119054","M",FALSE,FALSE,"California",17.7,67.5,NA,NA,43,NA,NA
+"450","Histrionicus_histrionicus",FALSE,"MVZ","49749","M",FALSE,FALSE,"Alaska",18.6,66.5,57.6,41.6,43.2,69.4,36.9
+"451","Histrionicus_histrionicus",FALSE,"MVZ","57231","F",FALSE,FALSE,"California",17.6,NA,NA,NA,NA,NA,NA
+"452","Histrionicus_histrionicus",FALSE,"MVZ","60342","F",FALSE,FALSE,"Alaska",18.2,64.6,55.4,40.2,41.9,67.8,36.4
+"453","Histrionicus_histrionicus",FALSE,"MVZ","60343","F",FALSE,FALSE,"Alaska",16.9,64.3,55.4,40.3,41.8,69.9,37
+"454","Histrionicus_histrionicus",FALSE,"MVZ","60344","M",FALSE,FALSE,"Alaska",19,67.8,58.5,42.9,43.2,72.5,38.3
+"455","Histrionicus_histrionicus",FALSE,"MVZ","97129","M",FALSE,FALSE,"California",17.8,67,NA,NA,42.5,NA,NA
+"456","Camptorhynchus_labradorius",FALSE,"USNM","1972","M",FALSE,FALSE,"",NA,NA,69.7,48.7,NA,NA,48.2
+"457","Camptorhynchus_labradorius",FALSE,"USNM","500378","M",FALSE,FALSE,"",22.4,NA,NA,NA,NA,NA,NA
+"458","Chloephaga_melanoptera",FALSE,"MVZ","125160","F",FALSE,FALSE,"PeruDepartamento Arequipa",27.5,132.1,133.6,73.7,71.8,127.7,75.8
+"459","Chloephaga_melanoptera",FALSE,"MVZ","125161","M",FALSE,FALSE,"PeruDepartamento Arequipa",29.4,151.6,155.2,85.8,82.5,143.1,88
+"460","Chloephaga_melanoptera",FALSE,"MVZ","125162","F",FALSE,FALSE,"PeruDepartamento Puno",24.2,128.8,130.5,71.1,71.2,124,77.9
+"461","Chloephaga_picta",FALSE,"MNHN","1869-474","U",FALSE,FALSE,"",35.5,174,168,99.1,NA,NA,NA
+"462","Chloephaga_picta",FALSE,"MNHN","1884-773","U",FALSE,FALSE,"",36.6,162.9,158.4,92.5,90.5,164.3,99.6
+"463","Chloephaga_picta",FALSE,"MNHN","1887-423","U",FALSE,FALSE,"",34.5,167.8,164,96.7,93.3,163.8,104.2
+"464","Chloephaga_picta",FALSE,"MNHN","1887-531","U",FALSE,FALSE,"",32.2,145.7,138.7,83.8,80.3,138.2,NA
+"465","Chloephaga_picta",FALSE,"MNHN","1889-40","U",FALSE,FALSE,"",33.4,151.2,147.3,87.7,86.8,155.4,93
+"466","Chloephaga_picta",FALSE,"MNHN","1891-649","U",FALSE,FALSE,"",32.3,150,147.2,85.5,85.1,147.2,94.3
+"467","Chloephaga_picta",FALSE,"MNHN","1909-316","U",FALSE,FALSE,"",33.5,152.2,149.6,86.8,85.1,148.6,93.4
+"468","Chloephaga_picta",FALSE,"MNHN","1983-11","U",FALSE,FALSE,"",35.4,163.3,159.2,93.1,88.6,153.3,96.9
+"469","Chloephaga_picta",FALSE,"MNHN","1994-105","U",FALSE,FALSE,"",34.8,163.3,158,91.9,89.1,149.7,90
+"470","Tadorna_tadorna",FALSE,"USNM","432291","M",FALSE,FALSE,"",24.9,114.1,106.6,67.4,57.3,99.5,59.2
+"471","Tadorna_tadorna",FALSE,"USNM","502094","F",TRUE,FALSE,"",22.3,98.7,92.2,60.4,50.1,88.3,54.8
+"472","Tadorna_tadorna",FALSE,"USNM","553295","M",FALSE,FALSE,"",22.5,107.4,100.6,64.7,53.2,94.8,55
+"473","Tadorna_tadorna",FALSE,"USNM","555155","M",FALSE,FALSE,"",23.4,106.2,99.5,63.2,55.3,94.8,55.4
+"474","Tadorna_tadorna",FALSE,"USNM","614124","M",FALSE,FALSE,"",24.4,104.8,96.8,62.1,54.2,96.1,55.5
+"475","Tadorna_tadorna",FALSE,"USNM","614125","F",FALSE,FALSE,"",26.3,108.8,103.3,65.7,55.7,98.2,56
+"476","Tadorna_tadorna",FALSE,"USNM","621193","M",FALSE,FALSE,"",25.1,110,102.7,64.1,54.3,95.8,57.8
+"477","Tadorna_tadorna",FALSE,"USNM","621194","F",FALSE,FALSE,"",22.2,95.3,90.6,57.9,47.9,85,50.1
+"478","Tadorna_ferruginea",FALSE,"NMNSAS","207","F",TRUE,FALSE,"Zoo",25.4,108.4,103.6,67.7,54.3,91.9,58.6
+"479","Tadorna_ferruginea",FALSE,"YIO","62471","U",FALSE,FALSE,"Aichi, Japan",26,118.3,110.8,71.7,56.6,101.4,58.3
+"480","Tadorna_ferruginea",FALSE,"YIO","62576","M",TRUE,FALSE,"Tama Zoo",25.7,NA,NA,NA,53.9,NA,NA
+"481","Tadorna_ferruginea",FALSE,"YIO","63528","F?",FALSE,FALSE,"Tokyo, Japan",25,NA,NA,NA,55.5,NA,NA
+"482","Plectropterus_gambensis",FALSE,"NHMUK","1891.7.20.114","U",FALSE,FALSE,"?",36.4,199.8,180.9,104.6,103.8,190.5,130.8
+"483","Plectropterus_gambensis",FALSE,"NHMUK","1898.5.9.5","F",TRUE,FALSE,"Zoological Society",28.1,145,133.6,77.3,78.4,139.2,92.6
+"484","Plectropterus_gambensis",FALSE,"NHMUK","1952.1.118","U",TRUE,FALSE,"Zoological Society",NA,199,182.6,108,107.1,186.4,117.2
+"485","Plectropterus_gambensis",FALSE,"NHMUK","1952.3.109","M",TRUE,FALSE,"Zoological Society",35.6,192.7,174.4,103.2,102.3,181.4,117.1
+"486","Plectropterus_gambensis",FALSE,"NHMUK","1952.3.110","M",TRUE,FALSE,"Zoological Society",NA,188.2,164.6,94.7,99.7,177.3,119.4
+"487","Cairina_moschata",FALSE,"MVZ","132911","F",FALSE,FALSE,"San Diego Zoo",NA,103.6,88.8,63.5,56,91.2,53.7
+"488","Cairina_moschata",FALSE,"MVZ","85522","U",FALSE,FALSE,"El SalvadorDepartamento San Miguel",31.5,132.9,113.2,78.9,71.8,108.8,63.3
+"489","Cairina_moschata",FALSE,"USNM","15777","U",FALSE,FALSE,"",25.5,110.5,95.3,60.8,60.8,96.1,54.4
+"490","Cairina_moschata",FALSE,"USNM","19263","U",FALSE,FALSE,"",31.7,134.4,116,80.7,72.4,112.9,67.4
+"491","Cairina_moschata",FALSE,"USNM","224000","U",TRUE,FALSE,"",28.9,128.8,114.2,78.4,67,107.8,63.9
+"492","Cairina_moschata",FALSE,"USNM","622299","M",FALSE,FALSE,"",30.5,131.9,NA,78.2,72,110.6,63.5
+"493","Cairina_moschata",FALSE,"USNM","637168","F",FALSE,FALSE,"",25.8,116.1,102.8,71.7,60.8,96.4,56.2
+"494","Cairina_moschata",FALSE,"YIO","60827","U",TRUE,FALSE,"",32.9,NA,NA,NA,NA,NA,NA
+"495","Sarkidiornis_sylvicola",FALSE,"YIO","13825","U",TRUE,FALSE,"Ueno Zoo",21.9,NA,NA,NA,53.2,NA,NA
+"496","Nettapus_auritus",FALSE,"NMNSAS","1059","F",TRUE,FALSE,"Zoo",19.4,69.4,60.1,45,41.3,64.5,38.8
+"497","Nettapus_coromandelianus",FALSE,"USNM","292018","M",FALSE,FALSE,"",14.4,56,48,32,28.5,46.7,24.9
+"498","Nettapus_coromandelianus",FALSE,"USNM","292019","M",FALSE,FALSE,"",16,55.7,48.4,31.8,28,45.4,24.5
+"499","Nettapus_coromandelianus",FALSE,"USNM","318553","F",FALSE,FALSE,"",14.3,54.2,46,30.1,NA,45.7,24.2
+"500","Nettapus_coromandelianus",FALSE,"USNM","318554","F",FALSE,FALSE,"",15.4,57.3,50.7,32.9,28.4,46.6,25.6
+"501","Nettapus_coromandelianus",FALSE,"USNM","31857","M",FALSE,FALSE,"",15.4,57,49.2,31.6,29.5,47.1,25.4
+"502","Aix_sponsa",FALSE,"MVZ","123049","F",FALSE,FALSE,"California",19.3,71.9,59.3,46.2,41.5,63.7,35.2
+"503","Aix_sponsa",FALSE,"MVZ","154175","U",FALSE,FALSE,"California",20.2,74.2,60.9,48.1,44.8,67.3,37.3
+"504","Aix_sponsa",FALSE,"MVZ","24977","F",FALSE,FALSE,"California",19,NA,NA,NA,41.5,NA,NA
+"505","Aix_sponsa",FALSE,"MVZ","29000","M",FALSE,FALSE,"California",20.3,NA,NA,NA,39.7,NA,NA
+"506","Aix_sponsa",FALSE,"MVZ","29001","F",FALSE,FALSE,"California",20.1,NA,NA,NA,42.8,NA,NA
+"507","Aix_sponsa",FALSE,"MVZ","29003","M",FALSE,FALSE,"California",19.9,NA,NA,NA,42.8,NA,NA
+"508","Aix_sponsa",FALSE,"MVZ","29004","F",FALSE,FALSE,"California",19.3,NA,NA,NA,39.9,NA,NA
+"509","Aix_sponsa",FALSE,"MVZ","29005","F",FALSE,FALSE,"California",19.6,NA,NA,NA,42.1,NA,NA
+"510","Aix_sponsa",FALSE,"MVZ","51388","M",FALSE,FALSE,"California",20.6,72.2,60.4,47.4,41.2,63.7,35.6
+"511","Aix_sponsa",FALSE,"MVZ","51389","F",FALSE,FALSE,"California",18.9,69.8,NA,45,40.3,NA,34.4
+"512","Aix_sponsa",FALSE,"MVZ","62736","M?",FALSE,FALSE,"California",20.2,71.9,59.2,47.2,41.3,64.2,35.3
+"513","Aix_sponsa",FALSE,"MVZ","66326","M",FALSE,FALSE,"California",21.2,70.4,57.8,44.1,40.4,63.2,33.6
+"514","Aix_sponsa",FALSE,"MVZ","66594","F",FALSE,FALSE,"California",18.7,NA,NA,NA,38.5,NA,NA
+"515","Aix_sponsa",FALSE,"MVZ","66595","M",FALSE,FALSE,"California",21.2,NA,NA,NA,41.3,NA,NA
+"516","Aix_sponsa",FALSE,"MVZ","66969","M",FALSE,FALSE,"California",19.9,70.4,59.4,46.3,NA,65.3,36.2
+"517","Aix_sponsa",FALSE,"MVZ","74912","M",FALSE,FALSE,"California",20.9,NA,61.2,48.3,NA,66.7,37.1
+"518","Aix_sponsa",FALSE,"MVZ","74913","F",FALSE,FALSE,"California",18.9,67.4,55.3,43.1,39.4,60.3,34.1
+"519","Aix_sponsa",FALSE,"MVZ","74914","F",FALSE,FALSE,"California",20.5,69.8,58.7,46.3,42.1,64.4,35.1
+"520","Aix_galericulata",FALSE,"MVZ","150922","M",FALSE,FALSE,"KoreaSouth Kyongsang Province",NA,70.2,60.3,45.8,42.8,67,39.8
+"521","Aix_galericulata",FALSE,"MVZ","27091","F",FALSE,FALSE,"",18.1,69.7,58.7,45.1,41.4,65.8,38.8
+"522","Aix_galericulata",FALSE,"NMNSAS","1238","M",FALSE,FALSE,"",22,71.8,61.5,46.8,43.6,67.4,39.2
+"523","Aix_galericulata",FALSE,"NMNSAS","1325","U",TRUE,FALSE,"Zoo",18.5,67.7,58.3,44.1,40.7,65.1,37.6
+"524","Aix_galericulata",FALSE,"YIO","62395","F",FALSE,FALSE,"Tokyo, Japan",13.6,67,59.2,44.1,40.2,63.5,36.8
+"525","Aix_galericulata",FALSE,"YIO","62651","M",FALSE,FALSE,"Tokyo, Japan",18,NA,NA,NA,42.8,NA,NA
+"526","Aix_galericulata",FALSE,"YIO","64021","M",FALSE,FALSE,"Chiba, Japan",20.7,NA,NA,NA,42.8,NA,NA
+"527","Chenonetta_jubata",FALSE,"MNHN","1993-98","U",FALSE,FALSE,"",21.7,86.7,80.7,56,50.5,87.6,52.5
+"528","Chenonetta_jubata",FALSE,"MVZ","133420","F",TRUE,FALSE,"AustraliaSouth Australia",21.6,90.6,82.3,56.5,52.5,89.5,51.5
+"529","Chenonetta_jubata",FALSE,"MVZ","155858","F",FALSE,FALSE,"AustraliaNew South Wales",NA,83,75.4,51.1,49.5,80.5,49
+"530","Chenonetta_jubata",FALSE,"NHMUK","1895.4.27.4","M",FALSE,FALSE,"Australia",23,88.3,80.3,53.8,53.6,88.4,51.4
+"531","Chenonetta_jubata",FALSE,"NHMUK","1898.11.12.1","F",TRUE,FALSE,"Australia",22.7,88.5,81.5,54.5,52.5,88.9,51
+"532","Chenonetta_jubata",FALSE,"NHMUK","1964.1.11","M",FALSE,FALSE,"Australia",23.8,90.4,81.3,57.4,50.7,86.1,52.3
+"533","Chenonetta_jubata",FALSE,"NHMUK","1964.1.9","U",FALSE,FALSE,"Australia",22.4,77.1,69.1,47.3,46.2,80.3,48.1
+"534","Chenonetta_jubata",FALSE,"NHMUK","1965.6.1","F",TRUE,FALSE,"Australia",23.5,87.2,80.1,59.7,52.1,87.9,53.8
+"535","Hymenolaimus_malacorhynchos",FALSE,"NHMUK","1875.3.24.1","M",FALSE,FALSE,"New Zealand",21.9,84.4,71.4,50.6,48.9,84.5,51.7
+"536","Hymenolaimus_malacorhynchos",FALSE,"NHMUK","1957.14.1","M",TRUE,FALSE,"Wildfowl Trust",21.3,85.7,82.8,49.7,49.1,89.1,50.2
+"537","Hymenolaimus_malacorhynchos",FALSE,"USNM","19024","F",FALSE,FALSE,"",18.9,80.6,69,47.8,48.6,82.3,49.7
+"538","Merganetta_armata",FALSE,"MVZ","126374","F",FALSE,FALSE,"PeruDepartamento Puno",13.1,58.8,51.7,31.1,36.8,64.5,37.5
+"539","Merganetta_armata",FALSE,"NHMUK","1952.3.113","U",FALSE,FALSE,"?",12.9,59.7,51.2,31.7,35.7,64.4,36.7
+"540","Marmaronetta_angustirostris",FALSE,"USNM","500299","F",TRUE,FALSE,"",17.8,69.4,62,43.4,36.7,62.1,36.5
+"541","Marmaronetta_angustirostris",FALSE,"USNM","637578","M",TRUE,FALSE,"",19.2,72.6,63.9,42.9,39.3,64.3,38.9
+"542","Marmaronetta_angustirostris",FALSE,"USNM","637579","M",TRUE,FALSE,"",18.9,73.7,65,44.9,39.5,65,38.9
+"543","Netta_rufina",FALSE,"USNM","292365","M",FALSE,FALSE,"",22.4,98.2,86,56.7,50.6,85.6,44.2
+"544","Netta_rufina",FALSE,"USNM","318432","M",FALSE,FALSE,"",23.8,101.2,89.1,56.3,52.1,86.2,44.2
+"545","Netta_rufina",FALSE,"USNM","318534","F",FALSE,FALSE,"",21.1,98.7,87.6,54.8,51.3,85.3,42.3
+"546","Netta_rufina",FALSE,"USNM","318535","F",FALSE,FALSE,"",24,103,90.4,58.1,52.6,84.9,43.7
+"547","Netta_rufina",FALSE,"USNM","318536","M",FALSE,FALSE,"",25.6,99.8,87.1,55,50.8,82.6,41.6
+"548","Netta_rufina",FALSE,"USNM","318537","F",FALSE,FALSE,"",22.7,99.7,87.4,55.1,51.5,84.4,43
+"549","Netta_rufina",FALSE,"USNM","621198","F",FALSE,FALSE,"",24.4,101.8,91.2,NA,52,87.5,45.8
+"550","Netta_rufina",FALSE,"USNM","621199","M",FALSE,FALSE,"",24.8,99.4,87.9,56,52.4,85.5,43.9
+"551","Netta_rufina",FALSE,"USNM","623228","M",TRUE,FALSE,"",21.3,94,80.9,52.4,47.5,77.6,NA
+"552","Netta_rufina",FALSE,"USNM","623229","F",TRUE,FALSE,"",20.1,94.8,83.8,52.5,47.9,NA,44.3
+"553","Netta_rufina",FALSE,"UWBM","56614","M",FALSE,FALSE,"Russia",24.3,95.1,84.5,55.3,51,84,43.4
+"554","Netta_rufina",FALSE,"UWBM","56615","F",FALSE,FALSE,"Russia",23.7,101.2,88.6,57.2,51.3,84.4,43.2
+"555","Netta_rufina",FALSE,"YIO","60825","F",TRUE,FALSE,"Tama Zoo",19.7,NA,NA,NA,NA,NA,NA
+"556","Netta_rufina",FALSE,"YIO","62538","M",TRUE,FALSE,"Tama Zoo",24.4,NA,NA,NA,NA,NA,NA
+"557","Netta_rufina",FALSE,"YIO","62577","M",TRUE,FALSE,"Tama Zoo",23.7,NA,NA,NA,NA,NA,NA
+"558","Netta_erythrophthalma",FALSE,"USNM","430779","M",FALSE,FALSE,"",20.2,83.3,73.6,46.2,44.2,NA,37.7
+"559","Netta_erythrophthalma",FALSE,"USNM","488833","M",FALSE,FALSE,"",20.9,88.8,76.8,48.2,46.8,75.5,39
+"560","Netta_erythrophthalma",FALSE,"USNM","558441","F",FALSE,FALSE,"",19.7,84.5,73.2,45.4,45.1,71.4,37.2
+"561","Netta_erythrophthalma",FALSE,"USNM","612022","M",FALSE,FALSE,"",20.2,86.1,74.1,NA,43.3,NA,NA
+"562","Netta_erythrophthalma",FALSE,"USNM","612023","F",FALSE,FALSE,"",22.3,90,NA,NA,45.8,NA,NA
+"563","Netta_peposaca",FALSE,"USNM","227348","M",FALSE,FALSE,"",22.7,96.7,83.1,55.5,53,82.4,45.5
+"564","Netta_peposaca",FALSE,"USNM","321152","F",TRUE,FALSE,"",22.3,91.9,79.6,51.7,50.1,77.9,40.9
+"565","Netta_peposaca",FALSE,"USNM","321171","M",TRUE,FALSE,"",27.1,97.1,82.8,NA,50.9,80.1,44.4
+"566","Netta_peposaca",FALSE,"USNM","321859","F",TRUE,FALSE,"",23.1,NA,NA,NA,48.7,NA,NA
+"567","Netta_peposaca",FALSE,"USNM","321971","F",TRUE,FALSE,"",24.7,95,81.2,54.6,49.1,78.8,42.4
+"568","Netta_peposaca",FALSE,"USNM","347088","M",TRUE,FALSE,"",25.6,96.3,82.6,55.1,51.8,81.8,44.4
+"569","Netta_peposaca",FALSE,"USNM","429330","M",TRUE,FALSE,"",25.6,97.3,81.9,53.5,51.6,79.5,42.7
+"570","Netta_peposaca",FALSE,"USNM","500893","F",TRUE,FALSE,"",24.8,91.8,79.4,52.7,47.9,75.3,44.7
+"571","Netta_peposaca",FALSE,"USNM","623221","M",TRUE,FALSE,"",NA,91,87.8,53.2,49.1,77.9,44.3
+"572","Netta_peposaca",FALSE,"USNM","635741","F",FALSE,FALSE,"",20.3,93.1,80.9,52.3,51.9,81.7,43.8
+"573","Netta_peposaca",FALSE,"YIO","14837","F",TRUE,FALSE,"Chiba City Zoo",24.3,NA,NA,NA,19.7,NA,NA
+"574","Aythya_ferina",FALSE,"EP","214","U",FALSE,FALSE,"Shinji Lake, Japan",NA,85.2,75.4,45.9,45.2,74.8,37.2
+"575","Aythya_ferina",FALSE,"EP","219","M",FALSE,FALSE,"Shinji Lake, Japan",NA,86.8,76.8,48,46.3,78.2,40.3
+"576","Aythya_ferina",FALSE,"EP","236","U",FALSE,FALSE,"Shinji Lake, Japan",NA,NA,NA,NA,45.4,74.6,38
+"577","Aythya_ferina",FALSE,"EP","250","U",FALSE,FALSE,"Shinji Lake, Japan",NA,NA,NA,NA,43.7,73.7,36.2
+"578","Aythya_ferina",FALSE,"EP","251","U",FALSE,FALSE,"Shinji Lake, Japan",NA,85.5,74.3,45.4,NA,NA,NA
+"579","Aythya_ferina",FALSE,"EP","252","U",FALSE,FALSE,"Shinji Lake, Japan",NA,83.7,73.8,45,44.1,75.5,37.7
+"580","Aythya_ferina",FALSE,"EP","263","F",FALSE,FALSE,"Shinji Lake, Japan",NA,85.6,76.1,46.6,45.2,76,37.3
+"581","Aythya_ferina",FALSE,"EP","8","M",FALSE,FALSE,"",21.8,82.9,74.3,45,44.9,75.1,37.9
+"582","Aythya_ferina",FALSE,"EP","M2","U",FALSE,FALSE,"",NA,82.4,72.5,44.4,46.3,77.2,38.8
+"583","Aythya_ferina",FALSE,"EP","SM-8","U",FALSE,FALSE,"",NA,85.6,75.3,45.6,NA,NA,NA
+"584","Aythya_ferina",FALSE,"USNM","318438","F",FALSE,FALSE,"",21.8,86.3,75.4,47,46,76,38
+"585","Aythya_ferina",FALSE,"USNM","319472","F",FALSE,FALSE,"",20.9,82.8,72.9,45.1,44.1,74.1,37.6
+"586","Aythya_ferina",FALSE,"USNM","319473","F",FALSE,FALSE,"",21.6,84.9,75.2,46.3,45.9,76.2,37.8
+"587","Aythya_ferina",FALSE,"USNM","431534","F",FALSE,FALSE,"",21.4,85.4,76.5,46.5,45.5,76.4,37.7
+"588","Aythya_ferina",FALSE,"USNM","560588","M",FALSE,FALSE,"",21.4,84.4,74.3,46.1,45.7,77.5,38.6
+"589","Aythya_ferina",FALSE,"YIO","63423","M",FALSE,FALSE,"Chiba, Japan",22.5,NA,NA,NA,NA,NA,NA
+"590","Aythya_americana",FALSE,"USNM","225501","M",FALSE,FALSE,"",24.2,90.7,80.3,49.1,48.6,79.7,39.6
+"591","Aythya_americana",FALSE,"USNM","288493","M",FALSE,FALSE,"",22.9,92.3,80.4,50.4,48.2,78.2,39.2
+"592","Aythya_americana",FALSE,"USNM","431380","F",FALSE,FALSE,"",21.5,88.4,77.2,48.3,46.4,NA,39.5
+"593","Aythya_americana",FALSE,"USNM","488482","M",FALSE,FALSE,"",24.1,94,82.7,51.1,49.7,81.1,41
+"594","Aythya_americana",FALSE,"USNM","488545","F",FALSE,FALSE,"",22,85.9,74.7,47.2,45.4,73.8,39
+"595","Aythya_americana",FALSE,"USNM","500894","F",FALSE,FALSE,"",20.4,85,NA,46.8,46.7,75.6,37.8
+"596","Aythya_americana",FALSE,"USNM","500895","F",FALSE,FALSE,"",21.6,92.7,81.1,49.1,49.1,77.9,40.2
+"597","Aythya_americana",FALSE,"USNM","500896","M",FALSE,FALSE,"",24.1,89.3,78,49.2,48.7,77.7,40.5
+"598","Aythya_americana",FALSE,"USNM","610678","M",FALSE,FALSE,"",24.5,93.5,82.6,51.5,49.2,80.7,41.6
+"599","Aythya_americana",FALSE,"USNM","610679","F",FALSE,FALSE,"",20.6,88.3,76.7,47.9,46.4,77.6,39.4
+"600","Aythya_valisineria",FALSE,"USNM","19910","F",FALSE,FALSE,"",21.2,89.6,79.5,49.2,48.5,79.2,40.5
+"601","Aythya_valisineria",FALSE,"USNM","288606","M",FALSE,FALSE,"",24.1,97.4,84.8,53.5,52.1,88.3,46.4
+"602","Aythya_valisineria",FALSE,"USNM","288639","M",FALSE,FALSE,"",25.1,95.5,83.9,51.9,49,82.7,43.8
+"603","Aythya_valisineria",FALSE,"USNM","288644","F",FALSE,FALSE,"",23.9,91.7,79.5,49,49.9,82.1,42.6
+"604","Aythya_valisineria",FALSE,"USNM","288648","M",FALSE,FALSE,"",24.4,93.8,81.6,50,51.6,83.8,44.4
+"605","Aythya_valisineria",FALSE,"USNM","292241","F",FALSE,FALSE,"",23.1,90.7,79.9,48.9,47.7,79.9,41.8
+"606","Aythya_valisineria",FALSE,"USNM","292243","M",FALSE,FALSE,"",24,94.9,83.7,50.5,51.2,85.9,44
+"607","Aythya_valisineria",FALSE,"USNM","292276","M",FALSE,FALSE,"",24.5,98.1,85.8,53,52.6,87.9,47.2
+"608","Aythya_valisineria",FALSE,"USNM","488568","F",FALSE,FALSE,"",22.4,87.2,74.8,44.5,47.7,77.6,40.3
+"609","Aythya_valisineria",FALSE,"USNM","489910","F",FALSE,FALSE,"",23.3,93.7,NA,51.3,49.8,83.8,43
+"610","Aythya_valisineria",FALSE,"YIO","63038","U",FALSE,FALSE,"Akkeshi, Hokkaido, Japan",24.7,NA,NA,NA,54.4,NA,NA
+"611","Aythya_australis",FALSE,"USNM","556840","M",TRUE,FALSE,"",22.6,89.4,77.7,49.9,45.1,74,41.4
+"612","Aythya_nyroca",FALSE,"USNM","227116","F",TRUE,FALSE,"",18,NA,NA,NA,38.5,NA,NA
+"613","Aythya_nyroca",FALSE,"USNM","318547","U",FALSE,FALSE,"",19.5,74.9,64.9,41.6,40.8,66.4,32.8
+"614","Aythya_nyroca",FALSE,"USNM","318548","U",FALSE,FALSE,"",16,68.7,58,35.8,38,59.6,29.6
+"615","Aythya_nyroca",FALSE,"USNM","318987","U",FALSE,FALSE,"",19.7,80.4,61.2,42.6,43.2,69.6,34.5
+"616","Aythya_nyroca",FALSE,"USNM","431535","M",FALSE,FALSE,"",17.6,71.6,60.6,38,38,62.6,30.8
+"617","Aythya_nyroca",FALSE,"USNM","431536","F",FALSE,FALSE,"",18,70.2,61.1,37.9,38.2,NA,NA
+"618","Aythya_nyroca",FALSE,"USNM","432300","M",FALSE,FALSE,"",20.2,74.9,63.4,38.6,40.1,63.1,31.7
+"619","Aythya_nyroca",FALSE,"USNM","499911","F",FALSE,FALSE,"",17.8,73.5,63.6,39.9,39.5,64.5,32.2
+"620","Aythya_novaeseelandiae",FALSE,"USNM","491368","M",TRUE,FALSE,"",16.8,70.3,59.6,37,41.1,64,34.4
+"621","Aythya_collaris",FALSE,"USNM","292249","M",FALSE,FALSE,"",20.4,75.5,65.2,42.2,42.6,65.7,34.1
+"622","Aythya_collaris",FALSE,"USNM","431424","F",FALSE,FALSE,"",18.8,70.9,61.3,38.2,40.3,65,32.2
+"623","Aythya_collaris",FALSE,"USNM","491405","F",FALSE,FALSE,"",19.7,77.7,67.8,42.2,43.2,69.7,35.6
+"624","Aythya_collaris",FALSE,"USNM","499632","M",FALSE,FALSE,"",22.1,78.5,67.8,43,44.8,69.5,38.2
+"625","Aythya_collaris",FALSE,"USNM","500908","F",FALSE,FALSE,"",18.1,72.2,63.2,39.8,41.1,64,31.5
+"626","Aythya_collaris",FALSE,"USNM","500909","F",FALSE,FALSE,"",18.1,74.5,63.9,40.3,41.9,65.4,33.6
+"627","Aythya_collaris",FALSE,"USNM","500910","M",FALSE,FALSE,"",22,75.6,66.9,43.1,44.1,68.5,35.3
+"628","Aythya_collaris",FALSE,"USNM","500911","F",FALSE,FALSE,"",18.5,74.2,63.9,39.6,41.5,65,32.5
+"629","Aythya_collaris",FALSE,"USNM","610681","M",FALSE,FALSE,"",20.2,74.6,65.1,41.2,42.9,67.1,33.7
+"630","Aythya_collaris",FALSE,"USNM","621549","M",FALSE,FALSE,"",21.7,79.4,69.5,43.7,46.1,71.5,36.2
+"631","Aythya_fuligula",FALSE,"EP","5","F",FALSE,FALSE,"",NA,78.8,67.7,42.1,42.2,65.8,33.4
+"632","Aythya_fuligula",FALSE,"EP","S524","U",FALSE,FALSE,"",NA,83.5,72.4,44.7,45.2,71.2,36
+"633","Aythya_fuligula",FALSE,"USNM","291657","M",FALSE,FALSE,"",21.7,78.6,67.3,41,43.5,66.5,34
+"634","Aythya_fuligula",FALSE,"USNM","291658","M",FALSE,FALSE,"",18.6,78.2,67.1,41.8,42.6,65.6,33.2
+"635","Aythya_fuligula",FALSE,"USNM","318549","M",FALSE,FALSE,"",19.8,81.4,71.7,43.6,44.5,71.5,35.1
+"636","Aythya_fuligula",FALSE,"USNM","319471","M",FALSE,FALSE,"",17.7,77.2,67.2,41.6,42,67.6,33
+"637","Aythya_fuligula",FALSE,"USNM","432304","F",FALSE,FALSE,"",19,79.1,69.7,42.8,43.6,70.7,34.1
+"638","Aythya_fuligula",FALSE,"USNM","554963","M",FALSE,FALSE,"",21.6,80.2,69.1,43,45.5,70.7,35.7
+"639","Aythya_fuligula",FALSE,"USNM","554964","F",FALSE,FALSE,"",20.3,80,70.5,42.8,42.3,68.3,34.1
+"640","Aythya_fuligula",FALSE,"USNM","554965","F",FALSE,FALSE,"",20.2,74.7,66.8,41.5,39.8,64,32.6
+"641","Aythya_fuligula",FALSE,"USNM","560587","F",FALSE,FALSE,"",19.2,77.7,67.8,41.3,41.9,67.2,33.6
+"642","Aythya_fuligula",FALSE,"USNM","560593","F",FALSE,FALSE,"",19.8,78.2,67.3,41.2,42.5,66.5,33.4
+"643","Aythya_fuligula",FALSE,"UWBM","56541","M",FALSE,FALSE,"Russia",19.9,80.3,69.9,43.1,42.9,69.1,34.8
+"644","Aythya_fuligula",FALSE,"UWBM","56543","F",FALSE,FALSE,"Russia",20.1,79,69.2,42.2,42.1,67.7,33.7
+"645","Aythya_fuligula",FALSE,"YIO","63418","F",FALSE,FALSE,"Chiba, Japan",18.7,NA,NA,NA,NA,NA,NA
+"646","Aythya_fuligula",FALSE,"YIO","63419","M",FALSE,FALSE,"Chiba, Japan",19.8,NA,NA,NA,43.5,NA,NA
+"647","Aythya_marila",FALSE,"EP","163","U",FALSE,FALSE,"",NA,85.3,74.5,46.7,45.7,73.1,36.5
+"648","Aythya_marila",FALSE,"EP","169","U",FALSE,FALSE,"Shinji Lake, Japan",NA,86.2,75.4,46.9,45.7,73.3,37.6
+"649","Aythya_marila",FALSE,"EP","194","F",FALSE,FALSE,"Shinji Lake, Japan",NA,84.6,73.9,45.6,47.1,73.9,36.7
+"650","Aythya_marila",FALSE,"EP","203","U",FALSE,FALSE,"Shinji Lake, Japan",NA,81.8,71.7,45.1,44.8,71.7,35.2
+"651","Aythya_marila",FALSE,"EP","209","M",FALSE,FALSE,"Shinji Lake, Japan",NA,87.2,75,46.5,46.4,75.6,37.5
+"652","Aythya_marila",FALSE,"EP","211","M",FALSE,FALSE,"Shinji Lake, Japan",NA,85.7,75.1,46.4,46.7,74.8,36.6
+"653","Aythya_marila",FALSE,"EP","212","U",FALSE,FALSE,"Shinji Lake, Japan",NA,89.9,79.1,49.6,48.6,79,39.9
+"654","Aythya_marila",FALSE,"EP","215","M",FALSE,FALSE,"Shinji Lake, Japan",NA,86.8,77.1,47.7,47.5,76.7,38.4
+"655","Aythya_marila",FALSE,"EP","216","U",FALSE,FALSE,"Shinji Lake, Japan",NA,84.5,74.5,46.3,46.8,74.7,37.3
+"656","Aythya_marila",FALSE,"EP","218","F",FALSE,FALSE,"Shinji Lake, Japan",NA,81.1,71.6,44.3,44.8,71.2,36
+"657","Aythya_marila",FALSE,"EP","221","M",FALSE,FALSE,"Shinji Lake, Japan",NA,87.6,75.4,47.5,48.2,77.7,39.6
+"658","Aythya_marila",FALSE,"EP","222","F",FALSE,FALSE,"Shinji Lake, Japan",NA,85.4,75.3,46.4,46,75.4,37.4
+"659","Aythya_marila",FALSE,"EP","223","U",FALSE,FALSE,"Shinji Lake, Japan",NA,84,73.4,45.4,45.1,72.2,35.4
+"660","Aythya_marila",FALSE,"EP","237","M",FALSE,FALSE,"Shinji Lake, Japan",NA,85.7,74.9,46.2,47.2,73.7,37.1
+"661","Aythya_marila",FALSE,"EP","241","M",FALSE,FALSE,"Shinji Lake, Japan",NA,87.9,76.7,47.6,47.7,75.3,36.6
+"662","Aythya_marila",FALSE,"EP","245","M",FALSE,FALSE,"Shinji Lake, Japan",NA,86.7,76.4,47.4,48.1,76.2,38.8
+"663","Aythya_marila",FALSE,"EP","256","M",FALSE,FALSE,"Shinji Lake, Japan",NA,82.1,71.1,42.6,45.3,71,34.3
+"664","Aythya_marila",FALSE,"EP","262","M",FALSE,FALSE,"Shinji Lake, Japan",NA,85.1,73.2,45,46.1,75.5,37.9
+"665","Aythya_marila",FALSE,"EP","S553","U",FALSE,FALSE,"",NA,85.5,74.4,46,48.5,76.6,38.8
+"666","Aythya_marila",FALSE,"EP","S618","U",FALSE,FALSE,"",NA,84.2,75.3,46.8,45.5,78.8,37.2
+"667","Aythya_marila",FALSE,"USNM","292245","F",FALSE,FALSE,"",21.7,87.5,76.8,48,48.1,75.5,37.5
+"668","Aythya_marila",FALSE,"USNM","431402","M",FALSE,FALSE,"",22.6,NA,77.9,48.3,48.9,78.6,39.7
+"669","Aythya_marila",FALSE,"USNM","432297","M",FALSE,FALSE,"",22.9,89.3,76.9,48.6,48.9,77,38.7
+"670","Aythya_marila",FALSE,"USNM","500903","M",FALSE,FALSE,"",20.9,88.1,77.4,47.2,48,78.5,38.6
+"671","Aythya_marila",FALSE,"USNM","500904","M",FALSE,FALSE,"",21.7,90.4,77.9,48,50.7,81.1,39.7
+"672","Aythya_marila",FALSE,"USNM","610684","F",FALSE,FALSE,"",20.7,85.7,76.8,47.4,46.5,75.9,38.4
+"673","Aythya_marila",FALSE,"USNM","610685","F",FALSE,FALSE,"",19.8,86.7,76.3,48,46.4,75,38.3
+"674","Aythya_marila",FALSE,"USNM","622668","F",FALSE,FALSE,"",20.4,87.6,76.3,47.9,47.3,75.8,38.6
+"675","Aythya_marila",FALSE,"USNM","623367","F",FALSE,FALSE,"",21.1,86,75.4,46.7,47.8,NA,39
+"676","Aythya_marila",FALSE,"USNM","635084","M",FALSE,FALSE,"",21.7,87.5,76.7,48.4,47.2,77.5,37.9
+"677","Aythya_affinis",FALSE,"USNM","288431","F",FALSE,FALSE,"",18.2,78,69.2,43.8,43,68.4,34.7
+"678","Aythya_affinis",FALSE,"USNM","292248","F",FALSE,FALSE,"",19.2,79.3,70.1,43.9,42.7,70.3,35.6
+"679","Aythya_affinis",FALSE,"USNM","431019","F",FALSE,FALSE,"",18.5,76.7,69.1,42.5,42.5,68.6,34.8
+"680","Aythya_affinis",FALSE,"USNM","431889","M",FALSE,FALSE,"",20.9,81.7,72.8,44.1,44.7,70.1,36.2
+"681","Aythya_affinis",FALSE,"USNM","500897","F",FALSE,FALSE,"",19.4,79.6,70.9,43.7,43.2,69.5,NA
+"682","Aythya_affinis",FALSE,"USNM","500898","F",FALSE,FALSE,"",18.3,77.6,68.3,42.5,43.5,69,35.7
+"683","Aythya_affinis",FALSE,"USNM","500900","M",FALSE,FALSE,"",20.5,81.1,72.7,44.5,44.5,71.9,36.6
+"684","Aythya_affinis",FALSE,"USNM","610689","M",FALSE,FALSE,"",18.9,79.8,NA,44.7,44.7,71,37.1
+"685","Aythya_affinis",FALSE,"USNM","622667","M",FALSE,FALSE,"",20.1,82.5,72.1,43.8,46.2,71.8,35.6
+"686","Aythya_affinis",FALSE,"USNM","623360","M",FALSE,FALSE,"",20.3,78.7,69.5,42.4,43,70.1,34.9
+"687","Rhodonessa_caryophyllacea",FALSE,"USNM","344802","U",TRUE,FALSE,"",21.1,98,85.6,NA,49.2,78.1,48.2
+"688","Tachyeres_patachonicus",FALSE,"NHMUK","1861.12.31.14","U",FALSE,FALSE,"",NA,113.7,93,62.2,71.3,112.6,59.8
+"689","Tachyeres_patachonicus",FALSE,"NHMUK","1932.12.20.6","M",FALSE,FALSE,"Tierra del Fuego",29.8,118.4,97.3,63.4,73.7,118.2,62.7
+"690","Tachyeres_patachonicus",FALSE,"USNM","321495","U",FALSE,FALSE,"Straits of Magellan",27,121.9,102.1,65.6,73.7,116,60.1
+"691","Tachyeres_patachonicus",FALSE,"USNM","491014","F",FALSE,FALSE,"Tierra del Fuego",29,116.5,96.5,62.3,69.5,109.6,56
+"692","Tachyeres_patachonicus",FALSE,"USNM","536351","F",FALSE,FALSE,"Tierra del Fuego",29.3,NA,NA,NA,73.1,NA,NA
+"693","Tachyeres_patachonicus",FALSE,"UWBM","41025","F",FALSE,FALSE,"Argentina",27.9,118.2,98,63,70.7,115.9,58.6
+"694","Tachyeres_leucocephalus",TRUE,"UWBM","42974","M",FALSE,FALSE,"Argentina",30.1,126.7,103,68.4,81.6,127.9,67.6
+"695","Tachyeres_pteneres",TRUE,"LACM","uncatalogued; frin UCLB","M?",FALSE,FALSE,"",28.2,131.3,100.2,66.2,90.3,142.5,73.2
+"696","Tachyeres_pteneres",TRUE,"LACM","uncatalogued; frin UCLB","F?",FALSE,FALSE,"",27.1,121.4,95.2,63.5,85.5,135.7,70.3
+"697","Tachyeres_pteneres",TRUE,"MNHN","1990-24","U",FALSE,FALSE,"",32.2,134.9,103.8,70.2,92,137.9,73.5
+"698","Tachyeres_pteneres",TRUE,"MNHN","1990-25","U",FALSE,FALSE,"",30.3,131.1,97.9,66.3,89,138.4,70.6
+"699","Tachyeres_pteneres",TRUE,"MNHN","1993-69","U",FALSE,FALSE,"",28,118.6,93.6,63.3,83.5,129.9,68
+"700","Tachyeres_pteneres",TRUE,"MNHN","1993-73","U",FALSE,FALSE,"",29.1,128,97,65.8,89.7,139.9,72
+"701","Tachyeres_pteneres",TRUE,"MNHN","1993-74","U",FALSE,FALSE,"",32,134.9,102.3,69.7,90.4,138.2,73.1
+"702","Tachyeres_pteneres",TRUE,"MNHN","1993-76","U",FALSE,FALSE,"",30.8,131.4,100.8,68.4,91.2,142.9,75.4
+"703","Tachyeres_pteneres",TRUE,"NHMUK","1879.9.3.26","U",FALSE,FALSE,"Tom Bay",30.4,123.3,92.8,61.1,83.8,130,64.3
+"704","Tachyeres_pteneres",TRUE,"NHMUK","1880.8.3.61","U",FALSE,FALSE,"Straits of Magellan",31.7,128.5,98.6,66.5,89,135.6,69.4
+"705","Tachyeres_pteneres",TRUE,"NHMUK","1932.12.20.5","M",FALSE,FALSE,"Tierra del Fuego",31.3,132.8,104.4,61.9,94.2,143.4,76
+"706","Tachyeres_pteneres",TRUE,"NHMUK","1932.7.12.21","M",FALSE,FALSE,"Tierra del Fuego",29.2,131.5,99.4,66.5,90.8,142.8,74.1
+"707","Tachyeres_pteneres",TRUE,"USNM","488291","U",FALSE,FALSE,"Tierra del Fuego",26.7,119.7,91.6,61,83.7,130.1,70.1
+"708","Tachyeres_pteneres",TRUE,"USNM","490930","M",FALSE,FALSE,"Tierra del Fuego",30.3,131.4,102.6,70.2,90,142.9,77.5
+"709","Tachyeres_pteneres",TRUE,"USNM","490937","U",FALSE,FALSE,"Tierra del Fuego",29.5,134.7,103.7,70,93.1,145.9,67.1
+"710","Tachyeres_pteneres",TRUE,"USNM","490939","M",FALSE,FALSE,"Tierra del Fuego",32.3,127.9,98.5,67.2,88.5,137.7,71.6
+"711","Tachyeres_pteneres",TRUE,"USNM","490943","F",FALSE,FALSE,"Tierra del Fuego",30.1,126.1,97.9,66.1,86.9,133.2,69.5
+"712","Tachyeres_pteneres",TRUE,"USNM","536348","M",FALSE,FALSE,"Tierra del Fuego",32.6,NA,NA,NA,90.4,NA,NA
+"713","Tachyeres_brachypterus",TRUE,"NHMUK","1885.10.20.1","U",FALSE,FALSE,"Falkland Islands",29.6,119.4,95.8,62.4,78.7,127.8,65.8
+"714","Tachyeres_brachypterus",TRUE,"NHMUK","1949.52.38","M",FALSE,FALSE,"Falkland Islands",28.2,129.3,100.2,68.4,85.8,134.8,70.2
+"715","Tachyeres_brachypterus",TRUE,"NHMUK","2001.50.78","F",FALSE,FALSE,"Falkland Islands",28.6,NA,NA,NA,77.3,NA,NA
+"716","Tachyeres_brachypterus",TRUE,"NHMUK","2002.1.34","U",FALSE,FALSE,"Falkland Islands",NA,NA,104.7,72.2,NA,NA,NA
+"717","Tachyeres_brachypterus",TRUE,"NHMUK","2002.1.35","U",FALSE,FALSE,"Falkland Islands",29.2,NA,NA,NA,NA,NA,NA
+"718","Tachyeres_brachypterus",TRUE,"NHMUK","2004.7.1","M",FALSE,FALSE,"Falkland Islands",29,124.6,99.1,66.4,82.2,130.2,68.8
+"719","Spatula_querquedula",FALSE,"YIO","20691","M",FALSE,FALSE,"",20,NA,NA,NA,35.9,NA,NA
+"720","Spatula_clypeata",FALSE,"EP","199","U",FALSE,FALSE,"Shinji Lake, Japan",NA,77.6,66.1,47,40.4,68.5,37.3
+"721","Spatula_clypeata",FALSE,"EP","217","U",FALSE,FALSE,"Shinji Lake, Japan",NA,73.8,63.4,46.9,37.1,64,35
+"722","Spatula_clypeata",FALSE,"YIO","60823","M",FALSE,FALSE,"?",22.9,78.1,68.3,47.9,40.5,67.3,37.6
+"723","Sibirionetta_formosa",FALSE,"YIO","14262","M",FALSE,FALSE,"Shimane, Japan",19.3,NA,NA,NA,38.7,NA,NA
+"724","Sibirionetta_formosa",FALSE,"YIO","60811","F",FALSE,FALSE,"",17.6,64.8,58.1,40.5,38,61.1,33.3
+"725","Mareca_strepera",FALSE,"EP","242","M",FALSE,FALSE,"",NA,91,78.5,57.9,48.4,77.8,42.2
+"726","Mareca_strepera",FALSE,"YIO","14230","M",FALSE,FALSE,"",22.6,85.2,75.2,50.6,45.6,73.4,38.7
+"727","Mareca_strepera",FALSE,"YIO","62805","F",FALSE,FALSE,"Shimane, Japan",22.5,NA,NA,NA,NA,NA,NA
+"728","Mareca_falcata",FALSE,"EP","196","U",FALSE,FALSE,"Shinji Lake, Japan",NA,NA,68.3,48.1,42.4,69.3,36.3
+"729","Mareca_falcata",FALSE,"YIO","60829","M",FALSE,FALSE,"Chiba, Japan",22.1,NA,NA,NA,NA,NA,NA
+"730","Mareca_falcata",FALSE,"YIO","62455","F",TRUE,FALSE,"Tama Zoo",19.8,77.2,65.9,48.1,41.4,66.2,35.4
+"731","Mareca_falcata",FALSE,"YIO","62482","M",TRUE,FALSE,"Tama Zoo",21.8,84.6,NA,NA,44,72.4,38.4
+"732","Mareca_penelope",FALSE,"EP","6","M",FALSE,FALSE,"",22.7,84.1,71.6,52.2,47.1,74.7,40.3
+"733","Mareca_penelope",FALSE,"YIO","62804","M",FALSE,FALSE,"Shimane, Japan",21.2,NA,NA,NA,45.3,NA,NA
+"734","Mareca_penelope",FALSE,"YIO","62814","M",FALSE,FALSE,"Hahajima Island, japan",17.9,NA,NA,NA,39.9,NA,NA
+"735","Mareca_penelope",FALSE,"YIO","64041","M",FALSE,FALSE,"Chiba, Japan",20.6,NA,NA,NA,43.5,NA,NA
+"736","Mareca_americana",FALSE,"YIO","62499","M",FALSE,FALSE,"Hahajima Island, japan",18.7,NA,NA,NA,44.9,NA,NA
+"737","Anas_zonorhyncha",FALSE,"EP","53","F",FALSE,FALSE,"",NA,90.5,75.8,53.4,49.2,77.8,41.5
+"738","Anas_zonorhyncha",FALSE,"EP","84","M",FALSE,FALSE,"",25.1,98.2,84.8,62.1,53.8,NA,48.5
+"739","Anas_zonorhyncha",FALSE,"NMNSAS","1259","M",FALSE,FALSE,"",23.3,98.2,84.8,61.9,51.1,84.6,48.4
+"740","Anas_zonorhyncha",FALSE,"NMNSAS","1269","F",FALSE,FALSE,"",NA,92.2,77.9,55.7,50,77.9,41.8
+"741","Anas_zonorhyncha",FALSE,"NMNSAS","506","U",FALSE,FALSE,"",22.6,92.2,80.7,59,48.9,79.3,44.8
+"742","Anas_zonorhyncha",FALSE,"YIO","60645","M",FALSE,FALSE,"Nohoro, Hokkaido, Japan",25.2,95.9,82.7,60.4,53.1,83.4,46
+"743","Anas_zonorhyncha",FALSE,"YIO","60646","F",FALSE,FALSE,"Nohoro, Hokkaido, Japan",17.8,90.1,76.6,55.4,49.4,76.3,42.3
+"744","Anas_zonorhyncha",FALSE,"YIO","60819","M",FALSE,FALSE,"Tokyo, Japan",24.8,NA,NA,NA,NA,NA,NA
+"745","Anas_zonorhyncha",FALSE,"YIO","60820","M",FALSE,FALSE,"Chiba, Japan",25.3,NA,NA,NA,NA,NA,NA
+"746","Anas_zonorhyncha",FALSE,"YIO","60821","M",FALSE,FALSE,"Chiba, Japan",17.2,NA,NA,NA,NA,NA,NA
+"747","Anas_zonorhyncha",FALSE,"YIO","62690","F",FALSE,FALSE,"Saitama, Japan",23.1,NA,NA,NA,50.3,NA,NA
+"748","Anas_zonorhyncha",FALSE,"YIO","62887","F",FALSE,FALSE,"Saitama, Japan",20.9,79.1,NA,NA,51.6,84.4,47.6
+"749","Anas_platyrhynchos",FALSE,"EP","248","U",FALSE,FALSE,"",NA,90.7,76.8,55.6,49.7,78.3,44.8
+"750","Anas_platyrhynchos",FALSE,"EP","S605","U",FALSE,FALSE,"",NA,88.3,74.7,54,44.8,72.6,39.1
+"751","Anas_platyrhynchos",FALSE,"HUMNH","60469","U",FALSE,FALSE,"Tokyo, Japan",25.9,95.3,80.4,59.5,53.3,83.5,46.3
+"752","Anas_platyrhynchos",FALSE,"YIO","60818","M",FALSE,FALSE,"?",25.2,NA,NA,NA,NA,NA,NA
+"753","Anas_platyrhynchos",FALSE,"YIO","62883","F",FALSE,FALSE,"Miyakejima Island, japan",22.1,89,72.2,55.1,49,77.5,43.1
+"754","Anas_platyrhynchos",FALSE,"YIO","63891","M",FALSE,FALSE,"Tsushima Islands, Japan",24.1,NA,NA,NA,49.8,NA,NA
+"755","Anas_gibberifrons",FALSE,"USNM","226004","M",FALSE,FALSE,"",17,70.1,63,43.3,40.6,64.8,35.7
+"756","Anas_gibberifrons",FALSE,"USNM","610561","F",FALSE,FALSE,"",16.1,NA,59.5,40.9,35,59.5,33.4
+"757","Anas_gibberifrons",FALSE,"USNM","610562","M",FALSE,FALSE,"",19.1,71.5,62.7,45.1,40.8,67.5,38.9
+"758","Anas_gibberifrons",FALSE,"USNM","612107","U",FALSE,FALSE,"",16.6,70,61,43.6,40.6,65.4,36.1
+"759","Anas_gibberifrons",FALSE,"USNM","620185","F",FALSE,FALSE,"",17.9,71.8,63.3,44.9,39.9,66.3,37.6
+"760","Anas_castanea",FALSE,"USNM","500292","F",TRUE,FALSE,"",17.2,69.8,60.2,42.4,38.7,62.3,36.9
+"761","Anas_chlorotis",FALSE,"LACM","103170","U",TRUE,FALSE,"",18.4,64.7,57.8,40.1,37.2,60.2,34.8
+"762","Anas_chlorotis",FALSE,"NHMUK","2006.39.1","M",FALSE,FALSE,"",17.6,74.8,60.2,44.3,45.6,75.1,42
+"763","Anas_aucklandica",TRUE,"NHMUK","1901.10.21.55","M",FALSE,FALSE,"",11.1,NA,NA,NA,NA,NA,NA
+"764","Anas_aucklandica",TRUE,"NHMUK","1901.10.21.56","M",FALSE,FALSE,"",10.5,NA,NA,NA,NA,NA,NA
+"765","Anas_aucklandica",TRUE,"USNM","500620","M",FALSE,FALSE,"Ewing Island, Auckland Islands",9.9,57.1,NA,NA,45.4,NA,NA
+"766","Anas_aucklandica",TRUE,"USNM","500621","M",FALSE,FALSE,"Ewing Island, Auckland Islands",12.1,NA,NA,NA,45.5,NA,NA
+"767","Anas_aucklandica",TRUE,"USNM","612796","U",FALSE,FALSE,"Auckland Islands",10.5,51.9,39.5,28.1,41.6,65.2,33
+"768","Anas_capensis",FALSE,"NMNSAS","1334","U",FALSE,FALSE,"",15,68.8,62.2,40.3,34.8,61.9,36.6
+"769","Anas_acuta",FALSE,"EP","4","M",FALSE,FALSE,"",25.4,92.7,81.3,56.8,47.8,81.2,44.9
+"770","Anas_acuta",FALSE,"HUM","HUM-__","U",FALSE,FALSE,"",23,84.7,74.7,53.3,44.8,74.5,43.1
+"771","Anas_acuta",FALSE,"YIO","60822","M",FALSE,FALSE,"?",24.5,NA,NA,NA,47.4,NA,NA
+"772","Anas_acuta",FALSE,"YIO","62811","M",FALSE,FALSE,"Saitama, Japan",22.9,NA,NA,NA,45.9,NA,NA
+"773","Anas_acuta",FALSE,"YIO","63177","M",FALSE,FALSE,"Chichijima Island, Japan",20.6,NA,NA,NA,43.8,NA,NA
+"774","Anas_acuta",FALSE,"YIO","63965","M",FALSE,FALSE,"Saitama, Japan",23.6,NA,NA,NA,47.2,NA,NA
+"775","Anas_eatoni",FALSE,"MNHN","1979-192","U",FALSE,FALSE,"Kerguelen",17.8,70.2,62.3,42.3,37.6,61.7,33.5
+"776","Anas_crecca",FALSE,"EP","2","M",FALSE,FALSE,"Ibaraki, Japan",NA,59.3,51.3,NA,NA,NA,NA
+"777","Anas_crecca",FALSE,"EP","226","U",FALSE,FALSE,"Shinji Lake, Japan",NA,57.5,49.2,36.1,31.5,52.9,28.7
+"778","Anas_crecca",FALSE,"EP","258","M",FALSE,FALSE,"Shinji Lake, Japan",NA,59.3,51.4,37.5,32.7,55.3,31.3
+"779","Anas_crecca",FALSE,"EP","7","M",FALSE,FALSE,"",16.7,58.4,49.7,36,32.7,55,29
+"780","Anas_crecca",FALSE,"YIO","60813","F",FALSE,FALSE,"Tokyo, Japan",15.7,NA,NA,NA,38.7,NA,NA
+"781","Anas_crecca",FALSE,"YIO","60814","M",FALSE,FALSE,"Saitama, Japan",17.7,NA,NA,NA,NA,NA,NA
+"782","Anas_crecca",FALSE,"YIO","60815","F",FALSE,FALSE,"Tokyo, Japan",15.9,NA,NA,NA,NA,NA,NA
+"783","Anas_crecca",FALSE,"YIO","60816","F",FALSE,FALSE,"Tokyo, Japan",17.3,NA,NA,NA,NA,NA,NA
+"784","Anas_crecca",FALSE,"YIO","60817","M",FALSE,FALSE,"Shizuoka, Japan",16.7,NA,NA,NA,NA,NA,NA
+"785","Anas_crecca",FALSE,"YIO","62387","F",FALSE,FALSE,"Tokyo, Japan",15.8,57.7,NA,36.5,32.1,53.9,29.8
+"786","Anas_crecca",FALSE,"YIO","63351","M",FALSE,FALSE,"Kanagawa, japan",17.2,59.8,52.8,38,32.9,27.8,31.6
+"787","Anas_crecca",FALSE,"YIO","64005","F",FALSE,FALSE,"Minamidaitojima Island, Japan",NA,NA,NA,NA,31.9,NA,NA

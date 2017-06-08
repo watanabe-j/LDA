@@ -1,0 +1,204 @@
+##################################################
+## Reading functions and data
+##################################################
+source("functions.R", encoding = "UTF-8")
+
+MAN <- read.table("MAN.csv", header = TRUE, sep = ",")
+GR <- read.table("GR.csv", header = TRUE, sep = ",")
+GR$x <- factor(GR$x, levels = c("Volant", "Flightless"))    # Just for ordering
+FAN <- read.table("FAN.csv", header = TRUE, sep = ",")
+
+MANI <- read.table("MANI.csv", header = TRUE, sep = ",")
+FANI <- read.table("FANI.csv", header = TRUE, sep = ",")
+
+MAN.A <- na.omit(MAN)    # Complete cases only, for LDA
+GR.A <- GR[-na.action(na.omit(MAN)), ]
+
+# MANN <- read.table("MANN.csv", header = TRUE, sep = ",")
+FANN <- read.table("FANN.csv", header = TRUE, sep = ",")
+
+
+##################################################
+## Examples of analyses
+##################################################
+
+# Full model
+ld.1111111 <- lda.c(log(MAN.A), GR.A)
+
+# See some information
+ld.1111111
+
+# Leave-one-out cross validation
+(cv.1111111 <- lda.c(log(MAN.A), GR.A, CV = TRUE)$CV)
+
+
+# Classification of training sample
+predict(ld.1111111)
+
+# Classification of test sample
+predict(ld.1111111, newdata = log(FAN))
+
+
+# Reduced model (e.g., ~ HUM + ULN + CMC + FEM)
+# Specify subsets of variables (argument sub)
+ld.0111100 <- lda.c(log(MAN.A), GR.A, sub = 2:5)
+predict(ld.0111100, newdata = log(FAN))
+
+
+# Size-corrected model
+# Specify subsets of PCs (argument spc), along with variables
+ld.pc.0111100 <- lda.pc(log(MAN.A), GR.A, sub = 2:5, spc = -1)
+
+# See some information. Compare with ordinary model.
+ld.pc.0111100
+
+
+# Error rate estimations with various methods (for a reduced model)
+Errors(log(MAN.A), GR.A, sub = 2:5, B = 100, bcv = TRUE, fixed = TRUE)
+
+# With size-corrected model (by default the function omits PC1)
+Errors.pc(log(MAN.A),GR.A, sub = 2:5, B = 100, bcv = TRUE, fixed = TRUE)
+
+
+# 95% and 99% bootstrap confidence intervals of coefficients
+(Coef.Boot.0111100 <- Coef.B(log(MAN.A), GR.A, sub = 2:5, B = 1000, fixed = TRUE))
+(Coef.Boot.pc.0111100 <- Coef.pc.B(log(MAN.A), GR.A, sub = 2:5, B = 1000, fixed = TRUE))
+
+
+##################################################
+## Variable selection / model comparison
+##################################################
+
+## Compare all possible models with AIC
+(A.AIC <- all.aic(log(MAN.A), GR.A))
+
+# Display results sorted with HAIC
+print(A.AIC, method = "HAIC")
+
+# You may consider exporting the results for detailed examination.
+write.table(A.AIC$ans, file = "A.AIC.csv", sep = ",")
+
+# Note the results also include models with only one variable,
+# which were not mentioned in the paper.
+# You may consider to exclude them before calculating model weights.
+A.AIC$ans <- A.AIC$ans[rowSums(A.AIC$ans[, (ncol(A.AIC$ans) - 6):ncol(A.AIC$ans)]) > 1, ]
+
+
+# Function to obtain variable weights from deltaAIC
+DtoW <- function(x) {
+    y <- exp(-0.5 * x)
+    return(y / sum(y))
+}
+
+# Model weights
+A.AICw <- with(A.AIC$ans, data.frame(AICw = DtoW(deltaAIC), BICw = DtoW(deltaBIC), MAICw = DtoW(deltaMAIC), HAICw = DtoW(deltaHAIC), A.AIC$ans[,(ncol(A.AIC$ans) - 6):ncol(A.AIC$ans)]))
+
+
+# Note: As on the current version,
+# AICs cannot be evaluated for size-corrected models.
+# This is because I'm not aware of a method to enumerate parameter numbers.
+# (There should be one.)
+
+
+# Comparing error rates among models
+# MAY TAKE SEVERAL DAYS when B = 10000 and bcv = TRUE, depending on environment
+# (B = 10000 might be too excessive)
+(A.ERR <- all.aic(log(MAN.A), GR.A, CV = TRUE, B = 10000, bcv = TRUE, fixed = TRUE, save = TRUE, filename = "Temp_A.AIC"))
+
+
+# Obtain classification results under all models
+# Results are generally too large to display, hence better to be exported
+A.CLASS <- all.class(log(MAN.A), GR.A, CV = TRUE)
+write.table(A.CLASS$ans, "A.CLASS.csv", sep=",")
+A.CLASS.F <- all.class(log(MAN.A), GR.A, newdata = log(FAN))
+write.table(A.CLASS.F$ans, "A.CLASS.F.csv", sep=",")
+
+
+# It is also possible to obtain a list of coefficients
+# along with their confidence intervals for all models, 
+# although these might be of little interest.
+(A.COEF <- all.coef(log(MAN.A), GR.A, B = 1000, fixed=TRUE))
+(A.COEF.PC <- all.coef.pc(log(MAN.A), GR.A, B = 1000, fixed=TRUE))
+
+
+
+#############################################################
+# Resampling experiment
+#############################################################
+
+# Specify how many cases to be resampled: choose one of the below
+# Most conservative (simulating one for each)
+Ns <- rep(1, 7)
+
+# Specific cases for each species
+Ns <- unlist(FANN["Anas_chathamica", ])
+#Ns <- unlist(FANN["Anas_marecula", ])
+#Ns <- unlist(FANN["Chendytes_milleri", ])
+#Ns <- unlist(FANN["Cayaoa_bruneti", ])
+#Ns <- unlist(FANN["Chendytes_lawi", ])
+#Ns <- unlist(FANN["Shiriyanetta_hasegawai", ])
+#Ns <- unlist(FANN["Mergus_milleneri", ])
+#Ns <- unlist(FANN["Cnemiornis_gracilis", ])
+#Ns <- c(0, 30, 30, 7, 30, 30, 30)
+# The last is for Chenonetta finschi with data from Worthy (1988)
+
+
+# Function used for resampling
+Resample <- function(data, vars, label, name, b = 100) {
+    p <- length(vars)
+    ans <- data.frame(matrix(rep(0, p * b), ncol = p))
+    colnames(ans) <- vars
+    for(i in 1:p){
+        Di <- na.omit(subset(data[, vars[i]], data[, label] == name))
+        Ni <- ifelse(length(Di) == 0, 0, Ns[i])
+        N <- sample(1:length(Di), Ni * B, replace = TRUE)
+        ans[, i]  <- rowMeans(matrix(Di[N], ncol = Ni, byrow = TRUE))
+    }
+    return(ans)
+}
+
+
+# Define number of resampling and variable names
+B <- 10000
+Vars <- c("CAR", "HUM", "ULN", "CMC", "FEM", "TIB", "TMT")
+
+
+## 10 species that were used for resampling in the paper
+B.A.alb <- Resample(data = MANI, vars = Vars, label = "SPL", "Anser_albifrons", b = B)
+B.A.ros <- Resample(data = MANI, vars = Vars, label = "SPL", "Anser_rossii", b = B)
+B.C.col <- Resample(data = MANI, vars = Vars, label = "SPL", "Cygnus_columbianus", b = B)
+B.B.san <- Resample(data = MANI, vars = Vars, label = "SPL", "Branta_sandvicensis", b = B)
+B.A.mar <- Resample(data = MANI, vars = Vars, label = "SPL", "Aythya_marila", b = B)
+B.N.ruf <- Resample(data = MANI, vars = Vars, label = "SPL", "Netta_rufina", b = B)
+B.M.deg <- Resample(data = MANI, vars = Vars, label = "SPL", "Melanitta_deglandi", b = B)
+B.M.mer <- Resample(data = MANI, vars = Vars, label = "SPL", "Mergus_merganser", b = B)
+B.B.lob <- Resample(data = MANI, vars = Vars, label = "SPL", "Biziura_lobata", b = B)
+B.T.pat <- Resample(data = MANI, vars = Vars, label = "SPL", "Tachyeres_patachonicus", b = B)
+B.T.pte <- Resample(data = MANI, vars = Vars, label = "SPL", "Tachyeres_pteneres", b = B)
+B.T.bra <- Resample(data = MANI, vars = Vars, label = "SPL", "Tachyeres_brachypterus", b = B)
+
+# Put in a list for convenience
+Blist <- list(C.columbianus = B.C.col, A.albifrons = B.A.alb, A.rossii = B.A.ros, B.sandvicensis = B.B.san, N.rufina = B.N.ruf, A.marila = B.A.mar, M.deglandi = B.M.deg, M.merganser = B.M.mer, B.lobata = B.B.lob, T.patachonicus = B.T.pat, T.brachypterus = B.T.bra, T.pteneres = B.T.pte)
+
+
+# You may simply examine resultant distributions
+sapply(Blist, function(x) mean(predict(ld.0111100, newdata = log(x))$score))
+sapply(Blist, function(x) range(predict(ld.0111100, newdata = log(x))$score))
+
+# Scaled standard deviations of scores, given in Table 9 of the paper.
+# Note values may not be exactly identical to them (due to randomness).
+sapply(Blist, function(x) sd(predict(ld.1111111, newdata = log(x))$score)) / sd(unlist(by(predict(ld.1111111)$score, GR.A, scale, scale=FALSE)))
+sapply(Blist, function(x) sd(predict(ld.0111100, newdata = log(x))$score)) / sd(unlist(by(predict(ld.0111100)$score, GR.A, scale, scale=FALSE)))
+
+# Example of graph code
+boxplot(sapply(Blist, function(x) predict(ld.0111100, newdata = log(x))$score)[,12:1], horizontal = TRUE, col = rep.int(c("gray50", "white"), c(2, 10)), pch=20, cex = 0.5, axes = FALSE, ylim=c(-40, 55))
+axis(1, labels = FALSE, at = seq(-60, 60, 10))
+axis(1, tick = FALSE, line = -0.5, at = seq(-50, 40, 10))
+mtext("Discriminant score", 1, 1.5, font=2)
+abline(v = 0, lty=5, col="gray")
+text((sapply(Blist, function(x) max(predict(ld.0111100, newdata = log(x))$score))[12:1]), 1:12, c("Ta. pt.", "Ta. b.", "Ta. pa.", "Bi. l.", "Mr. m.", "Ml. d.", "Ay. m.", "Ne. r.", "Br. s.", "As. r.", "As. a.", "Cy. c."), pos=4, font=4)
+points(predict(ld.0111100, newdata=log(MANI[MANI$SPL %in% c("Tachyeres_pteneres", "Tachyeres_brachypterus", "Tachyeres_patachonicus", "Biziura_lobata", "Mergus_merganser", "Melanitta_deglandi", "Netta_rufina", "Aythya_marila", "Branta_sandvicensis", "Anser_rossii", "Anser_albifrons", "Cygnus_columbianus"), Vars]))$score, c(11,10,7,4,9,12,6,5,8,2,3,1)[factor(MANI[MANI$SPL %in% c("Tachyeres_pteneres", "Tachyeres_brachypterus", "Tachyeres_patachonicus", "Biziura_lobata", "Mergus_merganser", "Melanitta_deglandi", "Netta_rufina", "Aythya_marila", "Branta_sandvicensis", "Anser_rossii", "Anser_albifrons", "Cygnus_columbianus"), "SPL"])] - 0.1, pch=20, col="gray")
+i <- 5
+xf <- predict(ld.0111100, newdata = log(FAN[c("Anas_chathamica"), ]))$score
+sapply(sort(xf), function(x) {lines(rep(x, 2), c(i, 0), lwd = 0.8); points(x, i, pch = 15); i <<- i + 1})
+text(sort(xf), seq(length(xf)) + 4, c("An. c.")[order(xf)], pos = 3, font = 4)
